@@ -11,5 +11,5 @@ kickoff_clash_df.to_csv("kickoff_clash_2022.csv", index=False)
 midseason_madness_df.to_csv("midseason_madness_2022.csv", index=False)
 summer_showdown_df.to_csv("summer_showdown_2022.csv", index=False)
 countdown_cup_df.to_csv("countdown_cup_2022.csv", index=False)
-grand_finals_df.to_csv("grand_fnals_2022.csv", index=False)
+grand_finals_df.to_csv("grand_finals_2022.csv", index=False)
 
