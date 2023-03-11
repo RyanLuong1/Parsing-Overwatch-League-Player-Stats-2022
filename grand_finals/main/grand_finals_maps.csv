@@ -1,0 +1,1410 @@
+,esports_match_id,map_name,map_type,player_name,team_name,hero_name
+5,39391,Busan,control,Daizi,Chengdu Hunters,Zarya
+39,39391,Busan,control,Jinmu,Chengdu Hunters,Genji
+55,39391,Busan,control,Jinmu,Chengdu Hunters,Symmetra
+61,39391,Busan,control,Jinmu,Chengdu Hunters,Tracer
+94,39391,Busan,control,Leave,Chengdu Hunters,Sojourn
+129,39391,Busan,control,Mmonk,Chengdu Hunters,Baptiste
+167,39391,Busan,control,Nisha,Chengdu Hunters,Lucio
+206,39391,Busan,control,ChoiSehwan,Guangzhou Charge,Genji
+240,39391,Busan,control,Farway1987,Guangzhou Charge,Baptiste
+279,39391,Busan,control,Jimmy,Guangzhou Charge,Sojourn
+308,39391,Busan,control,Jimmy,Guangzhou Charge,Symmetra
+326,39391,Busan,control,Piggy,Guangzhou Charge,Zarya
+366,39391,Busan,control,Xerneas,Guangzhou Charge,Lucio
+396,39391,King's Row,hybrid,Daizi,Chengdu Hunters,Zarya
+439,39391,King's Row,hybrid,Jinmu,Chengdu Hunters,Genji
+461,39391,King's Row,hybrid,Jinmu,Chengdu Hunters,Tracer
+494,39391,King's Row,hybrid,Leave,Chengdu Hunters,Sojourn
+533,39391,King's Row,hybrid,Mmonk,Chengdu Hunters,Ana
+555,39391,King's Row,hybrid,Mmonk,Chengdu Hunters,Baptiste
+599,39391,King's Row,hybrid,Nisha,Chengdu Hunters,Brigitte
+612,39391,King's Row,hybrid,Nisha,Chengdu Hunters,Lucio
+646,39391,King's Row,hybrid,Nisha,Chengdu Hunters,Zenyatta
+680,39391,King's Row,hybrid,ChoiSehwan,Guangzhou Charge,Genji
+699,39391,King's Row,hybrid,ChoiSehwan,Guangzhou Charge,Tracer
+722,39391,King's Row,hybrid,Farway1987,Guangzhou Charge,Baptiste
+760,39391,King's Row,hybrid,Jimmy,Guangzhou Charge,Sojourn
+802,39391,King's Row,hybrid,Piggy,Guangzhou Charge,Zarya
+834,39391,King's Row,hybrid,Xerneas,Guangzhou Charge,Lucio
+874,39391,Dorado,payload,GA9A,Chengdu Hunters,Winston
+917,39391,Dorado,payload,Jinmu,Chengdu Hunters,Bastion
+921,39391,Dorado,payload,Jinmu,Chengdu Hunters,Sombra
+953,39391,Dorado,payload,Leave,Chengdu Hunters,Tracer
+994,39391,Dorado,payload,Mmonk,Chengdu Hunters,Ana
+1037,39391,Dorado,payload,Nisha,Chengdu Hunters,Brigitte
+1070,39391,Dorado,payload,ChoiSehwan,Guangzhou Charge,Tracer
+1102,39391,Dorado,payload,Farway1987,Guangzhou Charge,Ana
+1143,39391,Dorado,payload,Jimmy,Guangzhou Charge,Sombra
+1158,39391,Dorado,payload,Jimmy,Guangzhou Charge,Widowmaker
+1180,39391,Dorado,payload,Piggy,Guangzhou Charge,D.Va
+1196,39391,Dorado,payload,Piggy,Guangzhou Charge,Winston
+1225,39391,Dorado,payload,Xerneas,Guangzhou Charge,Brigitte
+1242,39391,Dorado,payload,Xerneas,Guangzhou Charge,Lucio
+1267,39391,Dorado,payload,Xerneas,Guangzhou Charge,Zenyatta
+1300,39391,New Queen Street,push,GA9A,Chengdu Hunters,Winston
+1349,39391,New Queen Street,push,Jinmu,Chengdu Hunters,Sombra
+1377,39391,New Queen Street,push,Leave,Chengdu Hunters,Sojourn
+1398,39391,New Queen Street,push,Leave,Chengdu Hunters,Tracer
+1427,39391,New Queen Street,push,Mmonk,Chengdu Hunters,Ana
+1468,39391,New Queen Street,push,Nisha,Chengdu Hunters,Brigitte
+1496,39391,New Queen Street,push,ChoiSehwan,Guangzhou Charge,Genji
+1519,39391,New Queen Street,push,ChoiSehwan,Guangzhou Charge,Tracer
+1551,39391,New Queen Street,push,Farway1987,Guangzhou Charge,Ana
+1586,39391,New Queen Street,push,Jimmy,Guangzhou Charge,Sojourn
+1605,39391,New Queen Street,push,Jimmy,Guangzhou Charge,Sombra
+1639,39391,New Queen Street,push,Piggy,Guangzhou Charge,D.Va
+1645,39391,New Queen Street,push,Piggy,Guangzhou Charge,Zarya
+1685,39391,New Queen Street,push,Xerneas,Guangzhou Charge,Lucio
+1723,39391,Oasis,control,GA9A,Chengdu Hunters,Winston
+1757,39391,Oasis,control,Jinmu,Chengdu Hunters,Genji
+1778,39391,Oasis,control,Jinmu,Chengdu Hunters,Sombra
+1805,39391,Oasis,control,Leave,Chengdu Hunters,Sojourn
+1828,39391,Oasis,control,Leave,Chengdu Hunters,Symmetra
+1836,39391,Oasis,control,Leave,Chengdu Hunters,Tracer
+1870,39391,Oasis,control,Mmonk,Chengdu Hunters,Ana
+1909,39391,Oasis,control,Nisha,Chengdu Hunters,Brigitte
+1932,39391,Oasis,control,Nisha,Chengdu Hunters,Lucio
+1970,39391,Oasis,control,ChoiSehwan,Guangzhou Charge,Genji
+1994,39391,Oasis,control,ChoiSehwan,Guangzhou Charge,Symmetra
+1999,39391,Oasis,control,ChoiSehwan,Guangzhou Charge,Tracer
+2035,39391,Oasis,control,Farway1987,Guangzhou Charge,Ana
+2077,39391,Oasis,control,Jimmy,Guangzhou Charge,Sojourn
+2085,39391,Oasis,control,Jimmy,Guangzhou Charge,Sombra
+2114,39391,Oasis,control,Piggy,Guangzhou Charge,Winston
+2129,39391,Oasis,control,Piggy,Guangzhou Charge,Zarya
+2166,39391,Oasis,control,Xerneas,Guangzhou Charge,Lucio
+2209,39392,Oasis,control,GA9A,Chengdu Hunters,Winston
+2250,39392,Oasis,control,Jinmu,Chengdu Hunters,Genji
+2270,39392,Oasis,control,Jinmu,Chengdu Hunters,Sombra
+2302,39392,Oasis,control,Leave,Chengdu Hunters,Sojourn
+2321,39392,Oasis,control,Leave,Chengdu Hunters,Symmetra
+2327,39392,Oasis,control,Leave,Chengdu Hunters,Tracer
+2365,39392,Oasis,control,Mmonk,Chengdu Hunters,Ana
+2400,39392,Oasis,control,Nisha,Chengdu Hunters,Brigitte
+2421,39392,Oasis,control,Nisha,Chengdu Hunters,Lucio
+2459,39392,Oasis,control,BERNAR,Hangzhou Spark,Zarya
+2499,39392,Oasis,control,Pineapple,Hangzhou Spark,Symmetra
+2504,39392,Oasis,control,Pineapple,Hangzhou Spark,Tracer
+2541,39392,Oasis,control,Superich,Hangzhou Spark,Lucio
+2578,39392,Oasis,control,Teru,Hangzhou Spark,Baptiste
+2604,39392,Oasis,control,Teru,Hangzhou Spark,Brigitte
+2624,39392,Oasis,control,Teru,Hangzhou Spark,Moira
+2642,39392,Oasis,control,shy,Hangzhou Spark,Sojourn
+2682,39392,Paraíso,hybrid,GA9A,Chengdu Hunters,Doomfist
+2686,39392,Paraíso,hybrid,GA9A,Chengdu Hunters,Winston
+2732,39392,Paraíso,hybrid,Jinmu,Chengdu Hunters,Genji
+2759,39392,Paraíso,hybrid,Jinmu,Chengdu Hunters,Tracer
+2788,39392,Paraíso,hybrid,Leave,Chengdu Hunters,Sojourn
+2826,39392,Paraíso,hybrid,Mmonk,Chengdu Hunters,Ana
+2862,39392,Paraíso,hybrid,Nisha,Chengdu Hunters,Brigitte
+2889,39392,Paraíso,hybrid,Guxue,Hangzhou Spark,Winston
+2928,39392,Paraíso,hybrid,Pineapple,Hangzhou Spark,Tracer
+2946,39392,Paraíso,hybrid,Pineapple,Hangzhou Spark,Widowmaker
+2967,39392,Paraíso,hybrid,Superich,Hangzhou Spark,Brigitte
+2998,39392,Paraíso,hybrid,Teru,Hangzhou Spark,Ana
+3044,39392,Paraíso,hybrid,shy,Hangzhou Spark,Sojourn
+3085,39392,Dorado,payload,GA9A,Chengdu Hunters,Doomfist
+3100,39392,Dorado,payload,GA9A,Chengdu Hunters,Winston
+3138,39392,Dorado,payload,Jinmu,Chengdu Hunters,Sombra
+3165,39392,Dorado,payload,Leave,Chengdu Hunters,Tracer
+3203,39392,Dorado,payload,Mmonk,Chengdu Hunters,Ana
+3240,39392,Dorado,payload,Nisha,Chengdu Hunters,Brigitte
+3273,39392,Dorado,payload,Guxue,Hangzhou Spark,Winston
+3319,39392,Dorado,payload,Pineapple,Hangzhou Spark,Tracer
+3347,39392,Dorado,payload,Pineapple,Hangzhou Spark,Widowmaker
+3370,39392,Dorado,payload,Superich,Hangzhou Spark,Brigitte
+3401,39392,Dorado,payload,Teru,Hangzhou Spark,Ana
+3449,39392,Dorado,payload,shy,Hangzhou Spark,Sojourn
+3484,39381,Busan,control,Crimzo,Boston Uprising,Baptiste
+3515,39381,Busan,control,Faith,Boston Uprising,Lucio
+3550,39381,Busan,control,Seeker,Boston Uprising,Sojourn
+3580,39381,Busan,control,Victoria,Boston Uprising,Genji
+3607,39381,Busan,control,punk,Boston Uprising,Doomfist
+3616,39381,Busan,control,punk,Boston Uprising,Zarya
+3644,39381,Busan,control,Anamo,Florida Mayhem,Lucio
+3675,39381,Busan,control,Checkmate,Florida Mayhem,Genji
+3711,39381,Busan,control,Hydron,Florida Mayhem,Sojourn
+3756,39381,Busan,control,Rupal,Florida Mayhem,Baptiste
+3793,39381,Busan,control,Someone,Florida Mayhem,Zarya
+3828,39381,Eichenwalde,hybrid,Crimzo,Boston Uprising,Baptiste
+3866,39381,Eichenwalde,hybrid,Faith,Boston Uprising,Lucio
+3912,39381,Eichenwalde,hybrid,Seeker,Boston Uprising,Sojourn
+3949,39381,Eichenwalde,hybrid,Victoria,Boston Uprising,Genji
+3984,39381,Eichenwalde,hybrid,punk,Boston Uprising,Doomfist
+3991,39381,Eichenwalde,hybrid,punk,Boston Uprising,Zarya
+4028,39381,Eichenwalde,hybrid,Anamo,Florida Mayhem,Lucio
+4069,39381,Eichenwalde,hybrid,Checkmate,Florida Mayhem,Genji
+4104,39381,Eichenwalde,hybrid,Hydron,Florida Mayhem,Sojourn
+4135,39381,Eichenwalde,hybrid,Rupal,Florida Mayhem,Baptiste
+4177,39381,Eichenwalde,hybrid,Someone,Florida Mayhem,Zarya
+4211,39381,Circuit royal,payload,Crimzo,Boston Uprising,Baptiste
+4242,39381,Circuit royal,payload,Faith,Boston Uprising,Lucio
+4279,39381,Circuit royal,payload,Seeker,Boston Uprising,Junkrat
+4284,39381,Circuit royal,payload,Seeker,Boston Uprising,Sojourn
+4320,39381,Circuit royal,payload,Victoria,Boston Uprising,Genji
+4349,39381,Circuit royal,payload,punk,Boston Uprising,Doomfist
+4355,39381,Circuit royal,payload,punk,Boston Uprising,Zarya
+4386,39381,Circuit royal,payload,Anamo,Florida Mayhem,Lucio
+4431,39381,Circuit royal,payload,Checkmate,Florida Mayhem,Ashe
+4443,39381,Circuit royal,payload,Checkmate,Florida Mayhem,Genji
+4460,39381,Circuit royal,payload,Checkmate,Florida Mayhem,Symmetra
+4481,39381,Circuit royal,payload,Hydron,Florida Mayhem,Sojourn
+4517,39381,Circuit royal,payload,Rupal,Florida Mayhem,Baptiste
+4551,39381,Circuit royal,payload,Someone,Florida Mayhem,Zarya
+4591,39382,Ilios,control,CH0R0NG,Toronto Defiant,Lucio
+4627,39382,Ilios,control,Finale,Toronto Defiant,Genji
+4663,39382,Ilios,control,HOTBA,Toronto Defiant,Zarya
+4700,39382,Ilios,control,Heesu,Toronto Defiant,Sojourn
+4724,39382,Ilios,control,Heesu,Toronto Defiant,Widowmaker
+4752,39382,Ilios,control,Twilight,Toronto Defiant,Baptiste
+4789,39382,Ilios,control,Assassin,Washington Justice,Genji
+4823,39382,Ilios,control,Decay,Washington Justice,Sojourn
+4855,39382,Ilios,control,Kalios,Washington Justice,Zarya
+4885,39382,Ilios,control,Krillin,Washington Justice,Baptiste
+4929,39382,Ilios,control,OPENER,Washington Justice,Lucio
+4968,39382,Paraíso,hybrid,CH0R0NG,Toronto Defiant,Lucio
+4997,39382,Paraíso,hybrid,CH0R0NG,Toronto Defiant,Moira
+5011,39382,Paraíso,hybrid,Finale,Toronto Defiant,Genji
+5036,39382,Paraíso,hybrid,Finale,Toronto Defiant,Hanzo
+5042,39382,Paraíso,hybrid,Finale,Toronto Defiant,Widowmaker
+5062,39382,Paraíso,hybrid,HOTBA,Toronto Defiant,Zarya
+5100,39382,Paraíso,hybrid,Heesu,Toronto Defiant,Sojourn
+5124,39382,Paraíso,hybrid,Heesu,Toronto Defiant,Widowmaker
+5144,39382,Paraíso,hybrid,Twilight,Toronto Defiant,Ana
+5169,39382,Paraíso,hybrid,Twilight,Toronto Defiant,Baptiste
+5209,39382,Paraíso,hybrid,Assassin,Washington Justice,Genji
+5232,39382,Paraíso,hybrid,Assassin,Washington Justice,Mei
+5241,39382,Paraíso,hybrid,Assassin,Washington Justice,Sombra
+5267,39382,Paraíso,hybrid,Decay,Washington Justice,Sojourn
+5287,39382,Paraíso,hybrid,Decay,Washington Justice,Tracer
+5313,39382,Paraíso,hybrid,Kalios,Washington Justice,D.Va
+5328,39382,Paraíso,hybrid,Kalios,Washington Justice,Zarya
+5365,39382,Paraíso,hybrid,Krillin,Washington Justice,Baptiste
+5385,39382,Paraíso,hybrid,Krillin,Washington Justice,Zenyatta
+5421,39382,Paraíso,hybrid,OPENER,Washington Justice,Ana
+5445,39382,Paraíso,hybrid,OPENER,Washington Justice,Brigitte
+5447,39382,Paraíso,hybrid,OPENER,Washington Justice,Lucio
+5493,39382,Dorado,payload,CH0R0NG,Toronto Defiant,Brigitte
+5507,39382,Dorado,payload,CH0R0NG,Toronto Defiant,Lucio
+5540,39382,Dorado,payload,Finale,Toronto Defiant,Genji
+5556,39382,Dorado,payload,Finale,Toronto Defiant,Symmetra
+5563,39382,Dorado,payload,Finale,Toronto Defiant,Tracer
+5601,39382,Dorado,payload,HOTBA,Toronto Defiant,D.Va
+5625,39382,Dorado,payload,HOTBA,Toronto Defiant,Zarya
+5665,39382,Dorado,payload,Heesu,Toronto Defiant,Sojourn
+5708,39382,Dorado,payload,Twilight,Toronto Defiant,Ana
+5735,39382,Dorado,payload,Twilight,Toronto Defiant,Baptiste
+5764,39382,Dorado,payload,Twilight,Toronto Defiant,Lucio
+5777,39382,Dorado,payload,Twilight,Toronto Defiant,Zenyatta
+5820,39382,Dorado,payload,Assassin,Washington Justice,Sombra
+5854,39382,Dorado,payload,Decay,Washington Justice,Symmetra
+5862,39382,Dorado,payload,Decay,Washington Justice,Tracer
+5899,39382,Dorado,payload,Kalios,Washington Justice,D.Va
+5934,39382,Dorado,payload,Krillin,Washington Justice,Baptiste
+5940,39382,Dorado,payload,Krillin,Washington Justice,Zenyatta
+5979,39382,Dorado,payload,OPENER,Washington Justice,Ana
+6012,39382,Dorado,payload,OPENER,Washington Justice,Lucio
+6043,39383,Oasis,control,Anamo,Florida Mayhem,Lucio
+6086,39383,Oasis,control,Checkmate,Florida Mayhem,Mei
+6101,39383,Oasis,control,Checkmate,Florida Mayhem,Sombra
+6128,39383,Oasis,control,Hydron,Florida Mayhem,Sojourn
+6149,39383,Oasis,control,Hydron,Florida Mayhem,Symmetra
+6154,39383,Oasis,control,Hydron,Florida Mayhem,Tracer
+6190,39383,Oasis,control,Rupal,Florida Mayhem,Ana
+6217,39383,Oasis,control,Rupal,Florida Mayhem,Baptiste
+6260,39383,Oasis,control,Someone,Florida Mayhem,Reinhardt
+6282,39383,Oasis,control,Someone,Florida Mayhem,Winston
+6321,39383,Oasis,control,CH0R0NG,Toronto Defiant,Lucio
+6358,39383,Oasis,control,Finale,Toronto Defiant,Genji
+6377,39383,Oasis,control,Finale,Toronto Defiant,Symmetra
+6384,39383,Oasis,control,Finale,Toronto Defiant,Tracer
+6416,39383,Oasis,control,HOTBA,Toronto Defiant,Zarya
+6451,39383,Oasis,control,Heesu,Toronto Defiant,Sojourn
+6475,39383,Oasis,control,Heesu,Toronto Defiant,Sombra
+6509,39383,Oasis,control,Twilight,Toronto Defiant,Ana
+6539,39383,Oasis,control,Twilight,Toronto Defiant,Baptiste
+6576,39383,Eichenwalde,hybrid,Anamo,Florida Mayhem,Lucio
+6615,39383,Eichenwalde,hybrid,Checkmate,Florida Mayhem,Genji
+6660,39383,Eichenwalde,hybrid,Hydron,Florida Mayhem,Sojourn
+6700,39383,Eichenwalde,hybrid,Rupal,Florida Mayhem,Baptiste
+6737,39383,Eichenwalde,hybrid,Someone,Florida Mayhem,Zarya
+6773,39383,Eichenwalde,hybrid,CH0R0NG,Toronto Defiant,Lucio
+6808,39383,Eichenwalde,hybrid,Finale,Toronto Defiant,Genji
+6832,39383,Eichenwalde,hybrid,Finale,Toronto Defiant,Tracer
+6865,39383,Eichenwalde,hybrid,HOTBA,Toronto Defiant,Zarya
+6909,39383,Eichenwalde,hybrid,Heesu,Toronto Defiant,Sojourn
+6940,39383,Eichenwalde,hybrid,Twilight,Toronto Defiant,Baptiste
+6982,39383,Circuit royal,payload,Anamo,Florida Mayhem,Lucio
+7022,39383,Circuit royal,payload,Checkmate,Florida Mayhem,Genji
+7058,39383,Circuit royal,payload,Hydron,Florida Mayhem,Sojourn
+7092,39383,Circuit royal,payload,Rupal,Florida Mayhem,Baptiste
+7129,39383,Circuit royal,payload,Someone,Florida Mayhem,Zarya
+7172,39383,Circuit royal,payload,CH0R0NG,Toronto Defiant,Lucio
+7210,39383,Circuit royal,payload,Finale,Toronto Defiant,Genji
+7231,39383,Circuit royal,payload,Finale,Toronto Defiant,Tracer
+7246,39383,Circuit royal,payload,Finale,Toronto Defiant,Widowmaker
+7267,39383,Circuit royal,payload,HOTBA,Toronto Defiant,Zarya
+7306,39383,Circuit royal,payload,Heesu,Toronto Defiant,Sojourn
+7340,39383,Circuit royal,payload,Twilight,Toronto Defiant,Ana
+7347,39383,Circuit royal,payload,Twilight,Toronto Defiant,Baptiste
+7380,39383,Colosseo,push,Anamo,Florida Mayhem,Lucio
+7414,39383,Colosseo,push,Checkmate,Florida Mayhem,Genji
+7449,39383,Colosseo,push,Hydron,Florida Mayhem,Sojourn
+7488,39383,Colosseo,push,Rupal,Florida Mayhem,Baptiste
+7524,39383,Colosseo,push,Someone,Florida Mayhem,Zarya
+7566,39383,Colosseo,push,CH0R0NG,Toronto Defiant,Lucio
+7608,39383,Colosseo,push,Finale,Toronto Defiant,Genji
+7643,39383,Colosseo,push,HOTBA,Toronto Defiant,Zarya
+7680,39383,Colosseo,push,Heesu,Toronto Defiant,Sojourn
+7726,39383,Colosseo,push,Twilight,Toronto Defiant,Baptiste
+7762,39385,Ilios,control,Crimzo,Boston Uprising,Baptiste
+7801,39385,Ilios,control,Faith,Boston Uprising,Lucio
+7841,39385,Ilios,control,Seeker,Boston Uprising,Sojourn
+7860,39385,Ilios,control,Seeker,Boston Uprising,Tracer
+7879,39385,Ilios,control,Victoria,Boston Uprising,Genji
+7918,39385,Ilios,control,punk,Boston Uprising,Doomfist
+7923,39385,Ilios,control,punk,Boston Uprising,Zarya
+7957,39385,Ilios,control,Assassin,Washington Justice,Genji
+7980,39385,Ilios,control,Assassin,Washington Justice,Sombra
+8013,39385,Ilios,control,Decay,Washington Justice,Sojourn
+8045,39385,Ilios,control,Decay,Washington Justice,Symmetra
+8050,39385,Ilios,control,Decay,Washington Justice,Tracer
+8082,39385,Ilios,control,Kalios,Washington Justice,D.Va
+8095,39385,Ilios,control,Kalios,Washington Justice,Doomfist
+8104,39385,Ilios,control,Kalios,Washington Justice,Zarya
+8139,39385,Ilios,control,Krillin,Washington Justice,Baptiste
+8173,39385,Ilios,control,Krillin,Washington Justice,Mercy
+8177,39385,Ilios,control,Krillin,Washington Justice,Zenyatta
+8208,39385,Ilios,control,OPENER,Washington Justice,Brigitte
+8224,39385,Ilios,control,OPENER,Washington Justice,Lucio
+8266,39385,King's Row,hybrid,Crimzo,Boston Uprising,Baptiste
+8304,39385,King's Row,hybrid,Faith,Boston Uprising,Lucio
+8349,39385,King's Row,hybrid,Seeker,Boston Uprising,Sojourn
+8374,39385,King's Row,hybrid,Seeker,Boston Uprising,Tracer
+8385,39385,King's Row,hybrid,Seeker,Boston Uprising,Widowmaker
+8399,39385,King's Row,hybrid,Victoria,Boston Uprising,Genji
+8429,39385,King's Row,hybrid,Victoria,Boston Uprising,Tracer
+8436,39385,King's Row,hybrid,Victoria,Boston Uprising,Widowmaker
+8451,39385,King's Row,hybrid,punk,Boston Uprising,Zarya
+8490,39385,King's Row,hybrid,Assassin,Washington Justice,Genji
+8509,39385,King's Row,hybrid,Assassin,Washington Justice,Sombra
+8535,39385,King's Row,hybrid,Decay,Washington Justice,Sojourn
+8557,39385,King's Row,hybrid,Decay,Washington Justice,Tracer
+8592,39385,King's Row,hybrid,Kalios,Washington Justice,Doomfist
+8596,39385,King's Row,hybrid,Kalios,Washington Justice,Zarya
+8630,39385,King's Row,hybrid,Krillin,Washington Justice,Baptiste
+8653,39385,King's Row,hybrid,Krillin,Washington Justice,Zenyatta
+8690,39385,King's Row,hybrid,OPENER,Washington Justice,Ana
+8712,39385,King's Row,hybrid,OPENER,Washington Justice,Brigitte
+8714,39385,King's Row,hybrid,OPENER,Washington Justice,Lucio
+8756,39385,Circuit royal,payload,Crimzo,Boston Uprising,Baptiste
+8800,39385,Circuit royal,payload,Faith,Boston Uprising,Lucio
+8843,39385,Circuit royal,payload,Seeker,Boston Uprising,Sojourn
+8876,39385,Circuit royal,payload,Seeker,Boston Uprising,Symmetra
+8883,39385,Circuit royal,payload,Seeker,Boston Uprising,Tracer
+8902,39385,Circuit royal,payload,Victoria,Boston Uprising,Genji
+8926,39385,Circuit royal,payload,Victoria,Boston Uprising,Tracer
+8950,39385,Circuit royal,payload,punk,Boston Uprising,Zarya
+8991,39385,Circuit royal,payload,Assassin,Washington Justice,Genji
+9023,39385,Circuit royal,payload,Decay,Washington Justice,Sojourn
+9062,39385,Circuit royal,payload,Kalios,Washington Justice,Zarya
+9101,39385,Circuit royal,payload,Krillin,Washington Justice,Baptiste
+9144,39385,Circuit royal,payload,OPENER,Washington Justice,Lucio
+9186,39384,Ilios,control,Crimzo,Boston Uprising,Baptiste
+9225,39384,Ilios,control,Faith,Boston Uprising,Lucio
+9265,39384,Ilios,control,Seeker,Boston Uprising,Sojourn
+9298,39384,Ilios,control,Victoria,Boston Uprising,Genji
+9330,39384,Ilios,control,punk,Boston Uprising,Zarya
+9366,39384,Ilios,control,CH0R0NG,Toronto Defiant,Lucio
+9401,39384,Ilios,control,Finale,Toronto Defiant,Genji
+9441,39384,Ilios,control,HOTBA,Toronto Defiant,Zarya
+9473,39384,Ilios,control,Heesu,Toronto Defiant,Sojourn
+9501,39384,Ilios,control,Twilight,Toronto Defiant,Baptiste
+9536,39384,Eichenwalde,hybrid,Crimzo,Boston Uprising,Ana
+9539,39384,Eichenwalde,hybrid,Crimzo,Boston Uprising,Baptiste
+9571,39384,Eichenwalde,hybrid,Faith,Boston Uprising,Lucio
+9609,39384,Eichenwalde,hybrid,Seeker,Boston Uprising,Sojourn
+9626,39384,Eichenwalde,hybrid,Seeker,Boston Uprising,Tracer
+9638,39384,Eichenwalde,hybrid,Seeker,Boston Uprising,Widowmaker
+9648,39384,Eichenwalde,hybrid,Victoria,Boston Uprising,Genji
+9685,39384,Eichenwalde,hybrid,punk,Boston Uprising,Zarya
+9717,39384,Eichenwalde,hybrid,CH0R0NG,Toronto Defiant,Lucio
+9749,39384,Eichenwalde,hybrid,Finale,Toronto Defiant,Genji
+9782,39384,Eichenwalde,hybrid,HOTBA,Toronto Defiant,Zarya
+9812,39384,Eichenwalde,hybrid,Heesu,Toronto Defiant,Sojourn
+9852,39384,Eichenwalde,hybrid,Twilight,Toronto Defiant,Ana
+9863,39384,Eichenwalde,hybrid,Twilight,Toronto Defiant,Baptiste
+9903,39384,Circuit royal,payload,Crimzo,Boston Uprising,Ana
+9923,39384,Circuit royal,payload,Crimzo,Boston Uprising,Baptiste
+9970,39384,Circuit royal,payload,Faith,Boston Uprising,Lucio
+10006,39384,Circuit royal,payload,Seeker,Boston Uprising,Sojourn
+10029,39384,Circuit royal,payload,Seeker,Boston Uprising,Tracer
+10056,39384,Circuit royal,payload,Victoria,Boston Uprising,Genji
+10075,39384,Circuit royal,payload,Victoria,Boston Uprising,Sojourn
+10084,39384,Circuit royal,payload,Victoria,Boston Uprising,Tracer
+10105,39384,Circuit royal,payload,punk,Boston Uprising,Doomfist
+10117,39384,Circuit royal,payload,punk,Boston Uprising,Zarya
+10152,39384,Circuit royal,payload,CH0R0NG,Toronto Defiant,Lucio
+10192,39384,Circuit royal,payload,Finale,Toronto Defiant,Genji
+10215,39384,Circuit royal,payload,Finale,Toronto Defiant,Sombra
+10219,39384,Circuit royal,payload,Finale,Toronto Defiant,Tracer
+10244,39384,Circuit royal,payload,HOTBA,Toronto Defiant,Doomfist
+10251,39384,Circuit royal,payload,HOTBA,Toronto Defiant,Zarya
+10297,39384,Circuit royal,payload,Heesu,Toronto Defiant,Sojourn
+10336,39384,Circuit royal,payload,Twilight,Toronto Defiant,Ana
+10369,39384,Circuit royal,payload,Twilight,Toronto Defiant,Baptiste
+10406,39351,Lijiang Tower,control,Admiral,London Spitfire,Lucio
+10451,39351,Lijiang Tower,control,Backbone,London Spitfire,Reaper
+10481,39351,Lijiang Tower,control,Hadi,London Spitfire,Winston
+10520,39351,Lijiang Tower,control,Landon,London Spitfire,Kiriko
+10543,39351,Lijiang Tower,control,SparkR,London Spitfire,Sojourn
+10577,39351,Lijiang Tower,control,AimGod,Seoul Infernal,Kiriko
+10609,39351,Lijiang Tower,control,Belosrea,Seoul Infernal,Winston
+10643,39351,Lijiang Tower,control,FIXA,Seoul Infernal,Lucio
+10675,39351,Lijiang Tower,control,MN3,Seoul Infernal,Sojourn
+10705,39351,Lijiang Tower,control,carpe,Seoul Infernal,Reaper
+10728,39351,Lijiang Tower,control,carpe,Seoul Infernal,Symmetra
+10752,39351,Eichenwalde,hybrid,Admiral,London Spitfire,Lucio
+10795,39351,Eichenwalde,hybrid,Backbone,London Spitfire,Reaper
+10811,39351,Eichenwalde,hybrid,Backbone,London Spitfire,Widowmaker
+10841,39351,Eichenwalde,hybrid,Hadi,London Spitfire,Winston
+10883,39351,Eichenwalde,hybrid,Landon,London Spitfire,Kiriko
+10907,39351,Eichenwalde,hybrid,SparkR,London Spitfire,Sojourn
+10946,39351,Eichenwalde,hybrid,AimGod,Seoul Infernal,Kiriko
+10971,39351,Eichenwalde,hybrid,Belosrea,Seoul Infernal,Winston
+11010,39351,Eichenwalde,hybrid,FIXA,Seoul Infernal,Lucio
+11047,39351,Eichenwalde,hybrid,MN3,Seoul Infernal,Sojourn
+11084,39351,Eichenwalde,hybrid,carpe,Seoul Infernal,Reaper
+11117,39351,Route 66,payload,Admiral,London Spitfire,Ana
+11121,39351,Route 66,payload,Admiral,London Spitfire,Lucio
+11158,39351,Route 66,payload,Backbone,London Spitfire,Reaper
+11172,39351,Route 66,payload,Backbone,London Spitfire,Widowmaker
+11192,39351,Route 66,payload,Hadi,London Spitfire,Roadhog
+11201,39351,Route 66,payload,Hadi,London Spitfire,Winston
+11242,39351,Route 66,payload,Landon,London Spitfire,Kiriko
+11276,39351,Route 66,payload,SparkR,London Spitfire,Sojourn
+11315,39351,Route 66,payload,AimGod,Seoul Infernal,Kiriko
+11347,39351,Route 66,payload,Belosrea,Seoul Infernal,Winston
+11390,39351,Route 66,payload,FIXA,Seoul Infernal,Ana
+11399,39351,Route 66,payload,FIXA,Seoul Infernal,Lucio
+11432,39351,Route 66,payload,MN3,Seoul Infernal,Sojourn
+11462,39351,Route 66,payload,carpe,Seoul Infernal,Reaper
+11497,39353,Oasis,control,AlphaYi,Hangzhou Spark,Reaper
+11525,39353,Oasis,control,Guxue,Hangzhou Spark,Winston
+11568,39353,Oasis,control,Superich,Hangzhou Spark,Lucio
+11607,39353,Oasis,control,Teru,Hangzhou Spark,Kiriko
+11639,39353,Oasis,control,shy,Hangzhou Spark,Sojourn
+11681,39353,Oasis,control,Fate,Shanghai Dragons,Winston
+11720,39353,Oasis,control,Fleta,Shanghai Dragons,Reaper
+11760,39353,Oasis,control,IZaYaKI,Shanghai Dragons,Kiriko
+11794,39353,Oasis,control,LIP,Shanghai Dragons,Sojourn
+11831,39353,Oasis,control,LeeJaeGon,Shanghai Dragons,Lucio
+11872,39353,King's Row,hybrid,AlphaYi,Hangzhou Spark,Reaper
+11912,39353,King's Row,hybrid,Guxue,Hangzhou Spark,Winston
+11956,39353,King's Row,hybrid,Superich,Hangzhou Spark,Lucio
+12004,39353,King's Row,hybrid,Teru,Hangzhou Spark,Kiriko
+12040,39353,King's Row,hybrid,shy,Hangzhou Spark,Sojourn
+12075,39353,King's Row,hybrid,Fate,Shanghai Dragons,Winston
+12117,39353,King's Row,hybrid,Fleta,Shanghai Dragons,Reaper
+12131,39353,King's Row,hybrid,Fleta,Shanghai Dragons,Sombra
+12152,39353,King's Row,hybrid,IZaYaKI,Shanghai Dragons,Kiriko
+12188,39353,King's Row,hybrid,LIP,Shanghai Dragons,Sojourn
+12235,39353,King's Row,hybrid,LeeJaeGon,Shanghai Dragons,Lucio
+12274,39353,Route 66,payload,AlphaYi,Hangzhou Spark,Hanzo
+12282,39353,Route 66,payload,AlphaYi,Hangzhou Spark,Junkrat
+12286,39353,Route 66,payload,AlphaYi,Hangzhou Spark,Reaper
+12320,39353,Route 66,payload,Guxue,Hangzhou Spark,Roadhog
+12335,39353,Route 66,payload,Guxue,Hangzhou Spark,Winston
+12369,39353,Route 66,payload,Superich,Hangzhou Spark,Lucio
+12414,39353,Route 66,payload,Teru,Hangzhou Spark,Kiriko
+12443,39353,Route 66,payload,shy,Hangzhou Spark,Sojourn
+12485,39353,Route 66,payload,Fate,Shanghai Dragons,Winston
+12522,39353,Route 66,payload,Fleta,Shanghai Dragons,Reaper
+12547,39353,Route 66,payload,IZaYaKI,Shanghai Dragons,Kiriko
+12575,39353,Route 66,payload,LIP,Shanghai Dragons,Sojourn
+12597,39353,Route 66,payload,LIP,Shanghai Dragons,Widowmaker
+12612,39353,Route 66,payload,LeeJaeGon,Shanghai Dragons,Lucio
+12652,39355,Lijiang Tower,control,Hawk,Atlanta Reign,Doomfist
+12667,39355,Lijiang Tower,control,Hawk,Atlanta Reign,Reinhardt
+12679,39355,Lijiang Tower,control,Hawk,Atlanta Reign,Winston
+12718,39355,Lijiang Tower,control,Kai,Atlanta Reign,Sojourn
+12763,39355,Lijiang Tower,control,Ojee,Atlanta Reign,Lucio
+12802,39355,Lijiang Tower,control,Speedily,Atlanta Reign,Bastion
+12828,39355,Lijiang Tower,control,Speedily,Atlanta Reign,Reaper
+12846,39355,Lijiang Tower,control,Speedily,Atlanta Reign,Tracer
+12875,39355,Lijiang Tower,control,UltraViolet,Atlanta Reign,Kiriko
+12912,39355,Lijiang Tower,control,Anamo,Florida Mayhem,Lucio
+12953,39355,Lijiang Tower,control,Checkmate,Florida Mayhem,Reaper
+12983,39355,Lijiang Tower,control,Hydron,Florida Mayhem,Sojourn
+13026,39355,Lijiang Tower,control,Rupal,Florida Mayhem,Kiriko
+13053,39355,Lijiang Tower,control,Someone,Florida Mayhem,Orisa
+13079,39355,Lijiang Tower,control,Someone,Florida Mayhem,Winston
+13128,39355,King's Row,hybrid,Hawk,Atlanta Reign,Orisa
+13152,39355,King's Row,hybrid,Hawk,Atlanta Reign,Winston
+13190,39355,King's Row,hybrid,Kai,Atlanta Reign,Sojourn
+13225,39355,King's Row,hybrid,Ojee,Atlanta Reign,Lucio
+13262,39355,King's Row,hybrid,UltraViolet,Atlanta Reign,Kiriko
+13288,39355,King's Row,hybrid,nero,Atlanta Reign,Reaper
+13319,39355,King's Row,hybrid,Anamo,Florida Mayhem,Lucio
+13366,39355,King's Row,hybrid,Checkmate,Florida Mayhem,Reaper
+13396,39355,King's Row,hybrid,Hydron,Florida Mayhem,Sojourn
+13415,39355,King's Row,hybrid,Hydron,Florida Mayhem,Widowmaker
+13441,39355,King's Row,hybrid,SirMajed,Florida Mayhem,Kiriko
+13477,39355,King's Row,hybrid,Someone,Florida Mayhem,Winston
+13514,39355,Junkertown,payload,Hawk,Atlanta Reign,Doomfist
+13531,39355,Junkertown,payload,Hawk,Atlanta Reign,Winston
+13574,39355,Junkertown,payload,Kai,Atlanta Reign,Sojourn
+13608,39355,Junkertown,payload,Ojee,Atlanta Reign,Lucio
+13641,39355,Junkertown,payload,UltraViolet,Atlanta Reign,Kiriko
+13671,39355,Junkertown,payload,nero,Atlanta Reign,Reaper
+13704,39355,Junkertown,payload,Anamo,Florida Mayhem,Lucio
+13738,39355,Junkertown,payload,Checkmate,Florida Mayhem,Reaper
+13761,39355,Junkertown,payload,Checkmate,Florida Mayhem,Widowmaker
+13781,39355,Junkertown,payload,Hydron,Florida Mayhem,Sojourn
+13803,39355,Junkertown,payload,Hydron,Florida Mayhem,Widowmaker
+13827,39355,Junkertown,payload,SirMajed,Florida Mayhem,Kiriko
+13866,39355,Junkertown,payload,Someone,Florida Mayhem,Doomfist
+13871,39355,Junkertown,payload,Someone,Florida Mayhem,Winston
+13897,39355,Junkertown,payload,Someone,Florida Mayhem,Zarya
+13911,39357,Busan,control,Creative,Houston Outlaws,Baptiste
+13941,39357,Busan,control,Creative,Houston Outlaws,Kiriko
+13972,39357,Busan,control,Danteh,Houston Outlaws,Orisa
+13992,39357,Busan,control,Danteh,Houston Outlaws,Roadhog
+14030,39357,Busan,control,Lastro,Houston Outlaws,Lucio
+14064,39357,Busan,control,MER1T,Houston Outlaws,Sojourn
+14105,39357,Busan,control,PELICAN,Houston Outlaws,Reaper
+14127,39357,Busan,control,PELICAN,Houston Outlaws,Symmetra
+14130,39357,Busan,control,PELICAN,Houston Outlaws,Tracer
+14165,39357,Busan,control,CH0R0NG,Toronto Defiant,Lucio
+14203,39357,Busan,control,Finale,Toronto Defiant,Reaper
+14221,39357,Busan,control,Finale,Toronto Defiant,Tracer
+14242,39357,Busan,control,Heesu,Toronto Defiant,Sojourn
+14262,39357,Busan,control,Heesu,Toronto Defiant,Widowmaker
+14277,39357,Busan,control,MuZe,Toronto Defiant,Winston
+14314,39357,Busan,control,Twilight,Toronto Defiant,Kiriko
+14338,39357,Paraíso,hybrid,Creative,Houston Outlaws,Kiriko
+14370,39357,Paraíso,hybrid,Danteh,Houston Outlaws,Winston
+14413,39357,Paraíso,hybrid,Lastro,Houston Outlaws,Lucio
+14448,39357,Paraíso,hybrid,MER1T,Houston Outlaws,Sojourn
+14485,39357,Paraíso,hybrid,PELICAN,Houston Outlaws,Reaper
+14510,39357,Paraíso,hybrid,PELICAN,Houston Outlaws,Tracer
+14537,39357,Paraíso,hybrid,CH0R0NG,Toronto Defiant,Lucio
+14572,39357,Paraíso,hybrid,Finale,Toronto Defiant,Hanzo
+14575,39357,Paraíso,hybrid,Finale,Toronto Defiant,Reaper
+14595,39357,Paraíso,hybrid,Finale,Toronto Defiant,Tracer
+14610,39357,Paraíso,hybrid,Heesu,Toronto Defiant,Sojourn
+14639,39357,Paraíso,hybrid,MuZe,Toronto Defiant,Winston
+14679,39357,Paraíso,hybrid,Twilight,Toronto Defiant,Kiriko
+14711,39357,Dorado,payload,Creative,Houston Outlaws,Kiriko
+14745,39357,Dorado,payload,Danteh,Houston Outlaws,Winston
+14794,39357,Dorado,payload,Lastro,Houston Outlaws,Lucio
+14840,39357,Dorado,payload,MER1T,Houston Outlaws,Sojourn
+14876,39357,Dorado,payload,PELICAN,Houston Outlaws,Reaper
+14890,39357,Dorado,payload,PELICAN,Houston Outlaws,Soldier: 76
+14905,39357,Dorado,payload,PELICAN,Houston Outlaws,Symmetra
+14914,39357,Dorado,payload,PELICAN,Houston Outlaws,Tracer
+14931,39357,Dorado,payload,CH0R0NG,Toronto Defiant,Lucio
+14977,39357,Dorado,payload,Finale,Toronto Defiant,Reaper
+14996,39357,Dorado,payload,Finale,Toronto Defiant,Symmetra
+15001,39357,Dorado,payload,Finale,Toronto Defiant,Tracer
+15029,39357,Dorado,payload,Heesu,Toronto Defiant,Sojourn
+15064,39357,Dorado,payload,MuZe,Toronto Defiant,Winston
+15106,39357,Dorado,payload,Twilight,Toronto Defiant,Kiriko
+15136,39359,Lijiang Tower,control,ChiYo,Dallas Fuel,Lucio
+15175,39359,Lijiang Tower,control,Edison,Dallas Fuel,Sojourn
+15211,39359,Lijiang Tower,control,FEARLESS,Dallas Fuel,Winston
+15249,39359,Lijiang Tower,control,Fielder,Dallas Fuel,Kiriko
+15282,39359,Lijiang Tower,control,SP9RK1E,Dallas Fuel,Reaper
+15303,39359,Lijiang Tower,control,SP9RK1E,Dallas Fuel,Widowmaker
+15325,39359,Lijiang Tower,control,AlphaYi,Hangzhou Spark,Reaper
+15342,39359,Lijiang Tower,control,AlphaYi,Hangzhou Spark,Symmetra
+15360,39359,Lijiang Tower,control,Guxue,Hangzhou Spark,Winston
+15409,39359,Lijiang Tower,control,Superich,Hangzhou Spark,Lucio
+15450,39359,Lijiang Tower,control,Teru,Hangzhou Spark,Kiriko
+15482,39359,Lijiang Tower,control,shy,Hangzhou Spark,Sojourn
+15515,39359,Paraíso,hybrid,ChiYo,Dallas Fuel,Lucio
+15557,39359,Paraíso,hybrid,Edison,Dallas Fuel,Sojourn
+15576,39359,Paraíso,hybrid,Edison,Dallas Fuel,Widowmaker
+15594,39359,Paraíso,hybrid,FEARLESS,Dallas Fuel,Winston
+15626,39359,Paraíso,hybrid,Fielder,Dallas Fuel,Kiriko
+15650,39359,Paraíso,hybrid,SP9RK1E,Dallas Fuel,Reaper
+15686,39359,Paraíso,hybrid,AlphaYi,Hangzhou Spark,Reaper
+15708,39359,Paraíso,hybrid,AlphaYi,Hangzhou Spark,Tracer
+15722,39359,Paraíso,hybrid,AlphaYi,Hangzhou Spark,Widowmaker
+15742,39359,Paraíso,hybrid,Guxue,Hangzhou Spark,Winston
+15778,39359,Paraíso,hybrid,Superich,Hangzhou Spark,Brigitte
+15782,39359,Paraíso,hybrid,Superich,Hangzhou Spark,Lucio
+15824,39359,Paraíso,hybrid,Teru,Hangzhou Spark,Kiriko
+15860,39359,Paraíso,hybrid,shy,Hangzhou Spark,Sojourn
+15901,39359,Dorado,payload,ChiYo,Dallas Fuel,Lucio
+15944,39359,Dorado,payload,Edison,Dallas Fuel,Sojourn
+15963,39359,Dorado,payload,Edison,Dallas Fuel,Widowmaker
+15992,39359,Dorado,payload,FEARLESS,Dallas Fuel,Doomfist
+15995,39359,Dorado,payload,FEARLESS,Dallas Fuel,Winston
+16039,39359,Dorado,payload,Fielder,Dallas Fuel,Kiriko
+16072,39359,Dorado,payload,SP9RK1E,Dallas Fuel,Reaper
+16090,39359,Dorado,payload,SP9RK1E,Dallas Fuel,Tracer
+16121,39359,Dorado,payload,AlphaYi,Hangzhou Spark,Echo
+16145,39359,Dorado,payload,AlphaYi,Hangzhou Spark,Reaper
+16166,39359,Dorado,payload,AlphaYi,Hangzhou Spark,Tracer
+16182,39359,Dorado,payload,AlphaYi,Hangzhou Spark,Widowmaker
+16204,39359,Dorado,payload,Guxue,Hangzhou Spark,Winston
+16249,39359,Dorado,payload,Superich,Hangzhou Spark,Lucio
+16290,39359,Dorado,payload,Teru,Hangzhou Spark,Kiriko
+16318,39359,Dorado,payload,shy,Hangzhou Spark,Sojourn
+16352,39359,Esperança,push,ChiYo,Dallas Fuel,Lucio
+16400,39359,Esperança,push,Edison,Dallas Fuel,Sojourn
+16435,39359,Esperança,push,FEARLESS,Dallas Fuel,Winston
+16476,39359,Esperança,push,Fielder,Dallas Fuel,Kiriko
+16519,39359,Esperança,push,SP9RK1E,Dallas Fuel,Reaper
+16546,39359,Esperança,push,AlphaYi,Hangzhou Spark,Reaper
+16568,39359,Esperança,push,Guxue,Hangzhou Spark,Winston
+16604,39359,Esperança,push,Superich,Hangzhou Spark,Lucio
+16647,39359,Esperança,push,Teru,Hangzhou Spark,Kiriko
+16673,39359,Esperança,push,shy,Hangzhou Spark,Sojourn
+16710,39371,Ilios,control,Anamo,Florida Mayhem,Lucio
+16750,39371,Ilios,control,Checkmate,Florida Mayhem,Reaper
+16770,39371,Ilios,control,Checkmate,Florida Mayhem,Tracer
+16800,39371,Ilios,control,Hydron,Florida Mayhem,Sojourn
+16825,39371,Ilios,control,Hydron,Florida Mayhem,Widowmaker
+16851,39371,Ilios,control,SirMajed,Florida Mayhem,Kiriko
+16884,39371,Ilios,control,Someone,Florida Mayhem,Winston
+16922,39371,Ilios,control,Fits,Seoul Dynasty,Sojourn
+16964,39371,Ilios,control,Profit,Seoul Dynasty,Reaper
+16994,39371,Ilios,control,Vindaim,Seoul Dynasty,Lucio
+17035,39371,Ilios,control,ir1s,Seoul Dynasty,Kiriko
+17069,39371,Ilios,control,smurf,Seoul Dynasty,Winston
+17108,39371,Eichenwalde,hybrid,Anamo,Florida Mayhem,Lucio
+17146,39371,Eichenwalde,hybrid,Checkmate,Florida Mayhem,Reaper
+17166,39371,Eichenwalde,hybrid,Checkmate,Florida Mayhem,Tracer
+17190,39371,Eichenwalde,hybrid,Hydron,Florida Mayhem,Sojourn
+17211,39371,Eichenwalde,hybrid,Hydron,Florida Mayhem,Widowmaker
+17234,39371,Eichenwalde,hybrid,SirMajed,Florida Mayhem,Kiriko
+17275,39371,Eichenwalde,hybrid,Someone,Florida Mayhem,Winston
+17317,39371,Eichenwalde,hybrid,Fits,Seoul Dynasty,Sojourn
+17356,39371,Eichenwalde,hybrid,Profit,Seoul Dynasty,Reaper
+17371,39371,Eichenwalde,hybrid,Profit,Seoul Dynasty,Widowmaker
+17401,39371,Eichenwalde,hybrid,Vindaim,Seoul Dynasty,Lucio
+17442,39371,Eichenwalde,hybrid,ir1s,Seoul Dynasty,Kiriko
+17477,39371,Eichenwalde,hybrid,smurf,Seoul Dynasty,Winston
+17524,39371,Junkertown,payload,Checkmate,Florida Mayhem,Genji
+17549,39371,Junkertown,payload,Checkmate,Florida Mayhem,Hanzo
+17566,39371,Junkertown,payload,Checkmate,Florida Mayhem,Reaper
+17580,39371,Junkertown,payload,Checkmate,Florida Mayhem,Widowmaker
+17605,39371,Junkertown,payload,Hydron,Florida Mayhem,Sojourn
+17624,39371,Junkertown,payload,Hydron,Florida Mayhem,Widowmaker
+17654,39371,Junkertown,payload,Rupal,Florida Mayhem,Baptiste
+17677,39371,Junkertown,payload,Rupal,Florida Mayhem,Lucio
+17717,39371,Junkertown,payload,SirMajed,Florida Mayhem,Kiriko
+17735,39371,Junkertown,payload,SirMajed,Florida Mayhem,Zenyatta
+17773,39371,Junkertown,payload,Someone,Florida Mayhem,Roadhog
+17790,39371,Junkertown,payload,Someone,Florida Mayhem,Sigma
+17807,39371,Junkertown,payload,Someone,Florida Mayhem,Winston
+17844,39371,Junkertown,payload,Fits,Seoul Dynasty,Sojourn
+17871,39371,Junkertown,payload,Fits,Seoul Dynasty,Widowmaker
+17906,39371,Junkertown,payload,Profit,Seoul Dynasty,Genji
+17929,39371,Junkertown,payload,Profit,Seoul Dynasty,Hanzo
+17949,39371,Junkertown,payload,Profit,Seoul Dynasty,Reaper
+17969,39371,Junkertown,payload,Profit,Seoul Dynasty,Tracer
+18012,39371,Junkertown,payload,Vindaim,Seoul Dynasty,Lucio
+18039,39371,Junkertown,payload,Vindaim,Seoul Dynasty,Zenyatta
+18084,39371,Junkertown,payload,ir1s,Seoul Dynasty,Ana
+18114,39371,Junkertown,payload,ir1s,Seoul Dynasty,Baptiste
+18134,39371,Junkertown,payload,ir1s,Seoul Dynasty,Kiriko
+18163,39371,Junkertown,payload,smurf,Seoul Dynasty,Sigma
+18182,39371,Junkertown,payload,smurf,Seoul Dynasty,Winston
+18222,39373,Ilios,control,Creative,Houston Outlaws,Kiriko
+18261,39373,Ilios,control,Danteh,Houston Outlaws,Winston
+18313,39373,Ilios,control,Lastro,Houston Outlaws,Lucio
+18353,39373,Ilios,control,MER1T,Houston Outlaws,Sojourn
+18388,39373,Ilios,control,PELICAN,Houston Outlaws,Reaper
+18425,39373,Ilios,control,FiNN,San Francisco Shock,Kiriko
+18458,39373,Ilios,control,Proper,San Francisco Shock,Sojourn
+18482,39373,Ilios,control,STRIKER,San Francisco Shock,Reaper
+18504,39373,Ilios,control,Viol2t,San Francisco Shock,Lucio
+18541,39373,Ilios,control,mikeyy,San Francisco Shock,Winston
+18589,39373,King's Row,hybrid,Creative,Houston Outlaws,Kiriko
+18626,39373,King's Row,hybrid,Danteh,Houston Outlaws,Winston
+18668,39373,King's Row,hybrid,Lastro,Houston Outlaws,Lucio
+18704,39373,King's Row,hybrid,MER1T,Houston Outlaws,Sojourn
+18744,39373,King's Row,hybrid,PELICAN,Houston Outlaws,Reaper
+18777,39373,King's Row,hybrid,Coluge,San Francisco Shock,Winston
+18822,39373,King's Row,hybrid,FiNN,San Francisco Shock,Kiriko
+18849,39373,King's Row,hybrid,Proper,San Francisco Shock,Sojourn
+18887,39373,King's Row,hybrid,STRIKER,San Francisco Shock,Reaper
+18912,39373,King's Row,hybrid,Viol2t,San Francisco Shock,Lucio
+18953,39373,Route 66,payload,Creative,Houston Outlaws,Kiriko
+18986,39373,Route 66,payload,Danteh,Houston Outlaws,Winston
+19030,39373,Route 66,payload,Lastro,Houston Outlaws,Lucio
+19075,39373,Route 66,payload,MER1T,Houston Outlaws,Sojourn
+19113,39373,Route 66,payload,PELICAN,Houston Outlaws,Reaper
+19152,39373,Route 66,payload,Coluge,San Francisco Shock,Roadhog
+19161,39373,Route 66,payload,Coluge,San Francisco Shock,Winston
+19204,39373,Route 66,payload,FiNN,San Francisco Shock,Kiriko
+19240,39373,Route 66,payload,Proper,San Francisco Shock,Sojourn
+19260,39373,Route 66,payload,Proper,San Francisco Shock,Widowmaker
+19276,39373,Route 66,payload,STRIKER,San Francisco Shock,Hanzo
+19282,39373,Route 66,payload,STRIKER,San Francisco Shock,Reaper
+19313,39373,Route 66,payload,Viol2t,San Francisco Shock,Lucio
+19359,39373,Esperança,push,Creative,Houston Outlaws,Kiriko
+19387,39373,Esperança,push,Danteh,Houston Outlaws,Winston
+19430,39373,Esperança,push,Lastro,Houston Outlaws,Lucio
+19470,39373,Esperança,push,MER1T,Houston Outlaws,Sojourn
+19499,39373,Esperança,push,PELICAN,Houston Outlaws,Reaper
+19525,39373,Esperança,push,Coluge,San Francisco Shock,Winston
+19567,39373,Esperança,push,FiNN,San Francisco Shock,Kiriko
+19601,39373,Esperança,push,Proper,San Francisco Shock,Sojourn
+19630,39373,Esperança,push,STRIKER,San Francisco Shock,Reaper
+19664,39373,Esperança,push,Viol2t,San Francisco Shock,Lucio
+19704,39373,Busan,control,Creative,Houston Outlaws,Baptiste
+19721,39373,Busan,control,Creative,Houston Outlaws,Kiriko
+19756,39373,Busan,control,Danteh,Houston Outlaws,Orisa
+19777,39373,Busan,control,Danteh,Houston Outlaws,Roadhog
+19788,39373,Busan,control,Danteh,Houston Outlaws,Winston
+19824,39373,Busan,control,Lastro,Houston Outlaws,Lucio
+19872,39373,Busan,control,MER1T,Houston Outlaws,Sojourn
+19906,39373,Busan,control,PELICAN,Houston Outlaws,Reaper
+19926,39373,Busan,control,PELICAN,Houston Outlaws,Symmetra
+19932,39373,Busan,control,PELICAN,Houston Outlaws,Tracer
+19969,39373,Busan,control,Coluge,San Francisco Shock,Doomfist
+19971,39373,Busan,control,Coluge,San Francisco Shock,Roadhog
+19986,39373,Busan,control,Coluge,San Francisco Shock,Winston
+20029,39373,Busan,control,FiNN,San Francisco Shock,Kiriko
+20064,39373,Busan,control,Proper,San Francisco Shock,Sojourn
+20095,39373,Busan,control,STRIKER,San Francisco Shock,Reaper
+20115,39373,Busan,control,STRIKER,San Francisco Shock,Symmetra
+20123,39373,Busan,control,STRIKER,San Francisco Shock,Tracer
+20152,39373,Busan,control,Viol2t,San Francisco Shock,Baptiste
+20177,39373,Busan,control,Viol2t,San Francisco Shock,Lucio
+20215,39379,Lijiang Tower,control,Admiral,London Spitfire,Lucio
+20257,39379,Lijiang Tower,control,Backbone,London Spitfire,Reaper
+20295,39379,Lijiang Tower,control,Hadi,London Spitfire,Winston
+20335,39379,Lijiang Tower,control,Landon,London Spitfire,Kiriko
+20364,39379,Lijiang Tower,control,SparkR,London Spitfire,Sojourn
+20401,39379,Lijiang Tower,control,FunnyAstro,Los Angeles Gladiators,Lucio
+20435,39379,Lijiang Tower,control,Happy,Los Angeles Gladiators,Reaper
+20447,39379,Lijiang Tower,control,Happy,Los Angeles Gladiators,Sojourn
+20470,39379,Lijiang Tower,control,Happy,Los Angeles Gladiators,Symmetra
+20472,39379,Lijiang Tower,control,Happy,Los Angeles Gladiators,Tracer
+20491,39379,Lijiang Tower,control,Reiner,Los Angeles Gladiators,Doomfist
+20511,39379,Lijiang Tower,control,Reiner,Los Angeles Gladiators,Reinhardt
+20523,39379,Lijiang Tower,control,Reiner,Los Angeles Gladiators,Winston
+20564,39379,Lijiang Tower,control,kevster,Los Angeles Gladiators,Junkrat
+20582,39379,Lijiang Tower,control,kevster,Los Angeles Gladiators,Reaper
+20601,39379,Lijiang Tower,control,kevster,Los Angeles Gladiators,Sojourn
+20621,39379,Lijiang Tower,control,kevster,Los Angeles Gladiators,Symmetra
+20628,39379,Lijiang Tower,control,kevster,Los Angeles Gladiators,Tracer
+20663,39379,Lijiang Tower,control,shu,Los Angeles Gladiators,Baptiste
+20689,39379,Lijiang Tower,control,shu,Los Angeles Gladiators,Kiriko
+20717,39379,Eichenwalde,hybrid,Admiral,London Spitfire,Lucio
+20763,39379,Eichenwalde,hybrid,Backbone,London Spitfire,Reaper
+20782,39379,Eichenwalde,hybrid,Backbone,London Spitfire,Widowmaker
+20800,39379,Eichenwalde,hybrid,Hadi,London Spitfire,Winston
+20840,39379,Eichenwalde,hybrid,Landon,London Spitfire,Kiriko
+20870,39379,Eichenwalde,hybrid,SparkR,London Spitfire,Sojourn
+20911,39379,Eichenwalde,hybrid,FunnyAstro,Los Angeles Gladiators,Lucio
+20946,39379,Eichenwalde,hybrid,Happy,Los Angeles Gladiators,Hanzo
+20949,39379,Eichenwalde,hybrid,Happy,Los Angeles Gladiators,Reaper
+20969,39379,Eichenwalde,hybrid,Happy,Los Angeles Gladiators,Sojourn
+20978,39379,Eichenwalde,hybrid,Happy,Los Angeles Gladiators,Widowmaker
+21002,39379,Eichenwalde,hybrid,Reiner,Los Angeles Gladiators,Winston
+21046,39379,Eichenwalde,hybrid,kevster,Los Angeles Gladiators,Sojourn
+21074,39379,Eichenwalde,hybrid,kevster,Los Angeles Gladiators,Tracer
+21084,39379,Eichenwalde,hybrid,kevster,Los Angeles Gladiators,Widowmaker
+21108,39379,Eichenwalde,hybrid,shu,Los Angeles Gladiators,Ana
+21111,39379,Eichenwalde,hybrid,shu,Los Angeles Gladiators,Kiriko
+21150,39379,Dorado,payload,Admiral,London Spitfire,Lucio
+21189,39379,Dorado,payload,Backbone,London Spitfire,Reaper
+21210,39379,Dorado,payload,Backbone,London Spitfire,Widowmaker
+21235,39379,Dorado,payload,Hadi,London Spitfire,Winston
+21282,39379,Dorado,payload,Landon,London Spitfire,Kiriko
+21315,39379,Dorado,payload,SparkR,London Spitfire,Sojourn
+21354,39379,Dorado,payload,FunnyAstro,Los Angeles Gladiators,Lucio
+21388,39379,Dorado,payload,Happy,Los Angeles Gladiators,Sojourn
+21406,39379,Dorado,payload,Happy,Los Angeles Gladiators,Tracer
+21435,39379,Dorado,payload,Reiner,Los Angeles Gladiators,Doomfist
+21440,39379,Dorado,payload,Reiner,Los Angeles Gladiators,Winston
+21475,39379,Dorado,payload,kevster,Los Angeles Gladiators,Reaper
+21490,39379,Dorado,payload,kevster,Los Angeles Gladiators,Symmetra
+21494,39379,Dorado,payload,kevster,Los Angeles Gladiators,Tracer
+21533,39379,Dorado,payload,shu,Los Angeles Gladiators,Kiriko
+21569,39379,Colosseo,push,Admiral,London Spitfire,Lucio
+21609,39379,Colosseo,push,Backbone,London Spitfire,Reaper
+21637,39379,Colosseo,push,Hadi,London Spitfire,Winston
+21678,39379,Colosseo,push,Landon,London Spitfire,Kiriko
+21712,39379,Colosseo,push,SparkR,London Spitfire,Sojourn
+21743,39379,Colosseo,push,FunnyAstro,Los Angeles Gladiators,Lucio
+21777,39379,Colosseo,push,Happy,Los Angeles Gladiators,Reaper
+21810,39379,Colosseo,push,Reiner,Los Angeles Gladiators,Winston
+21847,39379,Colosseo,push,kevster,Los Angeles Gladiators,Sojourn
+21878,39379,Colosseo,push,shu,Los Angeles Gladiators,Kiriko
+21915,39370,Oasis,control,FunnyAstro,Los Angeles Gladiators,Lucio
+21963,39370,Oasis,control,Happy,Los Angeles Gladiators,Sojourn
+21987,39370,Oasis,control,Happy,Los Angeles Gladiators,Widowmaker
+22007,39370,Oasis,control,Reiner,Los Angeles Gladiators,Winston
+22040,39370,Oasis,control,kevster,Los Angeles Gladiators,Reaper
+22053,39370,Oasis,control,kevster,Los Angeles Gladiators,Tracer
+22068,39370,Oasis,control,shu,Los Angeles Gladiators,Kiriko
+22094,39370,Oasis,control,AimGod,Seoul Infernal,Kiriko
+22125,39370,Oasis,control,Belosrea,Seoul Infernal,Winston
+22157,39370,Oasis,control,FIXA,Seoul Infernal,Lucio
+22208,39370,Oasis,control,MN3,Seoul Infernal,Sojourn
+22240,39370,Oasis,control,ZEST,Seoul Infernal,Reaper
+22268,39370,King's Row,hybrid,FunnyAstro,Los Angeles Gladiators,Lucio
+22317,39370,King's Row,hybrid,Happy,Los Angeles Gladiators,Sojourn
+22354,39370,King's Row,hybrid,Reiner,Los Angeles Gladiators,Doomfist
+22369,39370,King's Row,hybrid,Reiner,Los Angeles Gladiators,Winston
+22401,39370,King's Row,hybrid,kevster,Los Angeles Gladiators,Reaper
+22421,39370,King's Row,hybrid,kevster,Los Angeles Gladiators,Widowmaker
+22443,39370,King's Row,hybrid,shu,Los Angeles Gladiators,Kiriko
+22477,39370,King's Row,hybrid,AimGod,Seoul Infernal,Kiriko
+22496,39370,King's Row,hybrid,AimGod,Seoul Infernal,Zenyatta
+22512,39370,King's Row,hybrid,Belosrea,Seoul Infernal,Winston
+22550,39370,King's Row,hybrid,FIXA,Seoul Infernal,Lucio
+22583,39370,King's Row,hybrid,MN3,Seoul Infernal,Sojourn
+22602,39370,King's Row,hybrid,MN3,Seoul Infernal,Tracer
+22614,39370,King's Row,hybrid,MN3,Seoul Infernal,Widowmaker
+22633,39370,King's Row,hybrid,ZEST,Seoul Infernal,Reaper
+22671,39370,Route 66,payload,FunnyAstro,Los Angeles Gladiators,Lucio
+22718,39370,Route 66,payload,Happy,Los Angeles Gladiators,Sojourn
+22734,39370,Route 66,payload,Happy,Los Angeles Gladiators,Symmetra
+22742,39370,Route 66,payload,Happy,Los Angeles Gladiators,Widowmaker
+22757,39370,Route 66,payload,Reiner,Los Angeles Gladiators,Roadhog
+22762,39370,Route 66,payload,Reiner,Los Angeles Gladiators,Winston
+22803,39370,Route 66,payload,kevster,Los Angeles Gladiators,Reaper
+22825,39370,Route 66,payload,kevster,Los Angeles Gladiators,Widowmaker
+22852,39370,Route 66,payload,shu,Los Angeles Gladiators,Kiriko
+22886,39370,Route 66,payload,AimGod,Seoul Infernal,Ana
+22897,39370,Route 66,payload,AimGod,Seoul Infernal,Kiriko
+22937,39370,Route 66,payload,Belosrea,Seoul Infernal,Roadhog
+22943,39370,Route 66,payload,Belosrea,Seoul Infernal,Winston
+22989,39370,Route 66,payload,FIXA,Seoul Infernal,Lucio
+23036,39370,Route 66,payload,MN3,Seoul Infernal,Sojourn
+23056,39370,Route 66,payload,MN3,Seoul Infernal,Widowmaker
+23074,39370,Route 66,payload,ZEST,Seoul Infernal,Reaper
+23091,39370,Route 66,payload,ZEST,Seoul Infernal,Tracer
+23109,39370,Esperança,push,FunnyAstro,Los Angeles Gladiators,Lucio
+23155,39370,Esperança,push,Happy,Los Angeles Gladiators,Sojourn
+23195,39370,Esperança,push,Reiner,Los Angeles Gladiators,Winston
+23233,39370,Esperança,push,kevster,Los Angeles Gladiators,Reaper
+23268,39370,Esperança,push,shu,Los Angeles Gladiators,Kiriko
+23304,39370,Esperança,push,AimGod,Seoul Infernal,Kiriko
+23330,39370,Esperança,push,Belosrea,Seoul Infernal,Winston
+23363,39370,Esperança,push,FIXA,Seoul Infernal,Lucio
+23410,39370,Esperança,push,MN3,Seoul Infernal,Sojourn
+23446,39370,Esperança,push,ZEST,Seoul Infernal,Reaper
+23462,39370,Esperança,push,ZEST,Seoul Infernal,Tracer
+23483,39366,Lijiang Tower,control,FiNN,San Francisco Shock,Kiriko
+23521,39366,Lijiang Tower,control,Proper,San Francisco Shock,Sojourn
+23549,39366,Lijiang Tower,control,STRIKER,San Francisco Shock,Reaper
+23584,39366,Lijiang Tower,control,Viol2t,San Francisco Shock,Lucio
+23629,39366,Lijiang Tower,control,mikeyy,San Francisco Shock,Winston
+23670,39366,Lijiang Tower,control,Fate,Shanghai Dragons,Winston
+23710,39366,Lijiang Tower,control,Fleta,Shanghai Dragons,Reaper
+23728,39366,Lijiang Tower,control,Fleta,Shanghai Dragons,Symmetra
+23736,39366,Lijiang Tower,control,Fleta,Shanghai Dragons,Tracer
+23754,39366,Lijiang Tower,control,IZaYaKI,Shanghai Dragons,Kiriko
+23783,39366,Lijiang Tower,control,LIP,Shanghai Dragons,Sojourn
+23820,39366,Lijiang Tower,control,LeeJaeGon,Shanghai Dragons,Lucio
+23857,39366,Eichenwalde,hybrid,Coluge,San Francisco Shock,Doomfist
+23872,39366,Eichenwalde,hybrid,Coluge,San Francisco Shock,Winston
+23908,39366,Eichenwalde,hybrid,FiNN,San Francisco Shock,Kiriko
+23938,39366,Eichenwalde,hybrid,Proper,San Francisco Shock,Sojourn
+23973,39366,Eichenwalde,hybrid,STRIKER,San Francisco Shock,Reaper
+24003,39366,Eichenwalde,hybrid,Viol2t,San Francisco Shock,Lucio
+24045,39366,Eichenwalde,hybrid,Fate,Shanghai Dragons,Winston
+24075,39366,Eichenwalde,hybrid,Fleta,Shanghai Dragons,Reaper
+24094,39366,Eichenwalde,hybrid,Fleta,Shanghai Dragons,Tracer
+24114,39366,Eichenwalde,hybrid,IZaYaKI,Shanghai Dragons,Kiriko
+24145,39366,Eichenwalde,hybrid,LIP,Shanghai Dragons,Sojourn
+24185,39366,Eichenwalde,hybrid,LeeJaeGon,Shanghai Dragons,Lucio
+24227,39366,Circuit royal,payload,Coluge,San Francisco Shock,Sigma
+24254,39366,Circuit royal,payload,Coluge,San Francisco Shock,Winston
+24282,39366,Circuit royal,payload,FiNN,San Francisco Shock,Zenyatta
+24326,39366,Circuit royal,payload,Kilo,San Francisco Shock,Sojourn
+24354,39366,Circuit royal,payload,Proper,San Francisco Shock,Tracer
+24377,39366,Circuit royal,payload,Proper,San Francisco Shock,Widowmaker
+24421,39366,Circuit royal,payload,Viol2t,San Francisco Shock,Baptiste
+24464,39366,Circuit royal,payload,Fate,Shanghai Dragons,Doomfist
+24469,39366,Circuit royal,payload,Fate,Shanghai Dragons,Winston
+24512,39366,Circuit royal,payload,Fleta,Shanghai Dragons,Genji
+24532,39366,Circuit royal,payload,Fleta,Shanghai Dragons,Reaper
+24547,39366,Circuit royal,payload,Fleta,Shanghai Dragons,Tracer
+24567,39366,Circuit royal,payload,IZaYaKI,Shanghai Dragons,Kiriko
+24601,39366,Circuit royal,payload,LIP,Shanghai Dragons,Sojourn
+24629,39366,Circuit royal,payload,LIP,Shanghai Dragons,Widowmaker
+24650,39366,Circuit royal,payload,LeeJaeGon,Shanghai Dragons,Lucio
+24691,39366,Esperança,push,Coluge,San Francisco Shock,Winston
+24732,39366,Esperança,push,FiNN,San Francisco Shock,Kiriko
+24764,39366,Esperança,push,Proper,San Francisco Shock,Sojourn
+24800,39366,Esperança,push,STRIKER,San Francisco Shock,Reaper
+24836,39366,Esperança,push,Viol2t,San Francisco Shock,Lucio
+24871,39366,Esperança,push,Fate,Shanghai Dragons,Winston
+24914,39366,Esperança,push,Fleta,Shanghai Dragons,Reaper
+24945,39366,Esperança,push,IZaYaKI,Shanghai Dragons,Kiriko
+24982,39366,Esperança,push,LIP,Shanghai Dragons,Sojourn
+25018,39366,Esperança,push,LeeJaeGon,Shanghai Dragons,Lucio
+25049,39378,Ilios,control,Gator,Atlanta Reign,Winston
+25085,39378,Ilios,control,Kai,Atlanta Reign,Sojourn
+25129,39378,Ilios,control,Ojee,Atlanta Reign,Lucio
+25173,39378,Ilios,control,UltraViolet,Atlanta Reign,Kiriko
+25203,39378,Ilios,control,nero,Atlanta Reign,Reaper
+25239,39378,Ilios,control,Anamo,Florida Mayhem,Lucio
+25280,39378,Ilios,control,Checkmate,Florida Mayhem,Reaper
+25309,39378,Ilios,control,Hydron,Florida Mayhem,Sojourn
+25333,39378,Ilios,control,Hydron,Florida Mayhem,Tracer
+25356,39378,Ilios,control,SirMajed,Florida Mayhem,Kiriko
+25384,39378,Ilios,control,Someone,Florida Mayhem,Doomfist
+25390,39378,Ilios,control,Someone,Florida Mayhem,Winston
+25429,39378,Eichenwalde,hybrid,Gator,Atlanta Reign,Winston
+25462,39378,Eichenwalde,hybrid,Kai,Atlanta Reign,Sojourn
+25488,39378,Eichenwalde,hybrid,Ojee,Atlanta Reign,Lucio
+25533,39378,Eichenwalde,hybrid,UltraViolet,Atlanta Reign,Kiriko
+25564,39378,Eichenwalde,hybrid,nero,Atlanta Reign,Reaper
+25592,39378,Eichenwalde,hybrid,Anamo,Florida Mayhem,Lucio
+25632,39378,Eichenwalde,hybrid,Checkmate,Florida Mayhem,Reaper
+25665,39378,Eichenwalde,hybrid,Hydron,Florida Mayhem,Sojourn
+25703,39378,Eichenwalde,hybrid,SirMajed,Florida Mayhem,Kiriko
+25737,39378,Eichenwalde,hybrid,Someone,Florida Mayhem,Winston
+25773,39378,Route 66,payload,Gator,Atlanta Reign,Doomfist
+25778,39378,Route 66,payload,Gator,Atlanta Reign,Winston
+25816,39378,Route 66,payload,Kai,Atlanta Reign,Sojourn
+25831,39378,Route 66,payload,Kai,Atlanta Reign,Widowmaker
+25851,39378,Route 66,payload,Ojee,Atlanta Reign,Lucio
+25891,39378,Route 66,payload,UltraViolet,Atlanta Reign,Kiriko
+25922,39378,Route 66,payload,nero,Atlanta Reign,Reaper
+25951,39378,Route 66,payload,Anamo,Florida Mayhem,Lucio
+25991,39378,Route 66,payload,Checkmate,Florida Mayhem,Reaper
+26020,39378,Route 66,payload,Hydron,Florida Mayhem,Sojourn
+26057,39378,Route 66,payload,SirMajed,Florida Mayhem,Kiriko
+26088,39378,Route 66,payload,Someone,Florida Mayhem,Winston
+26134,39378,Esperança,push,Gator,Atlanta Reign,Winston
+26166,39378,Esperança,push,Kai,Atlanta Reign,Sojourn
+26187,39378,Esperança,push,Kai,Atlanta Reign,Widowmaker
+26206,39378,Esperança,push,Ojee,Atlanta Reign,Lucio
+26247,39378,Esperança,push,UltraViolet,Atlanta Reign,Kiriko
+26286,39378,Esperança,push,nero,Atlanta Reign,Reaper
+26321,39378,Esperança,push,Anamo,Florida Mayhem,Lucio
+26358,39378,Esperança,push,Checkmate,Florida Mayhem,Reaper
+26389,39378,Esperança,push,Hydron,Florida Mayhem,Sojourn
+26426,39378,Esperança,push,SirMajed,Florida Mayhem,Kiriko
+26461,39378,Esperança,push,Someone,Florida Mayhem,Winston
+26510,39375,Oasis,control,Guxue,Hangzhou Spark,Winston
+26543,39375,Oasis,control,Pineapple,Hangzhou Spark,Reaper
+26573,39375,Oasis,control,Superich,Hangzhou Spark,Lucio
+26616,39375,Oasis,control,Teru,Hangzhou Spark,Kiriko
+26643,39375,Oasis,control,shy,Hangzhou Spark,Sojourn
+26677,39375,Oasis,control,CH0R0NG,Toronto Defiant,Lucio
+26716,39375,Oasis,control,Finale,Toronto Defiant,Sojourn
+26749,39375,Oasis,control,HOTBA,Toronto Defiant,Winston
+26772,39375,Oasis,control,HOTBA,Toronto Defiant,Wrecking Ball
+26787,39375,Oasis,control,Heesu,Toronto Defiant,Reaper
+26819,39375,Oasis,control,Twilight,Toronto Defiant,Kiriko
+26847,39375,Paraíso,hybrid,Guxue,Hangzhou Spark,Winston
+26894,39375,Paraíso,hybrid,Pineapple,Hangzhou Spark,Reaper
+26923,39375,Paraíso,hybrid,Superich,Hangzhou Spark,Lucio
+26960,39375,Paraíso,hybrid,Teru,Hangzhou Spark,Kiriko
+26990,39375,Paraíso,hybrid,shy,Hangzhou Spark,Sojourn
+27027,39375,Paraíso,hybrid,CH0R0NG,Toronto Defiant,Lucio
+27067,39375,Paraíso,hybrid,Finale,Toronto Defiant,Sojourn
+27109,39375,Paraíso,hybrid,HOTBA,Toronto Defiant,Winston
+27145,39375,Paraíso,hybrid,Heesu,Toronto Defiant,Reaper
+27169,39375,Paraíso,hybrid,Heesu,Toronto Defiant,Widowmaker
+27199,39375,Paraíso,hybrid,Twilight,Toronto Defiant,Kiriko
+27238,39375,Route 66,payload,Guxue,Hangzhou Spark,Winston
+27283,39375,Route 66,payload,Pineapple,Hangzhou Spark,Reaper
+27303,39375,Route 66,payload,Pineapple,Hangzhou Spark,Widowmaker
+27320,39375,Route 66,payload,Superich,Hangzhou Spark,Lucio
+27356,39375,Route 66,payload,Teru,Hangzhou Spark,Kiriko
+27387,39375,Route 66,payload,shy,Hangzhou Spark,Sojourn
+27422,39375,Route 66,payload,CH0R0NG,Toronto Defiant,Lucio
+27468,39375,Route 66,payload,Finale,Toronto Defiant,Hanzo
+27471,39375,Route 66,payload,Finale,Toronto Defiant,Sojourn
+27489,39375,Route 66,payload,Finale,Toronto Defiant,Widowmaker
+27507,39375,Route 66,payload,HOTBA,Toronto Defiant,Winston
+27548,39375,Route 66,payload,Heesu,Toronto Defiant,Reaper
+27584,39375,Route 66,payload,Twilight,Toronto Defiant,Kiriko
+27617,39375,Esperança,push,Guxue,Hangzhou Spark,Winston
+27659,39375,Esperança,push,Pineapple,Hangzhou Spark,Reaper
+27694,39375,Esperança,push,Superich,Hangzhou Spark,Lucio
+27730,39375,Esperança,push,Teru,Hangzhou Spark,Kiriko
+27762,39375,Esperança,push,shy,Hangzhou Spark,Sojourn
+27806,39375,Esperança,push,CH0R0NG,Toronto Defiant,Lucio
+27846,39375,Esperança,push,Finale,Toronto Defiant,Sojourn
+27890,39375,Esperança,push,HOTBA,Toronto Defiant,Winston
+27928,39375,Esperança,push,Heesu,Toronto Defiant,Reaper
+27963,39375,Esperança,push,Twilight,Toronto Defiant,Kiriko
+27993,39375,Lijiang Tower,control,AlphaYi,Hangzhou Spark,Reaper
+28016,39375,Lijiang Tower,control,AlphaYi,Hangzhou Spark,Symmetra
+28038,39375,Lijiang Tower,control,Guxue,Hangzhou Spark,Winston
+28079,39375,Lijiang Tower,control,Superich,Hangzhou Spark,Lucio
+28122,39375,Lijiang Tower,control,Teru,Hangzhou Spark,Kiriko
+28153,39375,Lijiang Tower,control,shy,Hangzhou Spark,Sojourn
+28187,39375,Lijiang Tower,control,CH0R0NG,Toronto Defiant,Lucio
+28223,39375,Lijiang Tower,control,Finale,Toronto Defiant,Sojourn
+28238,39375,Lijiang Tower,control,Finale,Toronto Defiant,Tracer
+28254,39375,Lijiang Tower,control,HOTBA,Toronto Defiant,Winston
+28286,39375,Lijiang Tower,control,Heesu,Toronto Defiant,Reaper
+28321,39375,Lijiang Tower,control,Twilight,Toronto Defiant,Kiriko
+28352,39367,Oasis,control,FunnyAstro,Los Angeles Gladiators,Lucio
+28383,39367,Oasis,control,Happy,Los Angeles Gladiators,Sojourn
+28410,39367,Oasis,control,Happy,Los Angeles Gladiators,Symmetra
+28415,39367,Oasis,control,Happy,Los Angeles Gladiators,Tracer
+28430,39367,Oasis,control,Reiner,Los Angeles Gladiators,Winston
+28470,39367,Oasis,control,kevster,Los Angeles Gladiators,Reaper
+28504,39367,Oasis,control,shu,Los Angeles Gladiators,Kiriko
+28534,39367,Oasis,control,FiNN,San Francisco Shock,Kiriko
+28569,39367,Oasis,control,Proper,San Francisco Shock,Sojourn
+28605,39367,Oasis,control,STRIKER,San Francisco Shock,Reaper
+28636,39367,Oasis,control,Viol2t,San Francisco Shock,Lucio
+28672,39367,Oasis,control,mikeyy,San Francisco Shock,Winston
+28706,39367,King's Row,hybrid,FunnyAstro,Los Angeles Gladiators,Lucio
+28754,39367,King's Row,hybrid,Happy,Los Angeles Gladiators,Sojourn
+28794,39367,King's Row,hybrid,Reiner,Los Angeles Gladiators,Winston
+28831,39367,King's Row,hybrid,kevster,Los Angeles Gladiators,Reaper
+28852,39367,King's Row,hybrid,kevster,Los Angeles Gladiators,Widowmaker
+28875,39367,King's Row,hybrid,shu,Los Angeles Gladiators,Kiriko
+28910,39367,King's Row,hybrid,Coluge,San Francisco Shock,Doomfist
+28912,39367,King's Row,hybrid,Coluge,San Francisco Shock,Winston
+28951,39367,King's Row,hybrid,FiNN,San Francisco Shock,Kiriko
+28988,39367,King's Row,hybrid,Proper,San Francisco Shock,Sojourn
+29029,39367,King's Row,hybrid,STRIKER,San Francisco Shock,Reaper
+29068,39367,King's Row,hybrid,Viol2t,San Francisco Shock,Lucio
+29109,39367,Circuit royal,payload,Happy,Los Angeles Gladiators,Widowmaker
+29145,39367,Circuit royal,payload,SPACE,Los Angeles Gladiators,Sigma
+29178,39367,Circuit royal,payload,kevster,Los Angeles Gladiators,Sojourn
+29209,39367,Circuit royal,payload,shu,Los Angeles Gladiators,Baptiste
+29247,39367,Circuit royal,payload,skewed,Los Angeles Gladiators,Zenyatta
+29284,39367,Circuit royal,payload,Coluge,San Francisco Shock,Sigma
+29316,39367,Circuit royal,payload,FiNN,San Francisco Shock,Zenyatta
+29363,39367,Circuit royal,payload,Kilo,San Francisco Shock,Sojourn
+29398,39367,Circuit royal,payload,Proper,San Francisco Shock,Tracer
+29420,39367,Circuit royal,payload,Proper,San Francisco Shock,Widowmaker
+29454,39367,Circuit royal,payload,Viol2t,San Francisco Shock,Baptiste
+29498,39367,Esperança,push,FunnyAstro,Los Angeles Gladiators,Lucio
+29541,39367,Esperança,push,Happy,Los Angeles Gladiators,Sojourn
+29579,39367,Esperança,push,Reiner,Los Angeles Gladiators,Winston
+29610,39367,Esperança,push,kevster,Los Angeles Gladiators,Reaper
+29641,39367,Esperança,push,shu,Los Angeles Gladiators,Kiriko
+29671,39367,Esperança,push,Coluge,San Francisco Shock,Winston
+29710,39367,Esperança,push,FiNN,San Francisco Shock,Kiriko
+29740,39367,Esperança,push,Proper,San Francisco Shock,Sojourn
+29771,39367,Esperança,push,STRIKER,San Francisco Shock,Reaper
+29801,39367,Esperança,push,Viol2t,San Francisco Shock,Lucio
+29844,39376,Busan,control,Anamo,Florida Mayhem,Lucio
+29882,39376,Busan,control,Checkmate,Florida Mayhem,Reaper
+29917,39376,Busan,control,Hydron,Florida Mayhem,Sojourn
+29954,39376,Busan,control,SirMajed,Florida Mayhem,Kiriko
+29991,39376,Busan,control,Someone,Florida Mayhem,Doomfist
+29996,39376,Busan,control,Someone,Florida Mayhem,Winston
+30037,39376,Busan,control,AlphaYi,Hangzhou Spark,Reaper
+30048,39376,Busan,control,AlphaYi,Hangzhou Spark,Symmetra
+30057,39376,Busan,control,AlphaYi,Hangzhou Spark,Tracer
+30080,39376,Busan,control,Guxue,Hangzhou Spark,Winston
+30119,39376,Busan,control,Superich,Hangzhou Spark,Lucio
+30155,39376,Busan,control,Teru,Hangzhou Spark,Kiriko
+30189,39376,Busan,control,shy,Hangzhou Spark,Sojourn
+30218,39376,Paraíso,hybrid,Anamo,Florida Mayhem,Lucio
+30257,39376,Paraíso,hybrid,Checkmate,Florida Mayhem,Genji
+30267,39376,Paraíso,hybrid,Checkmate,Florida Mayhem,Reaper
+30303,39376,Paraíso,hybrid,Hydron,Florida Mayhem,Sojourn
+30331,39376,Paraíso,hybrid,Hydron,Florida Mayhem,Tracer
+30339,39376,Paraíso,hybrid,Hydron,Florida Mayhem,Widowmaker
+30357,39376,Paraíso,hybrid,SirMajed,Florida Mayhem,Kiriko
+30392,39376,Paraíso,hybrid,Someone,Florida Mayhem,Doomfist
+30396,39376,Paraíso,hybrid,Someone,Florida Mayhem,Winston
+30438,39376,Paraíso,hybrid,AlphaYi,Hangzhou Spark,Reaper
+30471,39376,Paraíso,hybrid,Guxue,Hangzhou Spark,Winston
+30511,39376,Paraíso,hybrid,Superich,Hangzhou Spark,Lucio
+30554,39376,Paraíso,hybrid,Teru,Hangzhou Spark,Kiriko
+30589,39376,Paraíso,hybrid,shy,Hangzhou Spark,Sojourn
+30624,39376,Dorado,payload,Anamo,Florida Mayhem,Lucio
+30659,39376,Dorado,payload,Checkmate,Florida Mayhem,Reaper
+30673,39376,Dorado,payload,Checkmate,Florida Mayhem,Sombra
+30681,39376,Dorado,payload,Checkmate,Florida Mayhem,Tracer
+30706,39376,Dorado,payload,Hydron,Florida Mayhem,Sojourn
+30724,39376,Dorado,payload,Hydron,Florida Mayhem,Widowmaker
+30741,39376,Dorado,payload,SirMajed,Florida Mayhem,Kiriko
+30768,39376,Dorado,payload,Someone,Florida Mayhem,Winston
+30813,39376,Dorado,payload,AlphaYi,Hangzhou Spark,Echo
+30838,39376,Dorado,payload,AlphaYi,Hangzhou Spark,Reaper
+30855,39376,Dorado,payload,AlphaYi,Hangzhou Spark,Widowmaker
+30883,39376,Dorado,payload,Guxue,Hangzhou Spark,Winston
+30928,39376,Dorado,payload,Superich,Hangzhou Spark,Lucio
+30960,39376,Dorado,payload,Teru,Hangzhou Spark,Kiriko
+30992,39376,Dorado,payload,shy,Hangzhou Spark,Sojourn
+31021,39376,Esperança,push,Anamo,Florida Mayhem,Lucio
+31058,39376,Esperança,push,Checkmate,Florida Mayhem,Reaper
+31090,39376,Esperança,push,Hydron,Florida Mayhem,Sojourn
+31129,39376,Esperança,push,SirMajed,Florida Mayhem,Kiriko
+31165,39376,Esperança,push,Someone,Florida Mayhem,Doomfist
+31178,39376,Esperança,push,Someone,Florida Mayhem,Winston
+31220,39376,Esperança,push,AlphaYi,Hangzhou Spark,Reaper
+31251,39376,Esperança,push,Guxue,Hangzhou Spark,Winston
+31296,39376,Esperança,push,Superich,Hangzhou Spark,Lucio
+31343,39376,Esperança,push,Teru,Hangzhou Spark,Kiriko
+31371,39376,Esperança,push,shy,Hangzhou Spark,Sojourn
+31409,39360,Nepal,control,ChiYo,Dallas Fuel,Lucio
+31445,39360,Nepal,control,Edison,Dallas Fuel,Sojourn
+31481,39360,Nepal,control,FEARLESS,Dallas Fuel,Winston
+31520,39360,Nepal,control,Fielder,Dallas Fuel,Kiriko
+31550,39360,Nepal,control,SP9RK1E,Dallas Fuel,Reaper
+31574,39360,Nepal,control,SP9RK1E,Dallas Fuel,Symmetra
+31597,39360,Nepal,control,Fits,Seoul Dynasty,Sojourn
+31628,39360,Nepal,control,Profit,Seoul Dynasty,Reaper
+31648,39360,Nepal,control,Profit,Seoul Dynasty,Symmetra
+31671,39360,Nepal,control,Vindaim,Seoul Dynasty,Lucio
+31715,39360,Nepal,control,ir1s,Seoul Dynasty,Kiriko
+31748,39360,Nepal,control,smurf,Seoul Dynasty,Winston
+31793,39360,King's Row,hybrid,ChiYo,Dallas Fuel,Lucio
+31841,39360,King's Row,hybrid,Edison,Dallas Fuel,Sojourn
+31870,39360,King's Row,hybrid,FEARLESS,Dallas Fuel,Winston
+31919,39360,King's Row,hybrid,Fielder,Dallas Fuel,Kiriko
+31955,39360,King's Row,hybrid,SP9RK1E,Dallas Fuel,Reaper
+31983,39360,King's Row,hybrid,Fits,Seoul Dynasty,Sojourn
+32015,39360,King's Row,hybrid,Fits,Seoul Dynasty,Widowmaker
+32028,39360,King's Row,hybrid,Profit,Seoul Dynasty,Reaper
+32059,39360,King's Row,hybrid,Vindaim,Seoul Dynasty,Lucio
+32103,39360,King's Row,hybrid,ir1s,Seoul Dynasty,Kiriko
+32137,39360,King's Row,hybrid,smurf,Seoul Dynasty,Winston
+32182,39360,Dorado,payload,ChiYo,Dallas Fuel,Lucio
+32224,39360,Dorado,payload,Edison,Dallas Fuel,Sojourn
+32247,39360,Dorado,payload,Edison,Dallas Fuel,Widowmaker
+32268,39360,Dorado,payload,FEARLESS,Dallas Fuel,Winston
+32303,39360,Dorado,payload,Fielder,Dallas Fuel,Kiriko
+32343,39360,Dorado,payload,SP9RK1E,Dallas Fuel,Reaper
+32361,39360,Dorado,payload,SP9RK1E,Dallas Fuel,Tracer
+32396,39360,Dorado,payload,Fits,Seoul Dynasty,Sojourn
+32416,39360,Dorado,payload,Fits,Seoul Dynasty,Widowmaker
+32442,39360,Dorado,payload,Profit,Seoul Dynasty,Reaper
+32458,39360,Dorado,payload,Profit,Seoul Dynasty,Tracer
+32499,39360,Dorado,payload,Vindaim,Seoul Dynasty,Lucio
+32528,39360,Dorado,payload,ir1s,Seoul Dynasty,Kiriko
+32563,39360,Dorado,payload,smurf,Seoul Dynasty,Winston
+32609,39374,Ilios,control,Creative,Houston Outlaws,Kiriko
+32644,39374,Ilios,control,Danteh,Houston Outlaws,Winston
+32698,39374,Ilios,control,Lastro,Houston Outlaws,Lucio
+32735,39374,Ilios,control,MER1T,Houston Outlaws,Sojourn
+32769,39374,Ilios,control,PELICAN,Houston Outlaws,Reaper
+32800,39374,Ilios,control,Admiral,London Spitfire,Lucio
+32835,39374,Ilios,control,Backbone,London Spitfire,Reaper
+32855,39374,Ilios,control,Backbone,London Spitfire,Widowmaker
+32875,39374,Ilios,control,Hadi,London Spitfire,Winston
+32923,39374,Ilios,control,Landon,London Spitfire,Kiriko
+32953,39374,Ilios,control,SparkR,London Spitfire,Sojourn
+32986,39374,Eichenwalde,hybrid,Creative,Houston Outlaws,Kiriko
+33030,39374,Eichenwalde,hybrid,Danteh,Houston Outlaws,Winston
+33076,39374,Eichenwalde,hybrid,Lastro,Houston Outlaws,Lucio
+33118,39374,Eichenwalde,hybrid,MER1T,Houston Outlaws,Sojourn
+33164,39374,Eichenwalde,hybrid,PELICAN,Houston Outlaws,Reaper
+33199,39374,Eichenwalde,hybrid,Admiral,London Spitfire,Lucio
+33238,39374,Eichenwalde,hybrid,Backbone,London Spitfire,Reaper
+33261,39374,Eichenwalde,hybrid,Backbone,London Spitfire,Widowmaker
+33280,39374,Eichenwalde,hybrid,Hadi,London Spitfire,Winston
+33320,39374,Eichenwalde,hybrid,Landon,London Spitfire,Kiriko
+33345,39374,Eichenwalde,hybrid,SparkR,London Spitfire,Sojourn
+33384,39374,Circuit royal,payload,Creative,Houston Outlaws,Kiriko
+33414,39374,Circuit royal,payload,Danteh,Houston Outlaws,Winston
+33459,39374,Circuit royal,payload,Lastro,Houston Outlaws,Lucio
+33500,39374,Circuit royal,payload,MER1T,Houston Outlaws,Sojourn
+33521,39374,Circuit royal,payload,MER1T,Houston Outlaws,Symmetra
+33540,39374,Circuit royal,payload,PELICAN,Houston Outlaws,Reaper
+33567,39374,Circuit royal,payload,Admiral,London Spitfire,Lucio
+33612,39374,Circuit royal,payload,Backbone,London Spitfire,Reaper
+33640,39374,Circuit royal,payload,Hadi,London Spitfire,Winston
+33684,39374,Circuit royal,payload,Landon,London Spitfire,Kiriko
+33712,39374,Circuit royal,payload,SparkR,London Spitfire,Sojourn
+33748,39368,Lijiang Tower,control,FiNN,San Francisco Shock,Kiriko
+33784,39368,Lijiang Tower,control,Proper,San Francisco Shock,Sojourn
+33820,39368,Lijiang Tower,control,STRIKER,San Francisco Shock,Reaper
+33852,39368,Lijiang Tower,control,Viol2t,San Francisco Shock,Lucio
+33891,39368,Lijiang Tower,control,mikeyy,San Francisco Shock,Winston
+33925,39368,Lijiang Tower,control,Fits,Seoul Dynasty,Sojourn
+33962,39368,Lijiang Tower,control,Profit,Seoul Dynasty,Kiriko
+33994,39368,Lijiang Tower,control,Stalk3r,Seoul Dynasty,Reaper
+34010,39368,Lijiang Tower,control,Stalk3r,Seoul Dynasty,Symmetra
+34019,39368,Lijiang Tower,control,Stalk3r,Seoul Dynasty,Tracer
+34050,39368,Lijiang Tower,control,Vindaim,Seoul Dynasty,Lucio
+34098,39368,Lijiang Tower,control,smurf,Seoul Dynasty,Winston
+34147,39368,Paraíso,hybrid,Coluge,San Francisco Shock,Winston
+34186,39368,Paraíso,hybrid,FiNN,San Francisco Shock,Kiriko
+34222,39368,Paraíso,hybrid,Proper,San Francisco Shock,Sojourn
+34252,39368,Paraíso,hybrid,STRIKER,San Francisco Shock,Reaper
+34285,39368,Paraíso,hybrid,Viol2t,San Francisco Shock,Lucio
+34323,39368,Paraíso,hybrid,Fits,Seoul Dynasty,Sojourn
+34366,39368,Paraíso,hybrid,Profit,Seoul Dynasty,Kiriko
+34396,39368,Paraíso,hybrid,Stalk3r,Seoul Dynasty,Reaper
+34417,39368,Paraíso,hybrid,Stalk3r,Seoul Dynasty,Tracer
+34455,39368,Paraíso,hybrid,Vindaim,Seoul Dynasty,Lucio
+34491,39368,Paraíso,hybrid,smurf,Seoul Dynasty,Winston
+34534,39368,Dorado,payload,Coluge,San Francisco Shock,Doomfist
+34545,39368,Dorado,payload,Coluge,San Francisco Shock,Winston
+34585,39368,Dorado,payload,FiNN,San Francisco Shock,Kiriko
+34614,39368,Dorado,payload,Proper,San Francisco Shock,Sojourn
+34639,39368,Dorado,payload,Proper,San Francisco Shock,Widowmaker
+34655,39368,Dorado,payload,STRIKER,San Francisco Shock,Reaper
+34692,39368,Dorado,payload,Viol2t,San Francisco Shock,Ana
+34697,39368,Dorado,payload,Viol2t,San Francisco Shock,Lucio
+34742,39368,Dorado,payload,Fits,Seoul Dynasty,Sojourn
+34773,39368,Dorado,payload,Profit,Seoul Dynasty,Reaper
+34793,39368,Dorado,payload,Profit,Seoul Dynasty,Tracer
+34826,39368,Dorado,payload,Vindaim,Seoul Dynasty,Lucio
+34864,39368,Dorado,payload,ir1s,Seoul Dynasty,Kiriko
+34897,39368,Dorado,payload,smurf,Seoul Dynasty,Winston
+34931,39364,Lijiang Tower,control,AlphaYi,Hangzhou Spark,Echo
+34936,39364,Lijiang Tower,control,AlphaYi,Hangzhou Spark,Genji
+34961,39364,Lijiang Tower,control,AlphaYi,Hangzhou Spark,Reaper
+34986,39364,Lijiang Tower,control,AlphaYi,Hangzhou Spark,Symmetra
+35005,39364,Lijiang Tower,control,Guxue,Hangzhou Spark,Winston
+35045,39364,Lijiang Tower,control,Superich,Hangzhou Spark,Lucio
+35076,39364,Lijiang Tower,control,Teru,Hangzhou Spark,Kiriko
+35108,39364,Lijiang Tower,control,shy,Hangzhou Spark,Sojourn
+35141,39364,Lijiang Tower,control,Admiral,London Spitfire,Ana
+35147,39364,Lijiang Tower,control,Admiral,London Spitfire,Lucio
+35184,39364,Lijiang Tower,control,Backbone,London Spitfire,Bastion
+35206,39364,Lijiang Tower,control,Backbone,London Spitfire,Reaper
+35230,39364,Lijiang Tower,control,Backbone,London Spitfire,Widowmaker
+35248,39364,Lijiang Tower,control,Hadi,London Spitfire,Reinhardt
+35263,39364,Lijiang Tower,control,Hadi,London Spitfire,Winston
+35296,39364,Lijiang Tower,control,Landon,London Spitfire,Kiriko
+35328,39364,Lijiang Tower,control,SparkR,London Spitfire,Sojourn
+35350,39364,Lijiang Tower,control,SparkR,London Spitfire,Symmetra
+35364,39364,King's Row,hybrid,AlphaYi,Hangzhou Spark,Reaper
+35402,39364,King's Row,hybrid,Guxue,Hangzhou Spark,Winston
+35444,39364,King's Row,hybrid,Superich,Hangzhou Spark,Lucio
+35488,39364,King's Row,hybrid,Teru,Hangzhou Spark,Kiriko
+35517,39364,King's Row,hybrid,shy,Hangzhou Spark,Sojourn
+35552,39364,King's Row,hybrid,Admiral,London Spitfire,Lucio
+35590,39364,King's Row,hybrid,Backbone,London Spitfire,Reaper
+35607,39364,King's Row,hybrid,Backbone,London Spitfire,Tracer
+35615,39364,King's Row,hybrid,Backbone,London Spitfire,Widowmaker
+35632,39364,King's Row,hybrid,Hadi,London Spitfire,Winston
+35671,39364,King's Row,hybrid,Landon,London Spitfire,Kiriko
+35707,39364,King's Row,hybrid,SparkR,London Spitfire,Sojourn
+35743,39364,Route 66,payload,AlphaYi,Hangzhou Spark,Reaper
+35783,39364,Route 66,payload,Guxue,Hangzhou Spark,Winston
+35822,39364,Route 66,payload,Superich,Hangzhou Spark,Lucio
+35863,39364,Route 66,payload,Teru,Hangzhou Spark,Kiriko
+35895,39364,Route 66,payload,shy,Hangzhou Spark,Sojourn
+35933,39364,Route 66,payload,Admiral,London Spitfire,Ana
+35937,39364,Route 66,payload,Admiral,London Spitfire,Lucio
+35964,39364,Route 66,payload,Admiral,London Spitfire,Moira
+35986,39364,Route 66,payload,Backbone,London Spitfire,Reaper
+36005,39364,Route 66,payload,Backbone,London Spitfire,Widowmaker
+36032,39364,Route 66,payload,Hadi,London Spitfire,Junker Queen
+36035,39364,Route 66,payload,Hadi,London Spitfire,Roadhog
+36039,39364,Route 66,payload,Hadi,London Spitfire,Winston
+36072,39364,Route 66,payload,Landon,London Spitfire,Kiriko
+36099,39364,Route 66,payload,SparkR,London Spitfire,Hanzo
+36102,39364,Route 66,payload,SparkR,London Spitfire,Sojourn
+36122,39364,Route 66,payload,SparkR,London Spitfire,Tracer
+36144,39364,Colosseo,push,AlphaYi,Hangzhou Spark,Reaper
+36180,39364,Colosseo,push,Guxue,Hangzhou Spark,Winston
+36214,39364,Colosseo,push,Superich,Hangzhou Spark,Lucio
+36259,39364,Colosseo,push,Teru,Hangzhou Spark,Kiriko
+36288,39364,Colosseo,push,shy,Hangzhou Spark,Sojourn
+36326,39364,Colosseo,push,Admiral,London Spitfire,Lucio
+36367,39364,Colosseo,push,Backbone,London Spitfire,Reaper
+36401,39364,Colosseo,push,Hadi,London Spitfire,Winston
+36449,39364,Colosseo,push,Landon,London Spitfire,Kiriko
+36482,39364,Colosseo,push,SparkR,London Spitfire,Sojourn
+36516,39361,Nepal,control,ChiYo,Dallas Fuel,Lucio
+36547,39361,Nepal,control,Edison,Dallas Fuel,Sojourn
+36589,39361,Nepal,control,FEARLESS,Dallas Fuel,Doomfist
+36604,39361,Nepal,control,FEARLESS,Dallas Fuel,Winston
+36645,39361,Nepal,control,Fielder,Dallas Fuel,Kiriko
+36671,39361,Nepal,control,SP9RK1E,Dallas Fuel,Reaper
+36693,39361,Nepal,control,SP9RK1E,Dallas Fuel,Symmetra
+36714,39361,Nepal,control,Creative,Houston Outlaws,Kiriko
+36744,39361,Nepal,control,Danteh,Houston Outlaws,Winston
+36780,39361,Nepal,control,Lastro,Houston Outlaws,Lucio
+36818,39361,Nepal,control,MER1T,Houston Outlaws,Sojourn
+36854,39361,Nepal,control,PELICAN,Houston Outlaws,Reaper
+36871,39361,Nepal,control,PELICAN,Houston Outlaws,Symmetra
+36892,39361,King's Row,hybrid,ChiYo,Dallas Fuel,Lucio
+36927,39361,King's Row,hybrid,Edison,Dallas Fuel,Sojourn
+36968,39361,King's Row,hybrid,FEARLESS,Dallas Fuel,Winston
+37005,39361,King's Row,hybrid,Fielder,Dallas Fuel,Kiriko
+37040,39361,King's Row,hybrid,SP9RK1E,Dallas Fuel,Reaper
+37071,39361,King's Row,hybrid,Creative,Houston Outlaws,Kiriko
+37105,39361,King's Row,hybrid,Danteh,Houston Outlaws,Winston
+37149,39361,King's Row,hybrid,Lastro,Houston Outlaws,Lucio
+37189,39361,King's Row,hybrid,MER1T,Houston Outlaws,Sojourn
+37221,39361,King's Row,hybrid,PELICAN,Houston Outlaws,Reaper
+37259,39361,Route 66,payload,ChiYo,Dallas Fuel,Lucio
+37296,39361,Route 66,payload,Edison,Dallas Fuel,Sojourn
+37332,39361,Route 66,payload,FEARLESS,Dallas Fuel,Winston
+37373,39361,Route 66,payload,Fielder,Dallas Fuel,Ana
+37380,39361,Route 66,payload,Fielder,Dallas Fuel,Kiriko
+37409,39361,Route 66,payload,SP9RK1E,Dallas Fuel,Reaper
+37442,39361,Route 66,payload,Creative,Houston Outlaws,Kiriko
+37471,39361,Route 66,payload,Danteh,Houston Outlaws,Winston
+37509,39361,Route 66,payload,Lastro,Houston Outlaws,Lucio
+37548,39361,Route 66,payload,MER1T,Houston Outlaws,Sojourn
+37585,39361,Route 66,payload,PELICAN,Houston Outlaws,Reaper
+37617,39361,Colosseo,push,ChiYo,Dallas Fuel,Lucio
+37664,39361,Colosseo,push,Edison,Dallas Fuel,Sojourn
+37710,39361,Colosseo,push,FEARLESS,Dallas Fuel,Winston
+37754,39361,Colosseo,push,Fielder,Dallas Fuel,Kiriko
+37780,39361,Colosseo,push,SP9RK1E,Dallas Fuel,Reaper
+37814,39361,Colosseo,push,Creative,Houston Outlaws,Kiriko
+37842,39361,Colosseo,push,Danteh,Houston Outlaws,Winston
+37884,39361,Colosseo,push,Lastro,Houston Outlaws,Lucio
+37922,39361,Colosseo,push,MER1T,Houston Outlaws,Sojourn
+37961,39361,Colosseo,push,PELICAN,Houston Outlaws,Reaper
+37989,39365,Oasis,control,AlphaYi,Hangzhou Spark,Reaper
+37998,39365,Oasis,control,AlphaYi,Hangzhou Spark,Symmetra
+38013,39365,Oasis,control,Guxue,Hangzhou Spark,Winston
+38047,39365,Oasis,control,Superich,Hangzhou Spark,Lucio
+38082,39365,Oasis,control,Teru,Hangzhou Spark,Kiriko
+38119,39365,Oasis,control,shy,Hangzhou Spark,Sojourn
+38148,39365,Oasis,control,FiNN,San Francisco Shock,Kiriko
+38181,39365,Oasis,control,Proper,San Francisco Shock,Sojourn
+38214,39365,Oasis,control,STRIKER,San Francisco Shock,Reaper
+38236,39365,Oasis,control,STRIKER,San Francisco Shock,Tracer
+38260,39365,Oasis,control,Viol2t,San Francisco Shock,Lucio
+38303,39365,Oasis,control,mikeyy,San Francisco Shock,Winston
+38346,39365,King's Row,hybrid,AlphaYi,Hangzhou Spark,Reaper
+38384,39365,King's Row,hybrid,Guxue,Hangzhou Spark,Winston
+38424,39365,King's Row,hybrid,Superich,Hangzhou Spark,Lucio
+38464,39365,King's Row,hybrid,Teru,Hangzhou Spark,Kiriko
+38503,39365,King's Row,hybrid,shy,Hangzhou Spark,Sojourn
+38539,39365,King's Row,hybrid,Coluge,San Francisco Shock,Winston
+38576,39365,King's Row,hybrid,FiNN,San Francisco Shock,Kiriko
+38608,39365,King's Row,hybrid,Proper,San Francisco Shock,Sojourn
+38645,39365,King's Row,hybrid,STRIKER,San Francisco Shock,Reaper
+38666,39365,King's Row,hybrid,STRIKER,San Francisco Shock,Widowmaker
+38680,39365,King's Row,hybrid,Viol2t,San Francisco Shock,Lucio
+38722,39365,Circuit royal,payload,BERNAR,Hangzhou Spark,Sigma
+38752,39365,Circuit royal,payload,Pineapple,Hangzhou Spark,Widowmaker
+38787,39365,Circuit royal,payload,Teru,Hangzhou Spark,Baptiste
+38835,39365,Circuit royal,payload,irony,Hangzhou Spark,Zenyatta
+38866,39365,Circuit royal,payload,shy,Hangzhou Spark,Sojourn
+38901,39365,Circuit royal,payload,Coluge,San Francisco Shock,Sigma
+38935,39365,Circuit royal,payload,FiNN,San Francisco Shock,Zenyatta
+38966,39365,Circuit royal,payload,Kilo,San Francisco Shock,Sojourn
+39000,39365,Circuit royal,payload,Proper,San Francisco Shock,Widowmaker
+39038,39365,Circuit royal,payload,Viol2t,San Francisco Shock,Baptiste
+39077,39365,Colosseo,push,AlphaYi,Hangzhou Spark,Reaper
+39114,39365,Colosseo,push,Guxue,Hangzhou Spark,Winston
+39160,39365,Colosseo,push,Superich,Hangzhou Spark,Lucio
+39199,39365,Colosseo,push,Teru,Hangzhou Spark,Kiriko
+39230,39365,Colosseo,push,shy,Hangzhou Spark,Sojourn
+39261,39365,Colosseo,push,Coluge,San Francisco Shock,Winston
+39291,39365,Colosseo,push,FiNN,San Francisco Shock,Kiriko
+39328,39365,Colosseo,push,Proper,San Francisco Shock,Sojourn
+39369,39365,Colosseo,push,STRIKER,San Francisco Shock,Reaper
+39405,39365,Colosseo,push,Viol2t,San Francisco Shock,Lucio
+39445,39363,Nepal,control,Creative,Houston Outlaws,Kiriko
+39467,39363,Nepal,control,Danteh,Houston Outlaws,Winston
+39510,39363,Nepal,control,Lastro,Houston Outlaws,Lucio
+39547,39363,Nepal,control,MER1T,Houston Outlaws,Sojourn
+39582,39363,Nepal,control,PELICAN,Houston Outlaws,Reaper
+39604,39363,Nepal,control,PELICAN,Houston Outlaws,Symmetra
+39623,39363,Nepal,control,FiNN,San Francisco Shock,Kiriko
+39652,39363,Nepal,control,Proper,San Francisco Shock,Sojourn
+39677,39363,Nepal,control,STRIKER,San Francisco Shock,Reaper
+39694,39363,Nepal,control,STRIKER,San Francisco Shock,Symmetra
+39709,39363,Nepal,control,Viol2t,San Francisco Shock,Lucio
+39747,39363,Nepal,control,mikeyy,San Francisco Shock,Winston
+39788,39363,King's Row,hybrid,Creative,Houston Outlaws,Kiriko
+39813,39363,King's Row,hybrid,Danteh,Houston Outlaws,Winston
+39860,39363,King's Row,hybrid,Lastro,Houston Outlaws,Lucio
+39901,39363,King's Row,hybrid,MER1T,Houston Outlaws,Sojourn
+39930,39363,King's Row,hybrid,PELICAN,Houston Outlaws,Reaper
+39965,39363,King's Row,hybrid,FiNN,San Francisco Shock,Kiriko
+39998,39363,King's Row,hybrid,Proper,San Francisco Shock,Sojourn
+40032,39363,King's Row,hybrid,STRIKER,San Francisco Shock,Reaper
+40055,39363,King's Row,hybrid,STRIKER,San Francisco Shock,Widowmaker
+40073,39363,King's Row,hybrid,Viol2t,San Francisco Shock,Lucio
+40120,39363,King's Row,hybrid,mikeyy,San Francisco Shock,Winston
+40165,39363,Route 66,payload,Creative,Houston Outlaws,Kiriko
+40196,39363,Route 66,payload,Danteh,Houston Outlaws,Winston
+40232,39363,Route 66,payload,Lastro,Houston Outlaws,Lucio
+40269,39363,Route 66,payload,MER1T,Houston Outlaws,Sojourn
+40298,39363,Route 66,payload,PELICAN,Houston Outlaws,Reaper
+40334,39363,Route 66,payload,Coluge,San Francisco Shock,Doomfist
+40342,39363,Route 66,payload,Coluge,San Francisco Shock,Winston
+40381,39363,Route 66,payload,FiNN,San Francisco Shock,Baptiste
+40395,39363,Route 66,payload,FiNN,San Francisco Shock,Kiriko
+40421,39363,Route 66,payload,Proper,San Francisco Shock,Sojourn
+40445,39363,Route 66,payload,Proper,San Francisco Shock,Symmetra
+40466,39363,Route 66,payload,STRIKER,San Francisco Shock,Reaper
+40498,39363,Route 66,payload,Viol2t,San Francisco Shock,Lucio
+40540,39362,Lijiang Tower,control,ChiYo,Dallas Fuel,Lucio
+40582,39362,Lijiang Tower,control,Edison,Dallas Fuel,Sojourn
+40614,39362,Lijiang Tower,control,FEARLESS,Dallas Fuel,Winston
+40654,39362,Lijiang Tower,control,Fielder,Dallas Fuel,Kiriko
+40685,39362,Lijiang Tower,control,SP9RK1E,Dallas Fuel,Reaper
+40703,39362,Lijiang Tower,control,SP9RK1E,Dallas Fuel,Symmetra
+40722,39362,Lijiang Tower,control,FiNN,San Francisco Shock,Kiriko
+40749,39362,Lijiang Tower,control,Proper,San Francisco Shock,Sojourn
+40779,39362,Lijiang Tower,control,STRIKER,San Francisco Shock,Reaper
+40805,39362,Lijiang Tower,control,Viol2t,San Francisco Shock,Lucio
+40851,39362,Lijiang Tower,control,mikeyy,San Francisco Shock,Winston
+40892,39362,King's Row,hybrid,ChiYo,Dallas Fuel,Lucio
+40929,39362,King's Row,hybrid,Edison,Dallas Fuel,Sojourn
+40951,39362,King's Row,hybrid,Edison,Dallas Fuel,Widowmaker
+40964,39362,King's Row,hybrid,FEARLESS,Dallas Fuel,Winston
+41007,39362,King's Row,hybrid,Fielder,Dallas Fuel,Kiriko
+41041,39362,King's Row,hybrid,SP9RK1E,Dallas Fuel,Reaper
+41076,39362,King's Row,hybrid,FiNN,San Francisco Shock,Kiriko
+41107,39362,King's Row,hybrid,Proper,San Francisco Shock,Sojourn
+41145,39362,King's Row,hybrid,STRIKER,San Francisco Shock,Reaper
+41180,39362,King's Row,hybrid,Viol2t,San Francisco Shock,Lucio
+41224,39362,King's Row,hybrid,mikeyy,San Francisco Shock,Winston
+41267,39362,Dorado,payload,ChiYo,Dallas Fuel,Lucio
+41302,39362,Dorado,payload,Edison,Dallas Fuel,Sojourn
+41339,39362,Dorado,payload,FEARLESS,Dallas Fuel,Winston
+41377,39362,Dorado,payload,Fielder,Dallas Fuel,Kiriko
+41410,39362,Dorado,payload,SP9RK1E,Dallas Fuel,Reaper
+41431,39362,Dorado,payload,SP9RK1E,Dallas Fuel,Tracer
+41455,39362,Dorado,payload,FiNN,San Francisco Shock,Kiriko
+41487,39362,Dorado,payload,Proper,San Francisco Shock,Sojourn
+41508,39362,Dorado,payload,Proper,San Francisco Shock,Tracer
+41535,39362,Dorado,payload,STRIKER,San Francisco Shock,Reaper
+41572,39362,Dorado,payload,Viol2t,San Francisco Shock,Lucio
+41612,39362,Dorado,payload,mikeyy,San Francisco Shock,Winston
+41658,39362,Esperança,push,ChiYo,Dallas Fuel,Lucio
+41710,39362,Esperança,push,Edison,Dallas Fuel,Sojourn
+41752,39362,Esperança,push,FEARLESS,Dallas Fuel,Winston
+41801,39362,Esperança,push,Fielder,Dallas Fuel,Kiriko
+41832,39362,Esperança,push,SP9RK1E,Dallas Fuel,Reaper
+41881,39362,Esperança,push,FiNN,San Francisco Shock,Kiriko
+41906,39362,Esperança,push,Proper,San Francisco Shock,Sojourn
+41938,39362,Esperança,push,STRIKER,San Francisco Shock,Reaper
+41963,39362,Esperança,push,Viol2t,San Francisco Shock,Lucio
+42005,39362,Esperança,push,mikeyy,San Francisco Shock,Winston
+42041,39362,Oasis,control,ChiYo,Dallas Fuel,Lucio
+42082,39362,Oasis,control,Edison,Dallas Fuel,Sojourn
+42121,39362,Oasis,control,FEARLESS,Dallas Fuel,Doomfist
+42124,39362,Oasis,control,FEARLESS,Dallas Fuel,Winston
+42156,39362,Oasis,control,Fielder,Dallas Fuel,Kiriko
+42194,39362,Oasis,control,SP9RK1E,Dallas Fuel,Reaper
+42231,39362,Oasis,control,FiNN,San Francisco Shock,Kiriko
+42264,39362,Oasis,control,Proper,San Francisco Shock,Sojourn
+42301,39362,Oasis,control,STRIKER,San Francisco Shock,Reaper
+42337,39362,Oasis,control,Viol2t,San Francisco Shock,Lucio
+42381,39362,Oasis,control,mikeyy,San Francisco Shock,Winston
+42424,39362,Route 66,payload,ChiYo,Dallas Fuel,Lucio
+42464,39362,Route 66,payload,Edison,Dallas Fuel,Sojourn
+42503,39362,Route 66,payload,FEARLESS,Dallas Fuel,Winston
+42538,39362,Route 66,payload,Fielder,Dallas Fuel,Kiriko
+42566,39362,Route 66,payload,SP9RK1E,Dallas Fuel,Reaper
+42599,39362,Route 66,payload,FiNN,San Francisco Shock,Kiriko
+42631,39362,Route 66,payload,Proper,San Francisco Shock,Sojourn
+42668,39362,Route 66,payload,STRIKER,San Francisco Shock,Hanzo
+42673,39362,Route 66,payload,STRIKER,San Francisco Shock,Reaper
+42703,39362,Route 66,payload,Viol2t,San Francisco Shock,Lucio
+42738,39362,Route 66,payload,mikeyy,San Francisco Shock,Winston
+42776,39362,Colosseo,push,ChiYo,Dallas Fuel,Lucio
+42813,39362,Colosseo,push,Edison,Dallas Fuel,Sojourn
+42849,39362,Colosseo,push,FEARLESS,Dallas Fuel,Winston
+42892,39362,Colosseo,push,Fielder,Dallas Fuel,Kiriko
+42919,39362,Colosseo,push,SP9RK1E,Dallas Fuel,Reaper
+42953,39362,Colosseo,push,FiNN,San Francisco Shock,Kiriko
+42978,39362,Colosseo,push,Proper,San Francisco Shock,Sojourn
+43006,39362,Colosseo,push,STRIKER,San Francisco Shock,Reaper
+43038,39362,Colosseo,push,Viol2t,San Francisco Shock,Lucio
+43080,39362,Colosseo,push,mikeyy,San Francisco Shock,Winston

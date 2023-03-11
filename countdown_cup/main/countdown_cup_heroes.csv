@@ -1,0 +1,4184 @@
+,map_name,player_name,team_name,hero_name
+14,Oasis,Crimzo,Boston Uprising,Baptiste
+52,Oasis,MCD,Boston Uprising,Zenyatta
+97,Oasis,Valentine,Boston Uprising,Symmetra
+103,Oasis,Valentine,Boston Uprising,Tracer
+146,Oasis,Victoria,Boston Uprising,Sombra
+175,Oasis,punk,Boston Uprising,D.Va
+188,Oasis,punk,Boston Uprising,Junker Queen
+226,Oasis,Creative,Houston Outlaws,Ana
+266,Oasis,Danteh,Houston Outlaws,Doomfist
+303,Oasis,Lastro,Houston Outlaws,Lucio
+331,Oasis,Lastro,Houston Outlaws,Zenyatta
+360,Oasis,MER1T,Houston Outlaws,Symmetra
+369,Oasis,MER1T,Houston Outlaws,Tracer
+397,Oasis,PELICAN,Houston Outlaws,Sombra
+434,Eichenwalde,Crimzo,Boston Uprising,Baptiste
+471,Eichenwalde,MCD,Boston Uprising,Zenyatta
+506,Eichenwalde,Valentine,Boston Uprising,Tracer
+538,Eichenwalde,Valentine,Boston Uprising,Widowmaker
+554,Eichenwalde,Victoria,Boston Uprising,Sombra
+590,Eichenwalde,punk,Boston Uprising,Junker Queen
+626,Eichenwalde,Creative,Houston Outlaws,Ana
+669,Eichenwalde,Doge,Houston Outlaws,D.Va
+688,Eichenwalde,Doge,Houston Outlaws,Winston
+715,Eichenwalde,Doge,Houston Outlaws,Wrecking Ball
+734,Eichenwalde,Lastro,Houston Outlaws,Brigitte
+753,Eichenwalde,Lastro,Houston Outlaws,Lucio
+758,Eichenwalde,Lastro,Houston Outlaws,Zenyatta
+791,Eichenwalde,MER1T,Houston Outlaws,Sojourn
+811,Eichenwalde,MER1T,Houston Outlaws,Symmetra
+817,Eichenwalde,MER1T,Houston Outlaws,Tracer
+845,Eichenwalde,PELICAN,Houston Outlaws,Genji
+870,Eichenwalde,PELICAN,Houston Outlaws,Sombra
+895,Route 66,Crimzo,Boston Uprising,Ana
+931,Route 66,MCD,Boston Uprising,Zenyatta
+971,Route 66,Valentine,Boston Uprising,Tracer
+996,Route 66,Valentine,Boston Uprising,Widowmaker
+1014,Route 66,Victoria,Boston Uprising,Sombra
+1048,Route 66,punk,Boston Uprising,D.Va
+1070,Route 66,punk,Boston Uprising,Doomfist
+1100,Route 66,Creative,Houston Outlaws,Ana
+1146,Route 66,Doge,Houston Outlaws,D.Va
+1168,Route 66,Doge,Houston Outlaws,Winston
+1209,Route 66,Lastro,Houston Outlaws,Brigitte
+1226,Route 66,Lastro,Houston Outlaws,Zenyatta
+1260,Route 66,MER1T,Houston Outlaws,Hanzo
+1262,Route 66,MER1T,Houston Outlaws,Tracer
+1286,Route 66,PELICAN,Houston Outlaws,Sombra
+1316,Colosseo,Crimzo,Boston Uprising,Ana
+1357,Colosseo,MCD,Boston Uprising,Zenyatta
+1397,Colosseo,Valentine,Boston Uprising,Tracer
+1432,Colosseo,Victoria,Boston Uprising,Sombra
+1466,Colosseo,punk,Boston Uprising,D.Va
+1476,Colosseo,punk,Boston Uprising,Doomfist
+1509,Colosseo,Creative,Houston Outlaws,Ana
+1546,Colosseo,Doge,Houston Outlaws,D.Va
+1566,Colosseo,Doge,Houston Outlaws,Winston
+1591,Colosseo,Lastro,Houston Outlaws,Zenyatta
+1618,Colosseo,MER1T,Houston Outlaws,Tracer
+1652,Colosseo,PELICAN,Houston Outlaws,Sombra
+1692,Lijiang Tower,ChiYo,Dallas Fuel,Lucio
+1731,Lijiang Tower,Doha,Dallas Fuel,Sombra
+1768,Lijiang Tower,Edison,Dallas Fuel,Genji
+1812,Lijiang Tower,Fielder,Dallas Fuel,Ana
+1846,Lijiang Tower,Hanbin,Dallas Fuel,D.Va
+1863,Lijiang Tower,Hanbin,Dallas Fuel,Zarya
+1903,Lijiang Tower,Assassin,Washington Justice,Sombra
+1939,Lijiang Tower,Decay,Washington Justice,Symmetra
+1946,Lijiang Tower,Decay,Washington Justice,Tracer
+1978,Lijiang Tower,Kalios,Washington Justice,Doomfist
+2010,Lijiang Tower,Krillin,Washington Justice,Zenyatta
+2042,Lijiang Tower,OPENER,Washington Justice,Brigitte
+2069,King's Row,ChiYo,Dallas Fuel,Lucio
+2087,King's Row,ChiYo,Dallas Fuel,Zenyatta
+2116,King's Row,Doha,Dallas Fuel,Genji
+2149,King's Row,Doha,Dallas Fuel,Hanzo
+2159,King's Row,Doha,Dallas Fuel,Sombra
+2174,King's Row,Doha,Dallas Fuel,Widowmaker
+2190,King's Row,Edison,Dallas Fuel,Genji
+2215,King's Row,Edison,Dallas Fuel,Reaper
+2232,King's Row,Edison,Dallas Fuel,Symmetra
+2248,King's Row,Fielder,Dallas Fuel,Ana
+2290,King's Row,Hanbin,Dallas Fuel,D.Va
+2293,King's Row,Hanbin,Dallas Fuel,Junker Queen
+2310,King's Row,Hanbin,Dallas Fuel,Zarya
+2348,King's Row,Assassin,Washington Justice,Ashe
+2363,King's Row,Assassin,Washington Justice,Sombra
+2397,King's Row,Decay,Washington Justice,Hanzo
+2402,King's Row,Decay,Washington Justice,Reaper
+2422,King's Row,Decay,Washington Justice,Tracer
+2458,King's Row,Kalios,Washington Justice,D.Va
+2473,King's Row,Kalios,Washington Justice,Doomfist
+2494,King's Row,Kalios,Washington Justice,Orisa
+2514,King's Row,Kalios,Washington Justice,Zarya
+2558,King's Row,Krillin,Washington Justice,Ana
+2579,King's Row,Krillin,Washington Justice,Moira
+2599,King's Row,Krillin,Washington Justice,Zenyatta
+2633,King's Row,OPENER,Washington Justice,Ana
+2662,King's Row,OPENER,Washington Justice,Brigitte
+2664,King's Row,OPENER,Washington Justice,Lucio
+2700,Route 66,ChiYo,Dallas Fuel,Lucio
+2736,Route 66,Doha,Dallas Fuel,Sombra
+2764,Route 66,Edison,Dallas Fuel,Genji
+2791,Route 66,Edison,Dallas Fuel,Widowmaker
+2809,Route 66,Fielder,Dallas Fuel,Ana
+2854,Route 66,Hanbin,Dallas Fuel,Junker Queen
+2873,Route 66,Hanbin,Dallas Fuel,Zarya
+2908,Route 66,Assassin,Washington Justice,Sombra
+2932,Route 66,Decay,Washington Justice,Hanzo
+2936,Route 66,Decay,Washington Justice,Tracer
+2969,Route 66,Kalios,Washington Justice,Doomfist
+2984,Route 66,Kalios,Washington Justice,Orisa
+2997,Route 66,Kalios,Washington Justice,Zarya
+3027,Route 66,Krillin,Washington Justice,Ana
+3053,Route 66,Krillin,Washington Justice,Lucio
+3056,Route 66,Krillin,Washington Justice,Zenyatta
+3088,Route 66,OPENER,Washington Justice,Ana
+3111,Route 66,OPENER,Washington Justice,Brigitte
+3139,New Queen Street,ChiYo,Dallas Fuel,Lucio
+3181,New Queen Street,Doha,Dallas Fuel,Sombra
+3209,New Queen Street,Edison,Dallas Fuel,Genji
+3243,New Queen Street,Fielder,Dallas Fuel,Ana
+3279,New Queen Street,Hanbin,Dallas Fuel,Zarya
+3316,New Queen Street,Assassin,Washington Justice,Ashe
+3327,New Queen Street,Assassin,Washington Justice,Sombra
+3360,New Queen Street,Decay,Washington Justice,Symmetra
+3365,New Queen Street,Decay,Washington Justice,Tracer
+3401,New Queen Street,Kalios,Washington Justice,Orisa
+3419,New Queen Street,Kalios,Washington Justice,Zarya
+3450,New Queen Street,Krillin,Washington Justice,Ana
+3476,New Queen Street,Krillin,Washington Justice,Zenyatta
+3510,New Queen Street,OPENER,Washington Justice,Baptiste
+3530,New Queen Street,OPENER,Washington Justice,Brigitte
+3538,New Queen Street,OPENER,Washington Justice,Lucio
+3576,Nepal,Hawk,Atlanta Reign,Orisa
+3609,Nepal,Speedily,Atlanta Reign,Echo
+3645,Nepal,UltraViolet,Atlanta Reign,Ana
+3662,Nepal,UltraViolet,Atlanta Reign,Baptiste
+3707,Nepal,Venom,Atlanta Reign,Symmetra
+3711,Nepal,Venom,Atlanta Reign,Tracer
+3750,Nepal,vigilante,Atlanta Reign,Zenyatta
+3790,Nepal,CH0R0NG,Toronto Defiant,Lucio
+3819,Nepal,Finale,Toronto Defiant,Reaper
+3834,Nepal,Finale,Toronto Defiant,Tracer
+3865,Nepal,HOTBA,Toronto Defiant,D.Va
+3881,Nepal,HOTBA,Toronto Defiant,Zarya
+3915,Nepal,Heesu,Toronto Defiant,Sombra
+3946,Nepal,Twilight,Toronto Defiant,Ana
+3990,Paraíso,Hawk,Atlanta Reign,D.Va
+4031,Paraíso,Speedily,Atlanta Reign,Echo
+4063,Paraíso,UltraViolet,Atlanta Reign,Ana
+4109,Paraíso,Venom,Atlanta Reign,Tracer
+4129,Paraíso,Venom,Atlanta Reign,Widowmaker
+4145,Paraíso,vigilante,Atlanta Reign,Zenyatta
+4186,Paraíso,CH0R0NG,Toronto Defiant,Lucio
+4202,Paraíso,CH0R0NG,Toronto Defiant,Zenyatta
+4236,Paraíso,Finale,Toronto Defiant,Hanzo
+4241,Paraíso,Finale,Toronto Defiant,Tracer
+4271,Paraíso,HOTBA,Toronto Defiant,D.Va
+4305,Paraíso,Heesu,Toronto Defiant,Ashe
+4327,Paraíso,Heesu,Toronto Defiant,Cassidy
+4335,Paraíso,Heesu,Toronto Defiant,Soldier: 76
+4336,Paraíso,Heesu,Toronto Defiant,Sombra
+4359,Paraíso,Heesu,Toronto Defiant,Symmetra
+4363,Paraíso,Heesu,Toronto Defiant,Widowmaker
+4378,Paraíso,Twilight,Toronto Defiant,Ana
+4398,Paraíso,Twilight,Toronto Defiant,Baptiste
+4428,Circuit royal,Hawk,Atlanta Reign,Sigma
+4464,Circuit royal,Kai,Atlanta Reign,Widowmaker
+4500,Circuit royal,UltraViolet,Atlanta Reign,Baptiste
+4544,Circuit royal,nero,Atlanta Reign,Genji
+4564,Circuit royal,nero,Atlanta Reign,Hanzo
+4601,Circuit royal,vigilante,Atlanta Reign,Zenyatta
+4638,Circuit royal,CH0R0NG,Toronto Defiant,Baptiste
+4673,Circuit royal,Finale,Toronto Defiant,Genji
+4676,Circuit royal,Finale,Toronto Defiant,Sojourn
+4708,Circuit royal,HOTBA,Toronto Defiant,Sigma
+4740,Circuit royal,Heesu,Toronto Defiant,Tracer
+4752,Circuit royal,Heesu,Toronto Defiant,Widowmaker
+4787,Circuit royal,Twilight,Toronto Defiant,Zenyatta
+4821,Colosseo,Hawk,Atlanta Reign,Zarya
+4859,Colosseo,UltraViolet,Atlanta Reign,Ana
+4893,Colosseo,Venom,Atlanta Reign,Tracer
+4930,Colosseo,nero,Atlanta Reign,Sombra
+4964,Colosseo,vigilante,Atlanta Reign,Zenyatta
+5003,Colosseo,CH0R0NG,Toronto Defiant,Lucio
+5045,Colosseo,Finale,Toronto Defiant,Reaper
+5083,Colosseo,HOTBA,Toronto Defiant,Zarya
+5109,Colosseo,Heesu,Toronto Defiant,Sombra
+5137,Colosseo,Twilight,Toronto Defiant,Ana
+5178,Ilios,Hawk,Atlanta Reign,D.Va
+5197,Ilios,Hawk,Atlanta Reign,Orisa
+5215,Ilios,Speedily,Atlanta Reign,Echo
+5257,Ilios,UltraViolet,Atlanta Reign,Ana
+5292,Ilios,UltraViolet,Atlanta Reign,Baptiste
+5315,Ilios,Venom,Atlanta Reign,Symmetra
+5321,Ilios,Venom,Atlanta Reign,Tracer
+5345,Ilios,vigilante,Atlanta Reign,Zenyatta
+5381,Ilios,CH0R0NG,Toronto Defiant,Brigitte
+5399,Ilios,CH0R0NG,Toronto Defiant,Lucio
+5434,Ilios,Finale,Toronto Defiant,Reaper
+5449,Ilios,Finale,Toronto Defiant,Symmetra
+5457,Ilios,Finale,Toronto Defiant,Tracer
+5487,Ilios,HOTBA,Toronto Defiant,D.Va
+5508,Ilios,HOTBA,Toronto Defiant,Zarya
+5539,Ilios,Heesu,Toronto Defiant,Sombra
+5572,Ilios,Twilight,Toronto Defiant,Ana
+5595,Ilios,Twilight,Toronto Defiant,Zenyatta
+5626,Nepal,GA9A,Chengdu Hunters,Winston
+5650,Nepal,GA9A,Chengdu Hunters,Wrecking Ball
+5691,Nepal,Jinmu,Chengdu Hunters,Pharah
+5708,Nepal,Jinmu,Chengdu Hunters,Sombra
+5739,Nepal,Leave,Chengdu Hunters,Sojourn
+5764,Nepal,Leave,Chengdu Hunters,Symmetra
+5772,Nepal,Leave,Chengdu Hunters,Tracer
+5814,Nepal,Mmonk,Chengdu Hunters,Ana
+5841,Nepal,Mmonk,Chengdu Hunters,Moira
+5872,Nepal,Nisha,Chengdu Hunters,Brigitte
+5886,Nepal,Nisha,Chengdu Hunters,Mercy
+5914,Nepal,AlphaYi,Hangzhou Spark,Mei
+5933,Nepal,AlphaYi,Hangzhou Spark,Symmetra
+5942,Nepal,AlphaYi,Hangzhou Spark,Tracer
+5973,Nepal,Guxue,Hangzhou Spark,Reinhardt
+5987,Nepal,Guxue,Hangzhou Spark,Winston
+6022,Nepal,Neko,Hangzhou Spark,Brigitte
+6041,Nepal,Neko,Hangzhou Spark,Lucio
+6066,Nepal,Teru,Hangzhou Spark,Ana
+6093,Nepal,Teru,Hangzhou Spark,Baptiste
+6127,Nepal,shy,Hangzhou Spark,Cassidy
+6141,Nepal,shy,Hangzhou Spark,Sojourn
+6147,Nepal,shy,Hangzhou Spark,Sombra
+6165,Nepal,shy,Hangzhou Spark,Symmetra
+6170,Nepal,shy,Hangzhou Spark,Widowmaker
+6186,Paraíso,GA9A,Chengdu Hunters,Winston
+6226,Paraíso,Jinmu,Chengdu Hunters,Genji
+6248,Paraíso,Jinmu,Chengdu Hunters,Tracer
+6283,Paraíso,Leave,Chengdu Hunters,Ashe
+6304,Paraíso,Leave,Chengdu Hunters,Sojourn
+6321,Paraíso,Leave,Chengdu Hunters,Widowmaker
+6345,Paraíso,Mmonk,Chengdu Hunters,Ana
+6381,Paraíso,Nisha,Chengdu Hunters,Brigitte
+6420,Paraíso,AlphaYi,Hangzhou Spark,Genji
+6443,Paraíso,AlphaYi,Hangzhou Spark,Tracer
+6462,Paraíso,AlphaYi,Hangzhou Spark,Widowmaker
+6488,Paraíso,Guxue,Hangzhou Spark,Winston
+6526,Paraíso,Neko,Hangzhou Spark,Brigitte
+6558,Paraíso,Teru,Hangzhou Spark,Ana
+6606,Paraíso,shy,Hangzhou Spark,Sojourn
+6641,Junkertown,Daizi,Chengdu Hunters,Sigma
+6678,Junkertown,Jinmu,Chengdu Hunters,Genji
+6699,Junkertown,Jinmu,Chengdu Hunters,Tracer
+6734,Junkertown,Leave,Chengdu Hunters,Widowmaker
+6766,Junkertown,Mmonk,Chengdu Hunters,Zenyatta
+6804,Junkertown,Nisha,Chengdu Hunters,Baptiste
+6842,Junkertown,AlphaYi,Hangzhou Spark,Genji
+6861,Junkertown,AlphaYi,Hangzhou Spark,Hanzo
+6883,Junkertown,AlphaYi,Hangzhou Spark,Tracer
+6901,Junkertown,BERNAR,Hangzhou Spark,Sigma
+6930,Junkertown,Neko,Hangzhou Spark,Baptiste
+6969,Junkertown,Teru,Hangzhou Spark,Brigitte
+6987,Junkertown,Teru,Hangzhou Spark,Zenyatta
+7023,Junkertown,shy,Hangzhou Spark,Widowmaker
+7052,Colosseo,GA9A,Chengdu Hunters,Winston
+7097,Colosseo,Jinmu,Chengdu Hunters,Genji
+7118,Colosseo,Jinmu,Chengdu Hunters,Sombra
+7147,Colosseo,Leave,Chengdu Hunters,Sojourn
+7183,Colosseo,Mmonk,Chengdu Hunters,Ana
+7230,Colosseo,Nisha,Chengdu Hunters,Lucio
+7264,Colosseo,AlphaYi,Hangzhou Spark,Genji
+7288,Colosseo,AlphaYi,Hangzhou Spark,Tracer
+7306,Colosseo,BERNAR,Hangzhou Spark,Winston
+7331,Colosseo,BERNAR,Hangzhou Spark,Zarya
+7358,Colosseo,Neko,Hangzhou Spark,Brigitte
+7373,Colosseo,Neko,Hangzhou Spark,Lucio
+7418,Colosseo,Teru,Hangzhou Spark,Ana
+7455,Colosseo,shy,Hangzhou Spark,Sojourn
+7488,Lijiang Tower,Becky,Los Angeles Valiant,Echo
+7502,Lijiang Tower,Becky,Los Angeles Valiant,Symmetra
+7508,Lijiang Tower,Becky,Los Angeles Valiant,Tracer
+7548,Lijiang Tower,Ezhan,Los Angeles Valiant,Sombra
+7583,Lijiang Tower,Lengsa,Los Angeles Valiant,Brigitte
+7605,Lijiang Tower,Lengsa,Los Angeles Valiant,Lucio
+7626,Lijiang Tower,Marve1,Los Angeles Valiant,Doomfist
+7641,Lijiang Tower,Marve1,Los Angeles Valiant,Winston
+7684,Lijiang Tower,Molly,Los Angeles Valiant,Ana
+7721,Lijiang Tower,Fits,Seoul Dynasty,Sombra
+7751,Lijiang Tower,Profit,Seoul Dynasty,Symmetra
+7754,Lijiang Tower,Profit,Seoul Dynasty,Tracer
+7797,Lijiang Tower,Vindaim,Seoul Dynasty,Brigitte
+7817,Lijiang Tower,Vindaim,Seoul Dynasty,Lucio
+7855,Lijiang Tower,ir1s,Seoul Dynasty,Ana
+7901,Lijiang Tower,smurf,Seoul Dynasty,Doomfist
+7918,Lijiang Tower,smurf,Seoul Dynasty,Winston
+7960,Eichenwalde,Becky,Los Angeles Valiant,Tracer
+7994,Eichenwalde,Ezhan,Los Angeles Valiant,Ashe
+8009,Eichenwalde,Ezhan,Los Angeles Valiant,Cassidy
+8019,Eichenwalde,Ezhan,Los Angeles Valiant,Reaper
+8042,Eichenwalde,Ezhan,Los Angeles Valiant,Sojourn
+8070,Eichenwalde,Ezhan,Los Angeles Valiant,Widowmaker
+8104,Eichenwalde,Lengsa,Los Angeles Valiant,Brigitte
+8122,Eichenwalde,Lengsa,Los Angeles Valiant,Lucio
+8158,Eichenwalde,Molly,Los Angeles Valiant,Ana
+8199,Eichenwalde,SASIN,Los Angeles Valiant,D.Va
+8217,Eichenwalde,SASIN,Los Angeles Valiant,Zarya
+8258,Eichenwalde,Fits,Seoul Dynasty,Sojourn
+8277,Eichenwalde,Fits,Seoul Dynasty,Sombra
+8302,Eichenwalde,Profit,Seoul Dynasty,Tracer
+8326,Eichenwalde,Profit,Seoul Dynasty,Widowmaker
+8344,Eichenwalde,Vindaim,Seoul Dynasty,Brigitte
+8368,Eichenwalde,Vindaim,Seoul Dynasty,Lucio
+8390,Eichenwalde,Vindaim,Seoul Dynasty,Mercy
+8409,Eichenwalde,ir1s,Seoul Dynasty,Ana
+8453,Eichenwalde,smurf,Seoul Dynasty,Winston
+8481,Eichenwalde,smurf,Seoul Dynasty,Zarya
+8511,Route 66,Becky,Los Angeles Valiant,Tracer
+8540,Route 66,Ezhan,Los Angeles Valiant,Ashe
+8562,Route 66,Ezhan,Los Angeles Valiant,Sojourn
+8585,Route 66,Ezhan,Los Angeles Valiant,Widowmaker
+8604,Route 66,Lengsa,Los Angeles Valiant,Brigitte
+8617,Route 66,Lengsa,Los Angeles Valiant,Lucio
+8656,Route 66,Molly,Los Angeles Valiant,Ana
+8693,Route 66,SASIN,Los Angeles Valiant,Zarya
+8719,Route 66,Fits,Seoul Dynasty,Sojourn
+8743,Route 66,Fits,Seoul Dynasty,Sombra
+8772,Route 66,Profit,Seoul Dynasty,Tracer
+8792,Route 66,Profit,Seoul Dynasty,Widowmaker
+8815,Route 66,Vindaim,Seoul Dynasty,Brigitte
+8835,Route 66,Vindaim,Seoul Dynasty,Lucio
+8858,Route 66,ir1s,Seoul Dynasty,Ana
+8897,Route 66,smurf,Seoul Dynasty,Winston
+8940,Ilios,Hadi,London Spitfire,Winston
+8979,Ilios,Kaan,London Spitfire,Ana
+9019,Ilios,Landon,London Spitfire,Brigitte
+9050,Ilios,Shax,London Spitfire,Symmetra
+9059,Ilios,Shax,London Spitfire,Tracer
+9100,Ilios,SparkR,London Spitfire,Sombra
+9133,Ilios,Krawi,Vegas Eternal,D.Va
+9154,Ilios,Krawi,Vegas Eternal,Doomfist
+9184,Ilios,Lukemino,Vegas Eternal,Ana
+9204,Ilios,Lukemino,Vegas Eternal,Baptiste
+9226,Ilios,Lukemino,Vegas Eternal,Lucio
+9243,Ilios,Lukemino,Vegas Eternal,Zenyatta
+9272,Ilios,MaltheL,Vegas Eternal,Symmetra
+9279,Ilios,MaltheL,Vegas Eternal,Tracer
+9312,Ilios,Rakattack,Vegas Eternal,Brigitte
+9334,Ilios,Rakattack,Vegas Eternal,Zenyatta
+9368,Ilios,wub,Vegas Eternal,Echo
+9387,Ilios,wub,Vegas Eternal,Sombra
+9422,Eichenwalde,Backbone,London Spitfire,Soldier: 76
+9443,Eichenwalde,Backbone,London Spitfire,Sombra
+9477,Eichenwalde,Hadi,London Spitfire,Winston
+9501,Eichenwalde,Hadi,London Spitfire,Wrecking Ball
+9547,Eichenwalde,Kaan,London Spitfire,Ana
+9573,Eichenwalde,Kaan,London Spitfire,Zenyatta
+9607,Eichenwalde,Landon,London Spitfire,Ana
+9631,Eichenwalde,Landon,London Spitfire,Baptiste
+9654,Eichenwalde,Landon,London Spitfire,Brigitte
+9661,Eichenwalde,Landon,London Spitfire,Lucio
+9680,Eichenwalde,Landon,London Spitfire,Zenyatta
+9719,Eichenwalde,Shax,London Spitfire,Tracer
+9736,Eichenwalde,Shax,London Spitfire,Widowmaker
+9760,Eichenwalde,Krawi,Vegas Eternal,D.Va
+9781,Eichenwalde,Krawi,Vegas Eternal,Doomfist
+9788,Eichenwalde,Krawi,Vegas Eternal,Orisa
+9832,Eichenwalde,Lukemino,Vegas Eternal,Baptiste
+9868,Eichenwalde,MaltheL,Vegas Eternal,Sombra
+9879,Eichenwalde,MaltheL,Vegas Eternal,Tracer
+9914,Eichenwalde,Rakattack,Vegas Eternal,Brigitte
+9933,Eichenwalde,Rakattack,Vegas Eternal,Lucio
+9953,Eichenwalde,Rakattack,Vegas Eternal,Zenyatta
+9983,Eichenwalde,wub,Vegas Eternal,Hanzo
+10001,Eichenwalde,wub,Vegas Eternal,Symmetra
+10035,Dorado,Backbone,London Spitfire,Sombra
+10053,Dorado,Backbone,London Spitfire,Widowmaker
+10089,Dorado,Hadi,London Spitfire,Winston
+10115,Dorado,Hadi,London Spitfire,Wrecking Ball
+10151,Dorado,Kaan,London Spitfire,Ana
+10180,Dorado,Kaan,London Spitfire,Zenyatta
+10207,Dorado,Landon,London Spitfire,Ana
+10234,Dorado,Landon,London Spitfire,Brigitte
+10248,Dorado,Landon,London Spitfire,Zenyatta
+10279,Dorado,Shax,London Spitfire,Tracer
+10307,Dorado,Dove,Vegas Eternal,Ashe
+10331,Dorado,Dove,Vegas Eternal,Sojourn
+10342,Dorado,Dove,Vegas Eternal,Soldier: 76
+10363,Dorado,Dove,Vegas Eternal,Widowmaker
+10391,Dorado,Krawi,Vegas Eternal,D.Va
+10413,Dorado,Krawi,Vegas Eternal,Orisa
+10436,Dorado,Lukemino,Vegas Eternal,Ana
+10470,Dorado,MaltheL,Vegas Eternal,Symmetra
+10478,Dorado,MaltheL,Vegas Eternal,Tracer
+10522,Dorado,Rakattack,Vegas Eternal,Brigitte
+10539,Dorado,Rakattack,Vegas Eternal,Lucio
+10544,Dorado,Rakattack,Vegas Eternal,Mercy
+10546,Dorado,Rakattack,Vegas Eternal,Zenyatta
+10585,New Queen Street,Backbone,London Spitfire,Sombra
+10622,New Queen Street,Hadi,London Spitfire,Wrecking Ball
+10663,New Queen Street,Kaan,London Spitfire,Zenyatta
+10702,New Queen Street,Landon,London Spitfire,Ana
+10752,New Queen Street,Shax,London Spitfire,Tracer
+10781,New Queen Street,Dove,Vegas Eternal,Ashe
+10802,New Queen Street,Dove,Vegas Eternal,Soldier: 76
+10837,New Queen Street,Krawi,Vegas Eternal,D.Va
+10873,New Queen Street,Lukemino,Vegas Eternal,Ana
+10899,New Queen Street,Lukemino,Vegas Eternal,Baptiste
+10937,New Queen Street,MaltheL,Vegas Eternal,Tracer
+10961,New Queen Street,Rakattack,Vegas Eternal,Lucio
+10979,New Queen Street,Rakattack,Vegas Eternal,Zenyatta
+11008,Lijiang Tower,Checkmate,Florida Mayhem,Mei
+11032,Lijiang Tower,Checkmate,Florida Mayhem,Symmetra
+11039,Lijiang Tower,Checkmate,Florida Mayhem,Tracer
+11073,Lijiang Tower,Hydron,Florida Mayhem,Sojourn
+11090,Lijiang Tower,Hydron,Florida Mayhem,Sombra
+11106,Lijiang Tower,Hydron,Florida Mayhem,Symmetra
+11129,Lijiang Tower,Rupal,Florida Mayhem,Ana
+11159,Lijiang Tower,Rupal,Florida Mayhem,Baptiste
+11202,Lijiang Tower,SirMajed,Florida Mayhem,Lucio
+11237,Lijiang Tower,Someone,Florida Mayhem,Reinhardt
+11249,Lijiang Tower,Someone,Florida Mayhem,Winston
+11284,Lijiang Tower,FunnyAstro,Los Angeles Gladiators,Lucio
+11323,Lijiang Tower,Happy,Los Angeles Gladiators,Sojourn
+11346,Lijiang Tower,Happy,Los Angeles Gladiators,Symmetra
+11362,Lijiang Tower,Reiner,Los Angeles Gladiators,Doomfist
+11386,Lijiang Tower,Reiner,Los Angeles Gladiators,Reinhardt
+11417,Lijiang Tower,kevster,Los Angeles Gladiators,Mei
+11440,Lijiang Tower,kevster,Los Angeles Gladiators,Symmetra
+11446,Lijiang Tower,kevster,Los Angeles Gladiators,Tracer
+11481,Lijiang Tower,shu,Los Angeles Gladiators,Ana
+11514,Lijiang Tower,shu,Los Angeles Gladiators,Baptiste
+11546,King's Row,Checkmate,Florida Mayhem,Genji
+11568,King's Row,Checkmate,Florida Mayhem,Tracer
+11595,King's Row,Hydron,Florida Mayhem,Ashe
+11617,King's Row,Hydron,Florida Mayhem,Widowmaker
+11636,King's Row,Rupal,Florida Mayhem,Ana
+11665,King's Row,Rupal,Florida Mayhem,Lucio
+11684,King's Row,SirMajed,Florida Mayhem,Brigitte
+11697,King's Row,SirMajed,Florida Mayhem,Zenyatta
+11733,King's Row,Someone,Florida Mayhem,Winston
+11773,King's Row,Happy,Los Angeles Gladiators,Ashe
+11790,King's Row,Happy,Los Angeles Gladiators,Hanzo
+11807,King's Row,Happy,Los Angeles Gladiators,Sombra
+11821,King's Row,Happy,Los Angeles Gladiators,Symmetra
+11825,King's Row,Happy,Los Angeles Gladiators,Widowmaker
+11855,King's Row,Reiner,Los Angeles Gladiators,Doomfist
+11890,King's Row,kevster,Los Angeles Gladiators,Genji
+11910,King's Row,kevster,Los Angeles Gladiators,Tracer
+11924,King's Row,kevster,Los Angeles Gladiators,Widowmaker
+11941,King's Row,shu,Los Angeles Gladiators,Ana
+11984,King's Row,skewed,Los Angeles Gladiators,Zenyatta
+12020,Route 66,Checkmate,Florida Mayhem,Tracer
+12046,Route 66,Checkmate,Florida Mayhem,Widowmaker
+12063,Route 66,Hydron,Florida Mayhem,Hanzo
+12066,Route 66,Hydron,Florida Mayhem,Sombra
+12101,Route 66,Rupal,Florida Mayhem,Ana
+12133,Route 66,Rupal,Florida Mayhem,Lucio
+12149,Route 66,SirMajed,Florida Mayhem,Brigitte
+12168,Route 66,SirMajed,Florida Mayhem,Zenyatta
+12215,Route 66,Someone,Florida Mayhem,Winston
+12244,Route 66,Someone,Florida Mayhem,Zarya
+12276,Route 66,Happy,Los Angeles Gladiators,Sombra
+12310,Route 66,Reiner,Los Angeles Gladiators,D.Va
+12336,Route 66,Reiner,Los Angeles Gladiators,Doomfist
+12354,Route 66,Reiner,Los Angeles Gladiators,Winston
+12395,Route 66,kevster,Los Angeles Gladiators,Tracer
+12422,Route 66,kevster,Los Angeles Gladiators,Widowmaker
+12445,Route 66,shu,Los Angeles Gladiators,Ana
+12496,Route 66,skewed,Los Angeles Gladiators,Brigitte
+12513,Route 66,skewed,Los Angeles Gladiators,Zenyatta
+12545,Colosseo,Checkmate,Florida Mayhem,Tracer
+12582,Colosseo,Hydron,Florida Mayhem,Sombra
+12613,Colosseo,Rupal,Florida Mayhem,Ana
+12660,Colosseo,SirMajed,Florida Mayhem,Lucio
+12690,Colosseo,SirMajed,Florida Mayhem,Zenyatta
+12726,Colosseo,Someone,Florida Mayhem,Winston
+12766,Colosseo,FunnyAstro,Los Angeles Gladiators,Lucio
+12812,Colosseo,Happy,Los Angeles Gladiators,Sojourn
+12830,Colosseo,Happy,Los Angeles Gladiators,Sombra
+12862,Colosseo,Reiner,Los Angeles Gladiators,Doomfist
+12884,Colosseo,Reiner,Los Angeles Gladiators,Winston
+12922,Colosseo,kevster,Los Angeles Gladiators,Tracer
+12963,Colosseo,shu,Los Angeles Gladiators,Ana
+13007,Oasis,ANSOONJAE,New York Excelsior,Brigitte
+13025,Oasis,ANSOONJAE,New York Excelsior,Lucio
+13065,Oasis,Flora,New York Excelsior,Reaper
+13075,Oasis,Flora,New York Excelsior,Sojourn
+13099,Oasis,Flora,New York Excelsior,Sombra
+13120,Oasis,HO1,New York Excelsior,Ana
+13170,Oasis,Kellan,New York Excelsior,Winston
+13219,Oasis,Yaki,New York Excelsior,Symmetra
+13224,Oasis,Yaki,New York Excelsior,Tracer
+13254,Oasis,CH0R0NG,Toronto Defiant,Brigitte
+13270,Oasis,CH0R0NG,Toronto Defiant,Lucio
+13309,Oasis,Finale,Toronto Defiant,Reaper
+13329,Oasis,Finale,Toronto Defiant,Symmetra
+13338,Oasis,Finale,Toronto Defiant,Tracer
+13370,Oasis,HOTBA,Toronto Defiant,D.Va
+13394,Oasis,HOTBA,Toronto Defiant,Zarya
+13436,Oasis,Heesu,Toronto Defiant,Sombra
+13466,Oasis,Twilight,Toronto Defiant,Ana
+13492,Oasis,Twilight,Toronto Defiant,Zenyatta
+13522,King's Row,Flora,New York Excelsior,Ashe
+13536,King's Row,Flora,New York Excelsior,Reaper
+13538,King's Row,Flora,New York Excelsior,Sojourn
+13574,King's Row,GangNamJin,New York Excelsior,Lucio
+13605,King's Row,GangNamJin,New York Excelsior,Zenyatta
+13639,King's Row,HO1,New York Excelsior,Ana
+13686,King's Row,Kellan,New York Excelsior,Winston
+13725,King's Row,Yaki,New York Excelsior,Tracer
+13747,King's Row,Yaki,New York Excelsior,Widowmaker
+13771,King's Row,CH0R0NG,Toronto Defiant,Lucio
+13801,King's Row,CH0R0NG,Toronto Defiant,Zenyatta
+13834,King's Row,Finale,Toronto Defiant,Genji
+13852,King's Row,Finale,Toronto Defiant,Reaper
+13872,King's Row,Finale,Toronto Defiant,Symmetra
+13879,King's Row,Finale,Toronto Defiant,Widowmaker
+13910,King's Row,HOTBA,Toronto Defiant,Zarya
+13949,King's Row,Heesu,Toronto Defiant,Ashe
+13969,King's Row,Heesu,Toronto Defiant,Sombra
+14007,King's Row,Twilight,Toronto Defiant,Ana
+14033,King's Row,Twilight,Toronto Defiant,Moira
+14052,Dorado,Flora,New York Excelsior,Ashe
+14093,Dorado,GangNamJin,New York Excelsior,Zenyatta
+14127,Dorado,HO1,New York Excelsior,Ana
+14173,Dorado,Kellan,New York Excelsior,Winston
+14211,Dorado,Yaki,New York Excelsior,Tracer
+14252,Dorado,Although,Toronto Defiant,Symmetra
+14260,Dorado,Although,Toronto Defiant,Tracer
+14292,Dorado,CH0R0NG,Toronto Defiant,Brigitte
+14311,Dorado,CH0R0NG,Toronto Defiant,Lucio
+14334,Dorado,CH0R0NG,Toronto Defiant,Zenyatta
+14373,Dorado,Heesu,Toronto Defiant,Ashe
+14398,Dorado,Heesu,Toronto Defiant,Sombra
+14424,Dorado,MuZe,Toronto Defiant,Winston
+14470,Dorado,Twilight,Toronto Defiant,Ana
+14511,Colosseo,ANSOONJAE,New York Excelsior,Lucio
+14549,Colosseo,Flora,New York Excelsior,Sojourn
+14580,Colosseo,Flora,New York Excelsior,Sombra
+14612,Colosseo,HO1,New York Excelsior,Ana
+14651,Colosseo,Kellan,New York Excelsior,Winston
+14698,Colosseo,Yaki,New York Excelsior,Tracer
+14738,Colosseo,CH0R0NG,Toronto Defiant,Lucio
+14758,Colosseo,CH0R0NG,Toronto Defiant,Zenyatta
+14787,Colosseo,Finale,Toronto Defiant,Reaper
+14804,Colosseo,Finale,Toronto Defiant,Tracer
+14839,Colosseo,HOTBA,Toronto Defiant,D.Va
+14856,Colosseo,HOTBA,Toronto Defiant,Zarya
+14898,Colosseo,Heesu,Toronto Defiant,Ashe
+14922,Colosseo,Heesu,Toronto Defiant,Sombra
+14946,Colosseo,Twilight,Toronto Defiant,Ana
+14975,Colosseo,Twilight,Toronto Defiant,Baptiste
+15006,Nepal,ANSOONJAE,New York Excelsior,Lucio
+15052,Nepal,Flora,New York Excelsior,Sojourn
+15074,Nepal,Flora,New York Excelsior,Sombra
+15107,Nepal,HO1,New York Excelsior,Ana
+15140,Nepal,HO1,New York Excelsior,Moira
+15158,Nepal,Kellan,New York Excelsior,Winston
+15198,Nepal,Yaki,New York Excelsior,Symmetra
+15206,Nepal,Yaki,New York Excelsior,Tracer
+15234,Nepal,CH0R0NG,Toronto Defiant,Lucio
+15278,Nepal,Finale,Toronto Defiant,Reaper
+15297,Nepal,Finale,Toronto Defiant,Symmetra
+15303,Nepal,Finale,Toronto Defiant,Tracer
+15314,Nepal,Finale,Toronto Defiant,Widowmaker
+15332,Nepal,HOTBA,Toronto Defiant,D.Va
+15353,Nepal,HOTBA,Toronto Defiant,Doomfist
+15369,Nepal,HOTBA,Toronto Defiant,Zarya
+15397,Nepal,Heesu,Toronto Defiant,Sombra
+15438,Nepal,Twilight,Toronto Defiant,Ana
+15452,Nepal,Twilight,Toronto Defiant,Moira
+15485,Ilios,Fits,Seoul Dynasty,Sombra
+15515,Ilios,Profit,Seoul Dynasty,Symmetra
+15521,Ilios,Profit,Seoul Dynasty,Tracer
+15558,Ilios,Vindaim,Seoul Dynasty,Brigitte
+15578,Ilios,Vindaim,Seoul Dynasty,Lucio
+15608,Ilios,ir1s,Seoul Dynasty,Ana
+15655,Ilios,smurf,Seoul Dynasty,Winston
+15689,Ilios,Fate,Shanghai Dragons,Winston
+15732,Ilios,Fleta,Shanghai Dragons,Echo
+15756,Ilios,Fleta,Shanghai Dragons,Reaper
+15775,Ilios,Fleta,Shanghai Dragons,Symmetra
+15780,Ilios,Fleta,Shanghai Dragons,Tracer
+15816,Ilios,IZaYaKI,Shanghai Dragons,Ana
+15845,Ilios,IZaYaKI,Shanghai Dragons,Moira
+15879,Ilios,LIP,Shanghai Dragons,Sombra
+15909,Ilios,LeeJaeGon,Shanghai Dragons,Brigitte
+15925,Ilios,LeeJaeGon,Shanghai Dragons,Lucio
+15971,Paraíso,Fits,Seoul Dynasty,Sojourn
+15995,Paraíso,Fits,Seoul Dynasty,Sombra
+16016,Paraíso,Profit,Seoul Dynasty,Tracer
+16031,Paraíso,Profit,Seoul Dynasty,Widowmaker
+16052,Paraíso,Vindaim,Seoul Dynasty,Brigitte
+16069,Paraíso,Vindaim,Seoul Dynasty,Mercy
+16086,Paraíso,ir1s,Seoul Dynasty,Ana
+16118,Paraíso,smurf,Seoul Dynasty,D.Va
+16123,Paraíso,smurf,Seoul Dynasty,Winston
+16156,Paraíso,BEBE,Shanghai Dragons,Ana
+16196,Paraíso,Fate,Shanghai Dragons,Doomfist
+16206,Paraíso,Fate,Shanghai Dragons,Winston
+16246,Paraíso,Fleta,Shanghai Dragons,Genji
+16271,Paraíso,Fleta,Shanghai Dragons,Tracer
+16303,Paraíso,IZaYaKI,Shanghai Dragons,Brigitte
+16323,Paraíso,IZaYaKI,Shanghai Dragons,Lucio
+16332,Paraíso,IZaYaKI,Shanghai Dragons,Zenyatta
+16350,Paraíso,LIP,Shanghai Dragons,Sojourn
+16366,Paraíso,LIP,Shanghai Dragons,Sombra
+16380,Paraíso,LIP,Shanghai Dragons,Widowmaker
+16399,Junkertown,Fits,Seoul Dynasty,Sombra
+16422,Junkertown,Fits,Seoul Dynasty,Widowmaker
+16452,Junkertown,Profit,Seoul Dynasty,Genji
+16480,Junkertown,Profit,Seoul Dynasty,Hanzo
+16493,Junkertown,Profit,Seoul Dynasty,Tracer
+16532,Junkertown,Vindaim,Seoul Dynasty,Brigitte
+16547,Junkertown,Vindaim,Seoul Dynasty,Zenyatta
+16593,Junkertown,ir1s,Seoul Dynasty,Ana
+16614,Junkertown,ir1s,Seoul Dynasty,Baptiste
+16639,Junkertown,ir1s,Seoul Dynasty,Zenyatta
+16683,Junkertown,smurf,Seoul Dynasty,Sigma
+16704,Junkertown,smurf,Seoul Dynasty,Wrecking Ball
+16749,Junkertown,BEBE,Shanghai Dragons,Ana
+16765,Junkertown,BEBE,Shanghai Dragons,Baptiste
+16792,Junkertown,BEBE,Shanghai Dragons,Lucio
+16802,Junkertown,Fleta,Shanghai Dragons,Genji
+16822,Junkertown,Fleta,Shanghai Dragons,Hanzo
+16830,Junkertown,Fleta,Shanghai Dragons,Tracer
+16871,Junkertown,IZaYaKI,Shanghai Dragons,Zenyatta
+16906,Junkertown,LIP,Shanghai Dragons,Sombra
+16923,Junkertown,LIP,Shanghai Dragons,Widowmaker
+16961,Junkertown,Void,Shanghai Dragons,D.Va
+16983,Junkertown,Void,Shanghai Dragons,Sigma
+17014,Lijiang Tower,GA9A,Chengdu Hunters,Winston
+17051,Lijiang Tower,Jinmu,Chengdu Hunters,Genji
+17071,Lijiang Tower,Jinmu,Chengdu Hunters,Sombra
+17107,Lijiang Tower,Leave,Chengdu Hunters,Sojourn
+17129,Lijiang Tower,Leave,Chengdu Hunters,Symmetra
+17138,Lijiang Tower,Leave,Chengdu Hunters,Tracer
+34231,Lijiang Tower,Mmonk,Chengdu Hunters,Ana
+34276,Lijiang Tower,Nisha,Chengdu Hunters,Brigitte
+34293,Lijiang Tower,Nisha,Chengdu Hunters,Lucio
+34329,Lijiang Tower,ChoiSehwan,Guangzhou Charge,Reaper
+34351,Lijiang Tower,ChoiSehwan,Guangzhou Charge,Tracer
+34386,Lijiang Tower,Farway1987,Guangzhou Charge,Ana
+34422,Lijiang Tower,Jimmy,Guangzhou Charge,Sojourn
+34452,Lijiang Tower,Jimmy,Guangzhou Charge,Symmetra
+34475,Lijiang Tower,Piggy,Guangzhou Charge,Zarya
+34512,Lijiang Tower,Xerneas,Guangzhou Charge,Lucio
+34554,King's Row,GA9A,Chengdu Hunters,Doomfist
+34561,King's Row,GA9A,Chengdu Hunters,Winston
+34600,King's Row,Jinmu,Chengdu Hunters,Genji
+34619,King's Row,Jinmu,Chengdu Hunters,Tracer
+34653,King's Row,Leave,Chengdu Hunters,Sojourn
+34690,King's Row,Mmonk,Chengdu Hunters,Ana
+34731,King's Row,Nisha,Chengdu Hunters,Brigitte
+34742,King's Row,Nisha,Chengdu Hunters,Lucio
+34788,King's Row,ChoiSehwan,Guangzhou Charge,Echo
+34808,King's Row,ChoiSehwan,Guangzhou Charge,Genji
+34822,King's Row,ChoiSehwan,Guangzhou Charge,Reaper
+34831,King's Row,ChoiSehwan,Guangzhou Charge,Tracer
+34844,King's Row,ChoiSehwan,Guangzhou Charge,Widowmaker
+34858,King's Row,Farway1987,Guangzhou Charge,Ana
+34899,King's Row,Jimmy,Guangzhou Charge,Pharah
+34904,King's Row,Jimmy,Guangzhou Charge,Reaper
+34914,King's Row,Jimmy,Guangzhou Charge,Sojourn
+34937,King's Row,Jimmy,Guangzhou Charge,Widowmaker
+34960,King's Row,Piggy,Guangzhou Charge,Doomfist
+34974,King's Row,Piggy,Guangzhou Charge,Zarya
+35015,King's Row,Xerneas,Guangzhou Charge,Brigitte
+35034,King's Row,Xerneas,Guangzhou Charge,Lucio
+35061,King's Row,Xerneas,Guangzhou Charge,Zenyatta
+35086,Circuit royal,Daizi,Chengdu Hunters,Sigma
+35117,Circuit royal,Jinmu,Chengdu Hunters,Genji
+35140,Circuit royal,Jinmu,Chengdu Hunters,Hanzo
+35170,Circuit royal,Leave,Chengdu Hunters,Widowmaker
+35204,Circuit royal,Mmonk,Chengdu Hunters,Zenyatta
+35239,Circuit royal,Nisha,Chengdu Hunters,Baptiste
+35259,Circuit royal,Nisha,Chengdu Hunters,Brigitte
+35295,Circuit royal,ChoiSehwan,Guangzhou Charge,Genji
+35318,Circuit royal,ChoiSehwan,Guangzhou Charge,Tracer
+35357,Circuit royal,Farway1987,Guangzhou Charge,Zenyatta
+35396,Circuit royal,Jimmy,Guangzhou Charge,Widowmaker
+35431,Circuit royal,Piggy,Guangzhou Charge,Sigma
+35467,Circuit royal,Xerneas,Guangzhou Charge,Baptiste
+35499,Circuit royal,Xerneas,Guangzhou Charge,Brigitte
+35531,New Queen Street,GA9A,Chengdu Hunters,Winston
+35571,New Queen Street,Jinmu,Chengdu Hunters,Genji
+35606,New Queen Street,Leave,Chengdu Hunters,Sojourn
+35647,New Queen Street,Mmonk,Chengdu Hunters,Ana
+35687,New Queen Street,Nisha,Chengdu Hunters,Lucio
+35728,New Queen Street,ChoiSehwan,Guangzhou Charge,Reaper
+35760,New Queen Street,Farway1987,Guangzhou Charge,Ana
+35802,New Queen Street,Jimmy,Guangzhou Charge,Sojourn
+35839,New Queen Street,Piggy,Guangzhou Charge,Zarya
+35876,New Queen Street,Xerneas,Guangzhou Charge,Lucio
+35913,Oasis,GA9A,Chengdu Hunters,Winston
+35951,Oasis,Jinmu,Chengdu Hunters,Genji
+35974,Oasis,Jinmu,Chengdu Hunters,Pharah
+35987,Oasis,Jinmu,Chengdu Hunters,Sombra
+36020,Oasis,Leave,Chengdu Hunters,Sojourn
+36051,Oasis,Leave,Chengdu Hunters,Symmetra
+36058,Oasis,Leave,Chengdu Hunters,Tracer
+36091,Oasis,Mmonk,Chengdu Hunters,Ana
+36135,Oasis,Nisha,Chengdu Hunters,Lucio
+36171,Oasis,ChoiSehwan,Guangzhou Charge,Reaper
+36189,Oasis,ChoiSehwan,Guangzhou Charge,Symmetra
+36197,Oasis,ChoiSehwan,Guangzhou Charge,Tracer
+36229,Oasis,Farway1987,Guangzhou Charge,Ana
+36272,Oasis,Jimmy,Guangzhou Charge,Ashe
+36292,Oasis,Jimmy,Guangzhou Charge,Sojourn
+36318,Oasis,Jimmy,Guangzhou Charge,Tracer
+36350,Oasis,Piggy,Guangzhou Charge,D.Va
+36367,Oasis,Piggy,Guangzhou Charge,Doomfist
+36375,Oasis,Piggy,Guangzhou Charge,Winston
+36388,Oasis,Piggy,Guangzhou Charge,Zarya
+36413,Oasis,Xerneas,Guangzhou Charge,Lucio
+36455,Oasis,Becky,Los Angeles Valiant,Mei
+36474,Oasis,Becky,Los Angeles Valiant,Pharah
+36479,Oasis,Becky,Los Angeles Valiant,Symmetra
+36483,Oasis,Becky,Los Angeles Valiant,Tracer
+36528,Oasis,Ezhan,Los Angeles Valiant,Sombra
+36551,Oasis,Ezhan,Los Angeles Valiant,Symmetra
+36581,Oasis,Lengsa,Los Angeles Valiant,Brigitte
+36597,Oasis,Lengsa,Los Angeles Valiant,Lucio
+36636,Oasis,Marve1,Los Angeles Valiant,Doomfist
+36646,Oasis,Marve1,Los Angeles Valiant,Reinhardt
+36665,Oasis,Marve1,Los Angeles Valiant,Winston
+36702,Oasis,Molly,Los Angeles Valiant,Ana
+36725,Oasis,Molly,Los Angeles Valiant,Baptiste
+36759,Oasis,AimGod,Seoul Infernal,Ana
+36783,Oasis,AimGod,Seoul Infernal,Baptiste
+36823,Oasis,Belosrea,Seoul Infernal,Junker Queen
+36824,Oasis,Belosrea,Seoul Infernal,Reinhardt
+36835,Oasis,Belosrea,Seoul Infernal,Winston
+36879,Oasis,FIXA,Seoul Infernal,Brigitte
+36897,Oasis,FIXA,Seoul Infernal,Lucio
+36926,Oasis,MN3,Seoul Infernal,Sojourn
+36937,Oasis,MN3,Seoul Infernal,Sombra
+36963,Oasis,MN3,Seoul Infernal,Symmetra
+36981,Oasis,ZEST,Seoul Infernal,Mei
+37002,Oasis,ZEST,Seoul Infernal,Symmetra
+37006,Oasis,ZEST,Seoul Infernal,Tracer
+37044,Paraíso,Becky,Los Angeles Valiant,Tracer
+37078,Paraíso,Ezhan,Los Angeles Valiant,Sojourn
+37097,Paraíso,Ezhan,Los Angeles Valiant,Sombra
+37112,Paraíso,Ezhan,Los Angeles Valiant,Widowmaker
+37129,Paraíso,Lengsa,Los Angeles Valiant,Brigitte
+37146,Paraíso,Lengsa,Los Angeles Valiant,Lucio
+37164,Paraíso,Marve1,Los Angeles Valiant,Doomfist
+37169,Paraíso,Marve1,Los Angeles Valiant,Winston
+37209,Paraíso,Molly,Los Angeles Valiant,Ana
+37250,Paraíso,AimGod,Seoul Infernal,Ana
+37299,Paraíso,Belosrea,Seoul Infernal,Doomfist
+37305,Paraíso,Belosrea,Seoul Infernal,Winston
+37347,Paraíso,FIXA,Seoul Infernal,Brigitte
+37386,Paraíso,MN3,Seoul Infernal,Sombra
+37418,Paraíso,ZEST,Seoul Infernal,Genji
+37438,Paraíso,ZEST,Seoul Infernal,Tracer
+37463,Paraíso,ZEST,Seoul Infernal,Widowmaker
+37485,Junkertown,Becky,Los Angeles Valiant,Genji
+37504,Junkertown,Becky,Los Angeles Valiant,Tracer
+37543,Junkertown,Diya,Los Angeles Valiant,Tracer
+37547,Junkertown,Diya,Los Angeles Valiant,Widowmaker
+37579,Junkertown,Lengsa,Los Angeles Valiant,Baptiste
+37601,Junkertown,Lengsa,Los Angeles Valiant,Lucio
+37620,Junkertown,Marve1,Los Angeles Valiant,Doomfist
+37626,Junkertown,Marve1,Los Angeles Valiant,Sigma
+37658,Junkertown,Molly,Los Angeles Valiant,Zenyatta
+37689,Junkertown,AimGod,Seoul Infernal,Zenyatta
+37724,Junkertown,FIXA,Seoul Infernal,Baptiste
+37743,Junkertown,FIXA,Seoul Infernal,Lucio
+37760,Junkertown,Fury,Seoul Infernal,Sigma
+37786,Junkertown,MN3,Seoul Infernal,Widowmaker
+37826,Junkertown,ZEST,Seoul Infernal,Tracer
+37861,Colosseo,Becky,Los Angeles Valiant,Tracer
+37892,Colosseo,Ezhan,Los Angeles Valiant,Sojourn
+37923,Colosseo,Lengsa,Los Angeles Valiant,Lucio
+37963,Colosseo,Molly,Los Angeles Valiant,Ana
+37999,Colosseo,SASIN,Los Angeles Valiant,Zarya
+38036,Colosseo,AimGod,Seoul Infernal,Ana
+38082,Colosseo,FIXA,Seoul Infernal,Lucio
+38125,Colosseo,Fury,Seoul Infernal,Zarya
+38160,Colosseo,MN3,Seoul Infernal,Sojourn
+38198,Colosseo,ZEST,Seoul Infernal,Reaper
+38224,Nepal,Becky,Los Angeles Valiant,Mei
+38247,Nepal,Becky,Los Angeles Valiant,Symmetra
+38255,Nepal,Becky,Los Angeles Valiant,Tracer
+38286,Nepal,Ezhan,Los Angeles Valiant,Cassidy
+38299,Nepal,Ezhan,Los Angeles Valiant,Sombra
+38318,Nepal,Ezhan,Los Angeles Valiant,Symmetra
+38360,Nepal,Lengsa,Los Angeles Valiant,Brigitte
+38378,Nepal,Lengsa,Los Angeles Valiant,Lucio
+38421,Nepal,Marve1,Los Angeles Valiant,Doomfist
+38434,Nepal,Marve1,Los Angeles Valiant,Reinhardt
+38449,Nepal,Marve1,Los Angeles Valiant,Winston
+38488,Nepal,Molly,Los Angeles Valiant,Ana
+38522,Nepal,Molly,Los Angeles Valiant,Baptiste
+38557,Nepal,AimGod,Seoul Infernal,Ana
+38607,Nepal,Belosrea,Seoul Infernal,Junker Queen
+38610,Nepal,Belosrea,Seoul Infernal,Winston
+38656,Nepal,FIXA,Seoul Infernal,Brigitte
+38687,Nepal,MN3,Seoul Infernal,Sombra
+38707,Nepal,MN3,Seoul Infernal,Tracer
+38731,Nepal,ZEST,Seoul Infernal,Genji
+38753,Nepal,ZEST,Seoul Infernal,Reaper
+38758,Nepal,ZEST,Seoul Infernal,Sombra
+38764,Nepal,ZEST,Seoul Infernal,Symmetra
+38771,Nepal,ZEST,Seoul Infernal,Tracer
+38802,Busan,Admiral,London Spitfire,Lucio
+38841,Busan,Backbone,London Spitfire,Sombra
+38877,Busan,Hadi,London Spitfire,Winston
+38898,Busan,Hadi,London Spitfire,Wrecking Ball
+38938,Busan,Kaan,London Spitfire,Ana
+38965,Busan,Kaan,London Spitfire,Zenyatta
+39000,Busan,Shax,London Spitfire,Tracer
+39028,Busan,Aspire,Vancouver Titans,Symmetra
+39036,Busan,Aspire,Vancouver Titans,Tracer
+39074,Busan,Masaa,Vancouver Titans,Brigitte
+39112,Busan,MirroR,Vancouver Titans,Doomfist
+39142,Busan,Skairipa,Vancouver Titans,Ana
+39187,Busan,k1ng,Vancouver Titans,Sombra
+39217,Paraíso,Backbone,London Spitfire,Hanzo
+39222,Paraíso,Backbone,London Spitfire,Sombra
+39256,Paraíso,Hadi,London Spitfire,Winston
+39302,Paraíso,Kaan,London Spitfire,Ana
+39340,Paraíso,Landon,London Spitfire,Brigitte
+39366,Paraíso,Shax,London Spitfire,Tracer
+39389,Paraíso,Shax,London Spitfire,Widowmaker
+39407,Paraíso,Aspire,Vancouver Titans,Tracer
+39430,Paraíso,Aspire,Vancouver Titans,Widowmaker
+39449,Paraíso,Masaa,Vancouver Titans,Brigitte
+39483,Paraíso,MirroR,Vancouver Titans,Doomfist
+39503,Paraíso,MirroR,Vancouver Titans,Zarya
+39519,Paraíso,Skairipa,Vancouver Titans,Ana
+39559,Paraíso,k1ng,Vancouver Titans,Sombra
+39589,Junkertown,Backbone,London Spitfire,Hanzo
+39609,Junkertown,Backbone,London Spitfire,Tracer
+39629,Junkertown,Backbone,London Spitfire,Widowmaker
+39657,Junkertown,Kaan,London Spitfire,Zenyatta
+39690,Junkertown,Landon,London Spitfire,Ana
+39720,Junkertown,Landon,London Spitfire,Brigitte
+39749,Junkertown,Poko,London Spitfire,Sigma
+39783,Junkertown,SparkR,London Spitfire,Sombra
+39815,Junkertown,Aspire,Vancouver Titans,Tracer
+39833,Junkertown,Aspire,Vancouver Titans,Widowmaker
+39872,Junkertown,Masaa,Vancouver Titans,Brigitte
+39889,Junkertown,Masaa,Vancouver Titans,Lucio
+39930,Junkertown,MirroR,Vancouver Titans,Doomfist
+39973,Junkertown,Skairipa,Vancouver Titans,Ana
+39999,Junkertown,Skairipa,Vancouver Titans,Moira
+40029,Junkertown,k1ng,Vancouver Titans,Sombra
+40052,Junkertown,k1ng,Vancouver Titans,Tracer
+40086,Colosseo,Admiral,London Spitfire,Lucio
+40121,Colosseo,Backbone,London Spitfire,Mei
+40157,Colosseo,Hadi,London Spitfire,Reinhardt
+40185,Colosseo,Landon,London Spitfire,Baptiste
+40221,Colosseo,SparkR,London Spitfire,Sojourn
+40240,Colosseo,SparkR,London Spitfire,Sombra
+40269,Colosseo,Aspire,Vancouver Titans,Sojourn
+40307,Colosseo,Masaa,Vancouver Titans,Lucio
+40350,Colosseo,MirroR,Vancouver Titans,Orisa
+40379,Colosseo,Skairipa,Vancouver Titans,Baptiste
+40410,Colosseo,k1ng,Vancouver Titans,Mei
+40451,Oasis,FiNN,San Francisco Shock,Ana
+40481,Oasis,FiNN,San Francisco Shock,Baptiste
+40520,Oasis,Proper,San Francisco Shock,Echo
+40543,Oasis,Proper,San Francisco Shock,Symmetra
+40549,Oasis,Proper,San Francisco Shock,Tracer
+40588,Oasis,Viol2t,San Francisco Shock,Brigitte
+40611,Oasis,Viol2t,San Francisco Shock,Zenyatta
+40645,Oasis,mikeyy,San Francisco Shock,Orisa
+40662,Oasis,mikeyy,San Francisco Shock,Winston
+40687,Oasis,mikeyy,San Francisco Shock,Wrecking Ball
+40726,Oasis,s9mm,San Francisco Shock,Hanzo
+40748,Oasis,s9mm,San Francisco Shock,Sombra
+40784,Oasis,Assassin,Washington Justice,Sombra
+40822,Oasis,Decay,Washington Justice,Symmetra
+40826,Oasis,Decay,Washington Justice,Tracer
+40859,Oasis,Kalios,Washington Justice,D.Va
+40875,Oasis,Kalios,Washington Justice,Doomfist
+40888,Oasis,Kalios,Washington Justice,Orisa
+40919,Oasis,Krillin,Washington Justice,Ana
+40936,Oasis,Krillin,Washington Justice,Zenyatta
+40981,Oasis,OPENER,Washington Justice,Baptiste
+40984,Oasis,OPENER,Washington Justice,Brigitte
+41010,Oasis,OPENER,Washington Justice,Lucio
+41044,Eichenwalde,Coluge,San Francisco Shock,D.Va
+41069,Eichenwalde,Coluge,San Francisco Shock,Junker Queen
+41107,Eichenwalde,FiNN,San Francisco Shock,Ana
+41142,Eichenwalde,FiNN,San Francisco Shock,Baptiste
+41179,Eichenwalde,Kilo,San Francisco Shock,Ashe
+41222,Eichenwalde,Proper,San Francisco Shock,Echo
+41248,Eichenwalde,Proper,San Francisco Shock,Genji
+41273,Eichenwalde,Proper,San Francisco Shock,Torbjorn
+41302,Eichenwalde,Viol2t,San Francisco Shock,Zenyatta
+41344,Eichenwalde,Assassin,Washington Justice,Echo
+41362,Eichenwalde,Assassin,Washington Justice,Genji
+41381,Eichenwalde,Assassin,Washington Justice,Sombra
+41408,Eichenwalde,Decay,Washington Justice,Genji
+41425,Eichenwalde,Decay,Washington Justice,Sojourn
+41445,Eichenwalde,Decay,Washington Justice,Soldier: 76
+41448,Eichenwalde,Decay,Washington Justice,Tracer
+41473,Eichenwalde,Kalios,Washington Justice,D.Va
+41493,Eichenwalde,Kalios,Washington Justice,Doomfist
+41508,Eichenwalde,Kalios,Washington Justice,Junker Queen
+41514,Eichenwalde,Kalios,Washington Justice,Zarya
+41557,Eichenwalde,Krillin,Washington Justice,Ana
+41564,Eichenwalde,Krillin,Washington Justice,Zenyatta
+41601,Eichenwalde,OPENER,Washington Justice,Ana
+41627,Eichenwalde,OPENER,Washington Justice,Baptiste
+41630,Eichenwalde,OPENER,Washington Justice,Brigitte
+41643,Eichenwalde,OPENER,Washington Justice,Lucio
+41650,Eichenwalde,OPENER,Washington Justice,Moira
+41663,Dorado,FiNN,San Francisco Shock,Ana
+41698,Dorado,Kilo,San Francisco Shock,Ashe
+41722,Dorado,Kilo,San Francisco Shock,Tracer
+41742,Dorado,Kilo,San Francisco Shock,Widowmaker
+41760,Dorado,Proper,San Francisco Shock,Echo
+41779,Dorado,Proper,San Francisco Shock,Genji
+41806,Dorado,Proper,San Francisco Shock,Tracer
+41845,Dorado,Viol2t,San Francisco Shock,Brigitte
+41859,Dorado,Viol2t,San Francisco Shock,Lucio
+41878,Dorado,Viol2t,San Francisco Shock,Zenyatta
+41917,Dorado,mikeyy,San Francisco Shock,Wrecking Ball
+41953,Dorado,Assassin,Washington Justice,Sombra
+41987,Dorado,Decay,Washington Justice,Ashe
+42002,Dorado,Decay,Washington Justice,Tracer
+42031,Dorado,Decay,Washington Justice,Widowmaker
+42051,Dorado,Kalios,Washington Justice,D.Va
+42075,Dorado,Kalios,Washington Justice,Doomfist
+42090,Dorado,Krillin,Washington Justice,Zenyatta
+42122,Dorado,OPENER,Washington Justice,Ana
+42156,New Queen Street,FiNN,San Francisco Shock,Ana
+42169,New Queen Street,FiNN,San Francisco Shock,Baptiste
+42208,New Queen Street,Kilo,San Francisco Shock,Ashe
+42227,New Queen Street,Kilo,San Francisco Shock,Sojourn
+42256,New Queen Street,Proper,San Francisco Shock,Tracer
+42288,New Queen Street,Viol2t,San Francisco Shock,Brigitte
+42301,New Queen Street,Viol2t,San Francisco Shock,Zenyatta
+42338,New Queen Street,mikeyy,San Francisco Shock,Wrecking Ball
+42374,New Queen Street,Assassin,Washington Justice,Sombra
+42406,New Queen Street,Decay,Washington Justice,Sojourn
+42429,New Queen Street,Decay,Washington Justice,Symmetra
+42434,New Queen Street,Decay,Washington Justice,Tracer
+42469,New Queen Street,Kalios,Washington Justice,D.Va
+42497,New Queen Street,Kalios,Washington Justice,Orisa
+42518,New Queen Street,Krillin,Washington Justice,Zenyatta
+42554,New Queen Street,OPENER,Washington Justice,Ana
+42597,Nepal,FiNN,San Francisco Shock,Baptiste
+42636,Nepal,Kilo,San Francisco Shock,Ashe
+42650,Nepal,Kilo,San Francisco Shock,Cassidy
+42657,Nepal,Kilo,San Francisco Shock,Hanzo
+42659,Nepal,Kilo,San Francisco Shock,Sojourn
+42677,Nepal,Kilo,San Francisco Shock,Symmetra
+42681,Nepal,Kilo,San Francisco Shock,Tracer
+42699,Nepal,Proper,San Francisco Shock,Echo
+42715,Nepal,Proper,San Francisco Shock,Tracer
+42748,Nepal,Viol2t,San Francisco Shock,Brigitte
+42770,Nepal,Viol2t,San Francisco Shock,Lucio
+42801,Nepal,mikeyy,San Francisco Shock,Orisa
+42819,Nepal,mikeyy,San Francisco Shock,Reinhardt
+42827,Nepal,mikeyy,San Francisco Shock,Wrecking Ball
+42864,Nepal,Assassin,Washington Justice,Mei
+42880,Nepal,Assassin,Washington Justice,Sombra
+42911,Nepal,Decay,Washington Justice,Reaper
+42932,Nepal,Decay,Washington Justice,Symmetra
+42937,Nepal,Decay,Washington Justice,Tracer
+42972,Nepal,Kalios,Washington Justice,D.Va
+42993,Nepal,Kalios,Washington Justice,Junker Queen
+42994,Nepal,Kalios,Washington Justice,Orisa
+43025,Nepal,Krillin,Washington Justice,Baptiste
+43042,Nepal,Krillin,Washington Justice,Zenyatta
+43079,Nepal,OPENER,Washington Justice,Brigitte
+43095,Nepal,OPENER,Washington Justice,Lucio
+43128,Nepal,Crimzo,Boston Uprising,Ana
+43153,Nepal,Crimzo,Boston Uprising,Baptiste
+43188,Nepal,MCD,Boston Uprising,Zenyatta
+43224,Nepal,Valentine,Boston Uprising,Symmetra
+43232,Nepal,Valentine,Boston Uprising,Tracer
+43269,Nepal,Victoria,Boston Uprising,Ashe
+43295,Nepal,Victoria,Boston Uprising,Sombra
+43329,Nepal,punk,Boston Uprising,D.Va
+43345,Nepal,punk,Boston Uprising,Doomfist
+43350,Nepal,punk,Boston Uprising,Orisa
+43373,Nepal,punk,Boston Uprising,Sigma
+43400,Nepal,Checkmate,Florida Mayhem,Genji
+43418,Nepal,Checkmate,Florida Mayhem,Symmetra
+43424,Nepal,Checkmate,Florida Mayhem,Tracer
+43460,Nepal,Hydron,Florida Mayhem,Ashe
+43486,Nepal,Hydron,Florida Mayhem,Sojourn
+43510,Nepal,Hydron,Florida Mayhem,Sombra
+43530,Nepal,Hydron,Florida Mayhem,Symmetra
+43553,Nepal,Rupal,Florida Mayhem,Ana
+43588,Nepal,SirMajed,Florida Mayhem,Lucio
+43614,Nepal,SirMajed,Florida Mayhem,Zenyatta
+43652,Nepal,Someone,Florida Mayhem,Sigma
+43674,Nepal,Someone,Florida Mayhem,Zarya
+43704,Paraíso,Crimzo,Boston Uprising,Ana
+43728,Paraíso,Crimzo,Boston Uprising,Baptiste
+43765,Paraíso,MCD,Boston Uprising,Baptiste
+43771,Paraíso,MCD,Boston Uprising,Zenyatta
+43807,Paraíso,Valentine,Boston Uprising,Echo
+43827,Paraíso,Valentine,Boston Uprising,Tracer
+43847,Paraíso,Valentine,Boston Uprising,Widowmaker
+43865,Paraíso,Victoria,Boston Uprising,Sombra
+43894,Paraíso,punk,Boston Uprising,D.Va
+43913,Paraíso,punk,Boston Uprising,Zarya
+43937,Paraíso,Checkmate,Florida Mayhem,Genji
+43957,Paraíso,Checkmate,Florida Mayhem,Tracer
+43983,Paraíso,Hydron,Florida Mayhem,Hanzo
+44001,Paraíso,Hydron,Florida Mayhem,Sombra
+44021,Paraíso,Hydron,Florida Mayhem,Widowmaker
+44044,Paraíso,Rupal,Florida Mayhem,Ana
+44084,Paraíso,SirMajed,Florida Mayhem,Brigitte
+44101,Paraíso,SirMajed,Florida Mayhem,Zenyatta
+44133,Paraíso,Someone,Florida Mayhem,Zarya
+44165,Junkertown,Crimzo,Boston Uprising,Baptiste
+44209,Junkertown,MCD,Boston Uprising,Zenyatta
+44239,Junkertown,Valentine,Boston Uprising,Genji
+44265,Junkertown,Valentine,Boston Uprising,Tracer
+44302,Junkertown,Victoria,Boston Uprising,Soldier: 76
+44309,Junkertown,Victoria,Boston Uprising,Widowmaker
+44345,Junkertown,punk,Boston Uprising,D.Va
+44355,Junkertown,punk,Boston Uprising,Sigma
+44371,Junkertown,punk,Boston Uprising,Wrecking Ball
+44394,Junkertown,Checkmate,Florida Mayhem,Genji
+44401,Junkertown,Checkmate,Florida Mayhem,Hanzo
+44406,Junkertown,Checkmate,Florida Mayhem,Tracer
+44437,Junkertown,Hydron,Florida Mayhem,Widowmaker
+44476,Junkertown,Rupal,Florida Mayhem,Ana
+44497,Junkertown,Rupal,Florida Mayhem,Baptiste
+44537,Junkertown,SirMajed,Florida Mayhem,Lucio
+44543,Junkertown,SirMajed,Florida Mayhem,Zenyatta
+44581,Junkertown,Someone,Florida Mayhem,Sigma
+44599,Junkertown,Someone,Florida Mayhem,Winston
+44608,Junkertown,Someone,Florida Mayhem,Wrecking Ball
+44643,Nepal,ChoiSehwan,Guangzhou Charge,Genji
+44668,Nepal,ChoiSehwan,Guangzhou Charge,Reaper
+44689,Nepal,Farway1987,Guangzhou Charge,Ana
+44736,Nepal,Jimmy,Guangzhou Charge,Reaper
+44752,Nepal,Jimmy,Guangzhou Charge,Sojourn
+44776,Nepal,Jimmy,Guangzhou Charge,Symmetra
+44783,Nepal,Jimmy,Guangzhou Charge,Tracer
+44811,Nepal,Piggy,Guangzhou Charge,Zarya
+44849,Nepal,Xerneas,Guangzhou Charge,Lucio
+44896,Nepal,Fate,Shanghai Dragons,Reinhardt
+44916,Nepal,Fate,Shanghai Dragons,Winston
+44954,Nepal,Fleta,Shanghai Dragons,Mei
+44976,Nepal,Fleta,Shanghai Dragons,Symmetra
+44982,Nepal,Fleta,Shanghai Dragons,Tracer
+45019,Nepal,IZaYaKI,Shanghai Dragons,Ana
+45035,Nepal,IZaYaKI,Shanghai Dragons,Baptiste
+45067,Nepal,LIP,Shanghai Dragons,Sojourn
+45089,Nepal,LIP,Shanghai Dragons,Sombra
+45118,Nepal,LeeJaeGon,Shanghai Dragons,Lucio
+45159,King's Row,ChoiSehwan,Guangzhou Charge,Genji
+45185,King's Row,ChoiSehwan,Guangzhou Charge,Symmetra
+45189,King's Row,ChoiSehwan,Guangzhou Charge,Tracer
+45214,King's Row,Farway1987,Guangzhou Charge,Ana
+45256,King's Row,Jimmy,Guangzhou Charge,Reaper
+45262,King's Row,Jimmy,Guangzhou Charge,Sojourn
+45283,King's Row,Jimmy,Guangzhou Charge,Widowmaker
+45299,King's Row,Piggy,Guangzhou Charge,D.Va
+45306,King's Row,Piggy,Guangzhou Charge,Doomfist
+45308,King's Row,Piggy,Guangzhou Charge,Zarya
+45345,King's Row,Xerneas,Guangzhou Charge,Brigitte
+45360,King's Row,Xerneas,Guangzhou Charge,Lucio
+45398,King's Row,Fate,Shanghai Dragons,Winston
+45445,King's Row,Fleta,Shanghai Dragons,Genji
+45465,King's Row,Fleta,Shanghai Dragons,Tracer
+45497,King's Row,IZaYaKI,Shanghai Dragons,Ana
+45538,King's Row,LIP,Shanghai Dragons,Sojourn
+45562,King's Row,LIP,Shanghai Dragons,Sombra
+45568,King's Row,LIP,Shanghai Dragons,Widowmaker
+45590,King's Row,LeeJaeGon,Shanghai Dragons,Brigitte
+45609,King's Row,LeeJaeGon,Shanghai Dragons,Lucio
+45634,King's Row,LeeJaeGon,Shanghai Dragons,Zenyatta
+45664,Route 66,ChoiSehwan,Guangzhou Charge,Genji
+45686,Route 66,ChoiSehwan,Guangzhou Charge,Sombra
+45717,Route 66,Farway1987,Guangzhou Charge,Ana
+45749,Route 66,Jimmy,Guangzhou Charge,Ashe
+45768,Route 66,Jimmy,Guangzhou Charge,Reaper
+45783,Route 66,Jimmy,Guangzhou Charge,Sojourn
+45804,Route 66,Jimmy,Guangzhou Charge,Symmetra
+45808,Route 66,Jimmy,Guangzhou Charge,Tracer
+45820,Route 66,Jimmy,Guangzhou Charge,Widowmaker
+45837,Route 66,Piggy,Guangzhou Charge,Doomfist
+45852,Route 66,Piggy,Guangzhou Charge,Zarya
+45883,Route 66,Xerneas,Guangzhou Charge,Lucio
+45921,Route 66,Fate,Shanghai Dragons,Winston
+45957,Route 66,Fleta,Shanghai Dragons,Genji
+45977,Route 66,Fleta,Shanghai Dragons,Symmetra
+45986,Route 66,Fleta,Shanghai Dragons,Tracer
+46020,Route 66,IZaYaKI,Shanghai Dragons,Ana
+46064,Route 66,LIP,Shanghai Dragons,Sojourn
+46087,Route 66,LIP,Shanghai Dragons,Widowmaker
+46112,Route 66,LeeJaeGon,Shanghai Dragons,Brigitte
+46128,Route 66,LeeJaeGon,Shanghai Dragons,Lucio
+46152,New Queen Street,ChoiSehwan,Guangzhou Charge,Genji
+46183,New Queen Street,Farway1987,Guangzhou Charge,Ana
+46228,New Queen Street,Jimmy,Guangzhou Charge,Sojourn
+46246,New Queen Street,Jimmy,Guangzhou Charge,Tracer
+46270,New Queen Street,Piggy,Guangzhou Charge,Zarya
+46308,New Queen Street,Xerneas,Guangzhou Charge,Lucio
+46350,New Queen Street,Fate,Shanghai Dragons,Winston
+46386,New Queen Street,Fleta,Shanghai Dragons,Genji
+46404,New Queen Street,Fleta,Shanghai Dragons,Tracer
+46442,New Queen Street,IZaYaKI,Shanghai Dragons,Ana
+46477,New Queen Street,LIP,Shanghai Dragons,Sojourn
+46508,New Queen Street,LeeJaeGon,Shanghai Dragons,Lucio
+46550,Ilios,ChoiSehwan,Guangzhou Charge,Genji
+46567,Ilios,ChoiSehwan,Guangzhou Charge,Symmetra
+46573,Ilios,ChoiSehwan,Guangzhou Charge,Tracer
+46607,Ilios,Farway1987,Guangzhou Charge,Ana
+46655,Ilios,Jimmy,Guangzhou Charge,Sojourn
+46674,Ilios,Jimmy,Guangzhou Charge,Sombra
+46693,Ilios,Jimmy,Guangzhou Charge,Widowmaker
+46712,Ilios,Piggy,Guangzhou Charge,Winston
+46737,Ilios,Piggy,Guangzhou Charge,Zarya
+46768,Ilios,Xerneas,Guangzhou Charge,Brigitte
+46783,Ilios,Xerneas,Guangzhou Charge,Lucio
+46830,Ilios,Fate,Shanghai Dragons,Winston
+46859,Ilios,Fleta,Shanghai Dragons,Genji
+46879,Ilios,Fleta,Shanghai Dragons,Reaper
+46895,Ilios,Fleta,Shanghai Dragons,Symmetra
+46900,Ilios,Fleta,Shanghai Dragons,Tracer
+46935,Ilios,IZaYaKI,Shanghai Dragons,Ana
+46957,Ilios,IZaYaKI,Shanghai Dragons,Moira
+46977,Ilios,LIP,Shanghai Dragons,Sojourn
+46996,Ilios,LIP,Shanghai Dragons,Sombra
+47032,Ilios,LeeJaeGon,Shanghai Dragons,Brigitte
+47049,Ilios,LeeJaeGon,Shanghai Dragons,Lucio
+47077,Nepal,AlphaYi,Hangzhou Spark,Symmetra
+47080,Nepal,AlphaYi,Hangzhou Spark,Tracer
+47110,Nepal,Guxue,Hangzhou Spark,Winston
+47149,Nepal,Neko,Hangzhou Spark,Brigitte
+47178,Nepal,Teru,Hangzhou Spark,Ana
+47222,Nepal,shy,Hangzhou Spark,Sombra
+47254,Nepal,AimGod,Seoul Infernal,Ana
+47293,Nepal,Belosrea,Seoul Infernal,Doomfist
+47300,Nepal,Belosrea,Seoul Infernal,Junker Queen
+47301,Nepal,Belosrea,Seoul Infernal,Winston
+47343,Nepal,FIXA,Seoul Infernal,Brigitte
+47375,Nepal,MN3,Seoul Infernal,Sombra
+47402,Nepal,ZEST,Seoul Infernal,Symmetra
+47410,Nepal,ZEST,Seoul Infernal,Tracer
+47438,King's Row,AlphaYi,Hangzhou Spark,Genji
+47458,King's Row,AlphaYi,Hangzhou Spark,Tracer
+47474,King's Row,AlphaYi,Hangzhou Spark,Widowmaker
+47498,King's Row,Guxue,Hangzhou Spark,Winston
+47550,King's Row,Neko,Hangzhou Spark,Brigitte
+47564,King's Row,Neko,Hangzhou Spark,Lucio
+47607,King's Row,Teru,Hangzhou Spark,Ana
+47645,King's Row,shy,Hangzhou Spark,Sojourn
+47683,King's Row,AimGod,Seoul Infernal,Ana
+47726,King's Row,FIXA,Seoul Infernal,Lucio
+47753,King's Row,FIXA,Seoul Infernal,Zenyatta
+47786,King's Row,Fury,Seoul Infernal,Zarya
+47825,King's Row,MN3,Seoul Infernal,Genji
+47831,King's Row,MN3,Seoul Infernal,Sojourn
+47859,King's Row,ZEST,Seoul Infernal,Genji
+47876,King's Row,ZEST,Seoul Infernal,Reaper
+47902,King's Row,ZEST,Seoul Infernal,Tracer
+47912,King's Row,ZEST,Seoul Infernal,Widowmaker
+47932,Dorado,AlphaYi,Hangzhou Spark,Tracer
+47958,Dorado,Guxue,Hangzhou Spark,Winston
+47997,Dorado,Neko,Hangzhou Spark,Brigitte
+48028,Dorado,Teru,Hangzhou Spark,Ana
+48072,Dorado,shy,Hangzhou Spark,Sojourn
+48096,Dorado,shy,Hangzhou Spark,Widowmaker
+48110,Dorado,AimGod,Seoul Infernal,Ana
+48149,Dorado,Belosrea,Seoul Infernal,Doomfist
+48153,Dorado,Belosrea,Seoul Infernal,Winston
+48192,Dorado,FIXA,Seoul Infernal,Brigitte
+48228,Dorado,MN3,Seoul Infernal,Sombra
+48264,Dorado,ZEST,Seoul Infernal,Genji
+48288,Dorado,ZEST,Seoul Infernal,Tracer
+48325,Colosseo,AlphaYi,Hangzhou Spark,Genji
+48342,Colosseo,AlphaYi,Hangzhou Spark,Tracer
+48371,Colosseo,Guxue,Hangzhou Spark,Winston
+48411,Colosseo,Neko,Hangzhou Spark,Brigitte
+48424,Colosseo,Neko,Hangzhou Spark,Lucio
+48455,Colosseo,Teru,Hangzhou Spark,Ana
+48495,Colosseo,shy,Hangzhou Spark,Sojourn
+48522,Colosseo,shy,Hangzhou Spark,Tracer
+48540,Colosseo,AimGod,Seoul Infernal,Ana
+48581,Colosseo,FIXA,Seoul Infernal,Lucio
+48623,Colosseo,Fury,Seoul Infernal,Doomfist
+48631,Colosseo,Fury,Seoul Infernal,Zarya
+48662,Colosseo,MN3,Seoul Infernal,Sojourn
+48701,Colosseo,ZEST,Seoul Infernal,Junkrat
+48702,Colosseo,ZEST,Seoul Infernal,Reaper
+48742,Ilios,Hawk,Atlanta Reign,D.Va
+48770,Ilios,Speedily,Atlanta Reign,Echo
+48803,Ilios,UltraViolet,Atlanta Reign,Ana
+48843,Ilios,Venom,Atlanta Reign,Symmetra
+48849,Ilios,Venom,Atlanta Reign,Tracer
+48889,Ilios,vigilante,Atlanta Reign,Zenyatta
+48931,Ilios,Flora,New York Excelsior,Ashe
+48952,Ilios,Flora,New York Excelsior,Sombra
+48979,Ilios,GangNamJin,New York Excelsior,Zenyatta
+49009,Ilios,HO1,New York Excelsior,Ana
+49043,Ilios,Kellan,New York Excelsior,Wrecking Ball
+49081,Ilios,Yaki,New York Excelsior,Symmetra
+49085,Ilios,Yaki,New York Excelsior,Tracer
+49112,King's Row,Hawk,Atlanta Reign,D.Va
+49149,King's Row,Speedily,Atlanta Reign,Echo
+49169,King's Row,Speedily,Atlanta Reign,Genji
+49180,King's Row,Speedily,Atlanta Reign,Sombra
+49203,King's Row,Speedily,Atlanta Reign,Widowmaker
+49216,King's Row,UltraViolet,Atlanta Reign,Ana
+49243,King's Row,UltraViolet,Atlanta Reign,Lucio
+49265,King's Row,Venom,Atlanta Reign,Symmetra
+49274,King's Row,Venom,Atlanta Reign,Tracer
+49308,King's Row,vigilante,Atlanta Reign,Moira
+49314,King's Row,vigilante,Atlanta Reign,Zenyatta
+49354,King's Row,Flora,New York Excelsior,Ashe
+49375,King's Row,Flora,New York Excelsior,Sojourn
+49401,King's Row,Flora,New York Excelsior,Sombra
+49419,King's Row,Flora,New York Excelsior,Torbjorn
+49436,King's Row,GangNamJin,New York Excelsior,Zenyatta
+49468,King's Row,HO1,New York Excelsior,Ana
+49513,King's Row,Kellan,New York Excelsior,Winston
+49542,King's Row,Yaki,New York Excelsior,Tracer
+49563,King's Row,Yaki,New York Excelsior,Widowmaker
+49584,Circuit royal,Hawk,Atlanta Reign,D.Va
+49596,Circuit royal,Hawk,Atlanta Reign,Doomfist
+49607,Circuit royal,Hawk,Atlanta Reign,Sigma
+49641,Circuit royal,Kai,Atlanta Reign,Widowmaker
+49674,Circuit royal,UltraViolet,Atlanta Reign,Baptiste
+49708,Circuit royal,Venom,Atlanta Reign,Hanzo
+49731,Circuit royal,Venom,Atlanta Reign,Tracer
+49764,Circuit royal,vigilante,Atlanta Reign,Zenyatta
+49802,Circuit royal,Flora,New York Excelsior,Sojourn
+49819,Circuit royal,Flora,New York Excelsior,Widowmaker
+49853,Circuit royal,GangNamJin,New York Excelsior,Zenyatta
+49877,Circuit royal,HO1,New York Excelsior,Baptiste
+49904,Circuit royal,Kellan,New York Excelsior,Sigma
+49938,Circuit royal,Yaki,New York Excelsior,Genji
+49958,Circuit royal,Yaki,New York Excelsior,Sojourn
+49995,Nepal,ChiYo,Dallas Fuel,Lucio
+50035,Nepal,Doha,Dallas Fuel,Sombra
+50048,Nepal,Doha,Dallas Fuel,Symmetra
+50067,Nepal,Edison,Dallas Fuel,Reaper
+50102,Nepal,Fielder,Dallas Fuel,Ana
+50153,Nepal,Hanbin,Dallas Fuel,Zarya
+50195,Nepal,Krawi,Vegas Eternal,Doomfist
+50208,Nepal,Krawi,Vegas Eternal,Zarya
+50242,Nepal,Lukemino,Vegas Eternal,Ana
+50275,Nepal,MaltheL,Vegas Eternal,Pharah
+50279,Nepal,MaltheL,Vegas Eternal,Symmetra
+50286,Nepal,MaltheL,Vegas Eternal,Tracer
+50324,Nepal,Rakattack,Vegas Eternal,Brigitte
+50355,Nepal,wub,Vegas Eternal,Sojourn
+50379,Nepal,wub,Vegas Eternal,Sombra
+50411,Paraíso,ChiYo,Dallas Fuel,Lucio
+50445,Paraíso,Doha,Dallas Fuel,Sombra
+50468,Paraíso,Edison,Dallas Fuel,Genji
+50510,Paraíso,Fielder,Dallas Fuel,Ana
+50546,Paraíso,Hanbin,Dallas Fuel,Zarya
+50583,Paraíso,Krawi,Vegas Eternal,D.Va
+50603,Paraíso,Krawi,Vegas Eternal,Doomfist
+50614,Paraíso,Lukemino,Vegas Eternal,Ana
+50633,Paraíso,Lukemino,Vegas Eternal,Baptiste
+50659,Paraíso,MaltheL,Vegas Eternal,Tracer
+50692,Paraíso,Rakattack,Vegas Eternal,Lucio
+50708,Paraíso,Rakattack,Vegas Eternal,Moira
+50713,Paraíso,Rakattack,Vegas Eternal,Zenyatta
+50748,Paraíso,wub,Vegas Eternal,Sombra
+50763,Paraíso,wub,Vegas Eternal,Widowmaker
+50779,Circuit royal,ChiYo,Dallas Fuel,Lucio
+50828,Circuit royal,Doha,Dallas Fuel,Sombra
+50857,Circuit royal,Edison,Dallas Fuel,Genji
+50894,Circuit royal,Fielder,Dallas Fuel,Ana
+50944,Circuit royal,Hanbin,Dallas Fuel,Zarya
+50985,Circuit royal,Dove,Vegas Eternal,Ashe
+51005,Circuit royal,Dove,Vegas Eternal,Cassidy
+51008,Circuit royal,Dove,Vegas Eternal,Genji
+51011,Circuit royal,Dove,Vegas Eternal,Tracer
+51029,Circuit royal,Dove,Vegas Eternal,Widowmaker
+51064,Circuit royal,Krawi,Vegas Eternal,D.Va
+51068,Circuit royal,Krawi,Vegas Eternal,Doomfist
+51074,Circuit royal,Krawi,Vegas Eternal,Sigma
+51105,Circuit royal,Lukemino,Vegas Eternal,Baptiste
+51141,Circuit royal,Rakattack,Vegas Eternal,Zenyatta
+51185,Circuit royal,wub,Vegas Eternal,Sojourn
+51221,Busan,Creative,Houston Outlaws,Ana
+51247,Busan,Creative,Houston Outlaws,Baptiste
+51284,Busan,Danteh,Houston Outlaws,D.Va
+51303,Busan,Danteh,Houston Outlaws,Orisa
+51334,Busan,Lastro,Houston Outlaws,Zenyatta
+51373,Busan,MER1T,Houston Outlaws,Ashe
+51392,Busan,MER1T,Houston Outlaws,Symmetra
+51400,Busan,MER1T,Houston Outlaws,Tracer
+51432,Busan,PELICAN,Houston Outlaws,Echo
+51445,Busan,PELICAN,Houston Outlaws,Hanzo
+51464,Busan,PELICAN,Houston Outlaws,Sombra
+51482,Busan,PELICAN,Houston Outlaws,Symmetra
+51487,Busan,PELICAN,Houston Outlaws,Tracer
+51514,Busan,FiNN,San Francisco Shock,Ana
+51516,Busan,FiNN,San Francisco Shock,Zenyatta
+51551,Busan,Proper,San Francisco Shock,Sojourn
+51570,Busan,Proper,San Francisco Shock,Symmetra
+51575,Busan,Proper,San Francisco Shock,Torbjorn
+51593,Busan,Proper,San Francisco Shock,Tracer
+51618,Busan,Viol2t,San Francisco Shock,Ana
+51632,Busan,Viol2t,San Francisco Shock,Baptiste
+51653,Busan,Viol2t,San Francisco Shock,Brigitte
+51670,Busan,Viol2t,San Francisco Shock,Lucio
+51705,Busan,mikeyy,San Francisco Shock,Orisa
+51719,Busan,mikeyy,San Francisco Shock,Wrecking Ball
+51756,Busan,s9mm,San Francisco Shock,Hanzo
+51775,Busan,s9mm,San Francisco Shock,Sombra
+51801,King's Row,Creative,Houston Outlaws,Ana
+51851,King's Row,Danteh,Houston Outlaws,D.Va
+51882,King's Row,Lastro,Houston Outlaws,Zenyatta
+51910,King's Row,MER1T,Houston Outlaws,Symmetra
+51916,King's Row,MER1T,Houston Outlaws,Tracer
+51953,King's Row,PELICAN,Houston Outlaws,Echo
+51978,King's Row,PELICAN,Houston Outlaws,Sombra
+52012,King's Row,Coluge,San Francisco Shock,D.Va
+52051,King's Row,FiNN,San Francisco Shock,Zenyatta
+52095,King's Row,Proper,San Francisco Shock,Cassidy
+52102,King's Row,Proper,San Francisco Shock,Genji
+52118,King's Row,Proper,San Francisco Shock,Tracer
+52147,King's Row,Viol2t,San Francisco Shock,Ana
+52179,King's Row,s9mm,San Francisco Shock,Hanzo
+52191,King's Row,s9mm,San Francisco Shock,Sombra
+52225,Route 66,Creative,Houston Outlaws,Ana
+52261,Route 66,Danteh,Houston Outlaws,D.Va
+52297,Route 66,Lastro,Houston Outlaws,Zenyatta
+52336,Route 66,MER1T,Houston Outlaws,Hanzo
+52340,Route 66,MER1T,Houston Outlaws,Tracer
+52380,Route 66,PELICAN,Houston Outlaws,Sombra
+52408,Route 66,Coluge,San Francisco Shock,D.Va
+52441,Route 66,FiNN,San Francisco Shock,Zenyatta
+52484,Route 66,Proper,San Francisco Shock,Hanzo
+52485,Route 66,Proper,San Francisco Shock,Tracer
+52502,Route 66,Proper,San Francisco Shock,Widowmaker
+52517,Route 66,Viol2t,San Francisco Shock,Ana
+52560,Route 66,s9mm,San Francisco Shock,Sombra
+52593,New Queen Street,Creative,Houston Outlaws,Ana
+52631,New Queen Street,Danteh,Houston Outlaws,D.Va
+52659,New Queen Street,Lastro,Houston Outlaws,Zenyatta
+52696,New Queen Street,MER1T,Houston Outlaws,Tracer
+52733,New Queen Street,PELICAN,Houston Outlaws,Sombra
+52766,New Queen Street,Coluge,San Francisco Shock,D.Va
+52796,New Queen Street,FiNN,San Francisco Shock,Baptiste
+52812,New Queen Street,FiNN,San Francisco Shock,Zenyatta
+52844,New Queen Street,Kilo,San Francisco Shock,Ashe
+52879,New Queen Street,Proper,San Francisco Shock,Tracer
+52912,New Queen Street,Viol2t,San Francisco Shock,Brigitte
+52931,New Queen Street,Viol2t,San Francisco Shock,Zenyatta
+52976,Nepal,FunnyAstro,Los Angeles Gladiators,Lucio
+53015,Nepal,Happy,Los Angeles Gladiators,Pharah
+53029,Nepal,Happy,Los Angeles Gladiators,Sojourn
+53056,Nepal,Happy,Los Angeles Gladiators,Sombra
+53071,Nepal,Happy,Los Angeles Gladiators,Symmetra
+53080,Nepal,Happy,Los Angeles Gladiators,Tracer
+53107,Nepal,Reiner,Los Angeles Gladiators,Doomfist
+53120,Nepal,Reiner,Los Angeles Gladiators,Winston
+53153,Nepal,kevster,Los Angeles Gladiators,Genji
+53181,Nepal,kevster,Los Angeles Gladiators,Soldier: 76
+53187,Nepal,kevster,Los Angeles Gladiators,Symmetra
+53196,Nepal,kevster,Los Angeles Gladiators,Tracer
+53236,Nepal,shu,Los Angeles Gladiators,Ana
+53272,Nepal,Aspire,Vancouver Titans,Sojourn
+53288,Nepal,Aspire,Vancouver Titans,Tracer
+53314,Nepal,Masaa,Vancouver Titans,Brigitte
+53327,Nepal,Masaa,Vancouver Titans,Lucio
+53361,Nepal,MirroR,Vancouver Titans,Doomfist
+53376,Nepal,MirroR,Vancouver Titans,Orisa
+53407,Nepal,Skairipa,Vancouver Titans,Baptiste
+53448,Nepal,k1ng,Vancouver Titans,Mei
+53472,Nepal,k1ng,Vancouver Titans,Tracer
+53497,Eichenwalde,Happy,Los Angeles Gladiators,Pharah
+53508,Eichenwalde,Happy,Los Angeles Gladiators,Sojourn
+53529,Eichenwalde,Happy,Los Angeles Gladiators,Sombra
+53559,Eichenwalde,Reiner,Los Angeles Gladiators,Doomfist
+53579,Eichenwalde,Reiner,Los Angeles Gladiators,Roadhog
+53595,Eichenwalde,Reiner,Los Angeles Gladiators,Winston
+53629,Eichenwalde,kevster,Los Angeles Gladiators,Genji
+53658,Eichenwalde,kevster,Los Angeles Gladiators,Widowmaker
+53681,Eichenwalde,shu,Los Angeles Gladiators,Ana
+53708,Eichenwalde,shu,Los Angeles Gladiators,Mercy
+53725,Eichenwalde,skewed,Los Angeles Gladiators,Brigitte
+53747,Eichenwalde,skewed,Los Angeles Gladiators,Lucio
+53764,Eichenwalde,Aspire,Vancouver Titans,Sojourn
+53782,Eichenwalde,Aspire,Vancouver Titans,Tracer
+53793,Eichenwalde,Aspire,Vancouver Titans,Widowmaker
+53811,Eichenwalde,Masaa,Vancouver Titans,Brigitte
+53827,Eichenwalde,Masaa,Vancouver Titans,Lucio
+53859,Eichenwalde,MirroR,Vancouver Titans,Doomfist
+53875,Eichenwalde,MirroR,Vancouver Titans,Junker Queen
+53897,Eichenwalde,MirroR,Vancouver Titans,Orisa
+53922,Eichenwalde,Skairipa,Vancouver Titans,Ana
+53937,Eichenwalde,Skairipa,Vancouver Titans,Baptiste
+53950,Eichenwalde,Skairipa,Vancouver Titans,Lucio
+53980,Eichenwalde,k1ng,Vancouver Titans,Mei
+54000,Eichenwalde,k1ng,Vancouver Titans,Sombra
+54010,Eichenwalde,k1ng,Vancouver Titans,Tracer
+54043,Dorado,Happy,Los Angeles Gladiators,Sojourn
+54067,Dorado,Happy,Los Angeles Gladiators,Sombra
+54079,Dorado,Happy,Los Angeles Gladiators,Widowmaker
+54096,Dorado,Reiner,Los Angeles Gladiators,Winston
+54138,Dorado,kevster,Los Angeles Gladiators,Genji
+54163,Dorado,kevster,Los Angeles Gladiators,Hanzo
+54173,Dorado,kevster,Los Angeles Gladiators,Tracer
+54195,Dorado,kevster,Los Angeles Gladiators,Widowmaker
+54215,Dorado,shu,Los Angeles Gladiators,Ana
+54256,Dorado,skewed,Los Angeles Gladiators,Brigitte
+54283,Dorado,Aspire,Vancouver Titans,Tracer
+54312,Dorado,Aztac,Vancouver Titans,Brigitte
+54344,Dorado,MirroR,Vancouver Titans,Doomfist
+54370,Dorado,Skairipa,Vancouver Titans,Ana
+54390,Dorado,Skairipa,Vancouver Titans,Baptiste
+54417,Dorado,k1ng,Vancouver Titans,Echo
+54421,Dorado,k1ng,Vancouver Titans,Genji
+54423,Dorado,k1ng,Vancouver Titans,Sombra
+54452,Busan,GA9A,Chengdu Hunters,Wrecking Ball
+54476,Busan,GA9A,Chengdu Hunters,Zarya
+54506,Busan,Jinmu,Chengdu Hunters,Genji
+54526,Busan,Jinmu,Chengdu Hunters,Sombra
+54541,Busan,Jinmu,Chengdu Hunters,Symmetra
+54559,Busan,Leave,Chengdu Hunters,Sojourn
+54577,Busan,Leave,Chengdu Hunters,Symmetra
+54585,Busan,Leave,Chengdu Hunters,Tracer
+54626,Busan,Mmonk,Chengdu Hunters,Ana
+54651,Busan,Mmonk,Chengdu Hunters,Zenyatta
+54692,Busan,Nisha,Chengdu Hunters,Ana
+54719,Busan,Nisha,Chengdu Hunters,Brigitte
+54729,Busan,Nisha,Chengdu Hunters,Lucio
+54774,Busan,Fits,Seoul Dynasty,Sombra
+54809,Busan,Profit,Seoul Dynasty,Genji
+54831,Busan,Profit,Seoul Dynasty,Symmetra
+54837,Busan,Profit,Seoul Dynasty,Tracer
+54874,Busan,Vindaim,Seoul Dynasty,Ana
+54899,Busan,Vindaim,Seoul Dynasty,Lucio
+54934,Busan,ir1s,Seoul Dynasty,Ana
+54963,Busan,ir1s,Seoul Dynasty,Zenyatta
+55003,Busan,smurf,Seoul Dynasty,D.Va
+55030,Busan,smurf,Seoul Dynasty,Zarya
+55059,King's Row,GA9A,Chengdu Hunters,Doomfist
+55061,King's Row,GA9A,Chengdu Hunters,Winston
+55094,King's Row,Jinmu,Chengdu Hunters,Genji
+55116,King's Row,Jinmu,Chengdu Hunters,Hanzo
+55121,King's Row,Jinmu,Chengdu Hunters,Tracer
+55165,King's Row,Leave,Chengdu Hunters,Ashe
+55185,King's Row,Leave,Chengdu Hunters,Pharah
+55192,King's Row,Leave,Chengdu Hunters,Sojourn
+55233,King's Row,Mmonk,Chengdu Hunters,Zenyatta
+55264,King's Row,Nisha,Chengdu Hunters,Ana
+55305,King's Row,Fits,Seoul Dynasty,Sojourn
+55328,King's Row,Fits,Seoul Dynasty,Sombra
+55366,King's Row,Profit,Seoul Dynasty,Genji
+55390,King's Row,Profit,Seoul Dynasty,Hanzo
+55394,King's Row,Profit,Seoul Dynasty,Tracer
+55432,King's Row,Vindaim,Seoul Dynasty,Lucio
+55469,King's Row,ir1s,Seoul Dynasty,Ana
+55506,King's Row,smurf,Seoul Dynasty,Zarya
+55538,Dorado,GA9A,Chengdu Hunters,Winston
+55577,Dorado,Jinmu,Chengdu Hunters,Echo
+55606,Dorado,Jinmu,Chengdu Hunters,Sombra
+55624,Dorado,Jinmu,Chengdu Hunters,Tracer
+55652,Dorado,Leave,Chengdu Hunters,Ashe
+55671,Dorado,Leave,Chengdu Hunters,Sojourn
+55692,Dorado,Leave,Chengdu Hunters,Symmetra
+55701,Dorado,Leave,Chengdu Hunters,Tracer
+55730,Dorado,Mmonk,Chengdu Hunters,Ana
+55776,Dorado,Nisha,Chengdu Hunters,Brigitte
+55807,Dorado,Fits,Seoul Dynasty,Sombra
+55841,Dorado,Profit,Seoul Dynasty,Genji
+55856,Dorado,Profit,Seoul Dynasty,Tracer
+55895,Dorado,Vindaim,Seoul Dynasty,Brigitte
+55925,Dorado,ir1s,Seoul Dynasty,Ana
+55962,Dorado,smurf,Seoul Dynasty,Winston
+56001,New Queen Street,Daizi,Chengdu Hunters,Zarya
+56045,New Queen Street,Jinmu,Chengdu Hunters,Genji
+56084,New Queen Street,Leave,Chengdu Hunters,Sojourn
+56117,New Queen Street,Mmonk,Chengdu Hunters,Ana
+56156,New Queen Street,Nisha,Chengdu Hunters,Lucio
+56196,New Queen Street,Fits,Seoul Dynasty,Sombra
+56229,New Queen Street,Profit,Seoul Dynasty,Genji
+56269,New Queen Street,Vindaim,Seoul Dynasty,Lucio
+56308,New Queen Street,ir1s,Seoul Dynasty,Ana
+56349,New Queen Street,smurf,Seoul Dynasty,Zarya
+56386,Busan,AimGod,Seoul Infernal,Zenyatta
+56426,Busan,FIXA,Seoul Infernal,Ana
+56466,Busan,Fury,Seoul Infernal,D.Va
+56470,Busan,Fury,Seoul Infernal,Zarya
+56512,Busan,MN3,Seoul Infernal,Sombra
+56548,Busan,ZEST,Seoul Infernal,Symmetra
+56553,Busan,ZEST,Seoul Infernal,Tracer
+56585,Busan,BEBE,Shanghai Dragons,Ana
+56618,Busan,Fleta,Shanghai Dragons,Symmetra
+56622,Busan,Fleta,Shanghai Dragons,Tracer
+56658,Busan,IZaYaKI,Shanghai Dragons,Zenyatta
+56695,Busan,LIP,Shanghai Dragons,Sombra
+56725,Busan,Void,Shanghai Dragons,D.Va
+56760,Eichenwalde,AimGod,Seoul Infernal,Zenyatta
+56787,Eichenwalde,FIXA,Seoul Infernal,Ana
+56836,Eichenwalde,Fury,Seoul Infernal,Zarya
+56873,Eichenwalde,MN3,Seoul Infernal,Hanzo
+56875,Eichenwalde,MN3,Seoul Infernal,Sombra
+56907,Eichenwalde,ZEST,Seoul Infernal,Tracer
+56934,Eichenwalde,ZEST,Seoul Infernal,Widowmaker
+56950,Eichenwalde,BEBE,Shanghai Dragons,Ana
+56991,Eichenwalde,Fleta,Shanghai Dragons,Tracer
+57028,Eichenwalde,IZaYaKI,Shanghai Dragons,Mercy
+57030,Eichenwalde,IZaYaKI,Shanghai Dragons,Zenyatta
+57063,Eichenwalde,LIP,Shanghai Dragons,Sombra
+57094,Eichenwalde,Void,Shanghai Dragons,D.Va
+57115,Eichenwalde,Void,Shanghai Dragons,Doomfist
+57133,Circuit royal,AimGod,Seoul Infernal,Zenyatta
+57170,Circuit royal,FIXA,Seoul Infernal,Ana
+57199,Circuit royal,FIXA,Seoul Infernal,Baptiste
+57210,Circuit royal,FIXA,Seoul Infernal,Lucio
+57230,Circuit royal,Fury,Seoul Infernal,Zarya
+57273,Circuit royal,MN3,Seoul Infernal,Sojourn
+57299,Circuit royal,MN3,Seoul Infernal,Sombra
+57321,Circuit royal,MN3,Seoul Infernal,Widowmaker
+57338,Circuit royal,ZEST,Seoul Infernal,Genji
+57374,Circuit royal,IZaYaKI,Shanghai Dragons,Ana
+57413,Circuit royal,LIP,Shanghai Dragons,Sojourn
+57432,Circuit royal,LIP,Shanghai Dragons,Sombra
+57461,Circuit royal,LeeJaeGon,Shanghai Dragons,Lucio
+57501,Circuit royal,Void,Shanghai Dragons,Zarya
+57538,Circuit royal,WhoRu,Shanghai Dragons,Genji
+57572,New Queen Street,AimGod,Seoul Infernal,Zenyatta
+57605,New Queen Street,FIXA,Seoul Infernal,Ana
+57637,New Queen Street,Fury,Seoul Infernal,Zarya
+57675,New Queen Street,MN3,Seoul Infernal,Sombra
+57707,New Queen Street,ZEST,Seoul Infernal,Symmetra
+57713,New Queen Street,ZEST,Seoul Infernal,Tracer
+57748,New Queen Street,BEBE,Shanghai Dragons,Ana
+57788,New Queen Street,Fleta,Shanghai Dragons,Tracer
+57818,New Queen Street,IZaYaKI,Shanghai Dragons,Zenyatta
+57846,New Queen Street,LIP,Shanghai Dragons,Sombra
+57874,New Queen Street,Void,Shanghai Dragons,Doomfist
+57887,New Queen Street,Void,Shanghai Dragons,Zarya
+57917,Oasis,Backbone,London Spitfire,Sombra
+57953,Oasis,Hadi,London Spitfire,Winston
+57978,Oasis,Hadi,London Spitfire,Wrecking Ball
+58004,Oasis,Kaan,London Spitfire,Ana
+58050,Oasis,Landon,London Spitfire,Brigitte
+58079,Oasis,Shax,London Spitfire,Symmetra
+58084,Oasis,Shax,London Spitfire,Tracer
+58121,Oasis,FunnyAstro,Los Angeles Gladiators,Lucio
+58165,Oasis,Happy,Los Angeles Gladiators,Sojourn
+58191,Oasis,Happy,Los Angeles Gladiators,Soldier: 76
+58208,Oasis,Happy,Los Angeles Gladiators,Sombra
+58242,Oasis,Reiner,Los Angeles Gladiators,Doomfist
+58258,Oasis,Reiner,Los Angeles Gladiators,Winston
+58303,Oasis,kevster,Los Angeles Gladiators,Genji
+58321,Oasis,kevster,Los Angeles Gladiators,Symmetra
+58326,Oasis,kevster,Los Angeles Gladiators,Tracer
+58366,Oasis,shu,Los Angeles Gladiators,Ana
+58411,King's Row,Backbone,London Spitfire,Sombra
+58432,King's Row,Backbone,London Spitfire,Widowmaker
+58444,King's Row,Hadi,London Spitfire,Winston
+58482,King's Row,Kaan,London Spitfire,Zenyatta
+58522,King's Row,Landon,London Spitfire,Ana
+58561,King's Row,Shax,London Spitfire,Symmetra
+58567,King's Row,Shax,London Spitfire,Tracer
+58604,King's Row,Happy,Los Angeles Gladiators,Sombra
+58619,King's Row,Happy,Los Angeles Gladiators,Symmetra
+58647,King's Row,Reiner,Los Angeles Gladiators,D.Va
+58679,King's Row,kevster,Los Angeles Gladiators,Genji
+58684,King's Row,kevster,Los Angeles Gladiators,Tracer
+58715,King's Row,kevster,Los Angeles Gladiators,Widowmaker
+58740,King's Row,shu,Los Angeles Gladiators,Zenyatta
+58782,King's Row,skewed,Los Angeles Gladiators,Ana
+58816,Circuit royal,Backbone,London Spitfire,Genji
+58834,Circuit royal,Backbone,London Spitfire,Hanzo
+58843,Circuit royal,Backbone,London Spitfire,Tracer
+58853,Circuit royal,Backbone,London Spitfire,Widowmaker
+58885,Circuit royal,Kaan,London Spitfire,Ana
+58912,Circuit royal,Kaan,London Spitfire,Zenyatta
+58951,Circuit royal,Landon,London Spitfire,Baptiste
+58974,Circuit royal,Landon,London Spitfire,Lucio
+59018,Circuit royal,Poko,London Spitfire,Sigma
+59037,Circuit royal,Poko,London Spitfire,Zarya
+59072,Circuit royal,SparkR,London Spitfire,Sojourn
+59093,Circuit royal,SparkR,London Spitfire,Sombra
+59123,Circuit royal,Happy,Los Angeles Gladiators,Hanzo
+59139,Circuit royal,Happy,Los Angeles Gladiators,Widowmaker
+59171,Circuit royal,SPACE,Los Angeles Gladiators,Sigma
+59203,Circuit royal,kevster,Los Angeles Gladiators,Sojourn
+59229,Circuit royal,kevster,Los Angeles Gladiators,Tracer
+59257,Circuit royal,shu,Los Angeles Gladiators,Zenyatta
+59298,Circuit royal,skewed,Los Angeles Gladiators,Ana
+59317,Circuit royal,skewed,Los Angeles Gladiators,Baptiste
+59353,Ilios,ChiYo,Dallas Fuel,Brigitte
+59368,Ilios,ChiYo,Dallas Fuel,Lucio
+59410,Ilios,Doha,Dallas Fuel,Echo
+59438,Ilios,Doha,Dallas Fuel,Sombra
+59468,Ilios,FEARLESS,Dallas Fuel,Doomfist
+59485,Ilios,FEARLESS,Dallas Fuel,Winston
+59522,Ilios,Fielder,Dallas Fuel,Ana
+59557,Ilios,SP9RK1E,Dallas Fuel,Genji
+59576,Ilios,SP9RK1E,Dallas Fuel,Symmetra
+59578,Ilios,SP9RK1E,Dallas Fuel,Tracer
+59610,Ilios,Aspire,Vancouver Titans,Symmetra
+59615,Ilios,Aspire,Vancouver Titans,Tracer
+59654,Ilios,False,Vancouver Titans,D.Va
+59691,Ilios,Masaa,Vancouver Titans,Brigitte
+59709,Ilios,Masaa,Vancouver Titans,Lucio
+59747,Ilios,Skairipa,Vancouver Titans,Ana
+59776,Ilios,Skairipa,Vancouver Titans,Moira
+59808,Ilios,k1ng,Vancouver Titans,Echo
+59833,Ilios,k1ng,Vancouver Titans,Sombra
+59857,King's Row,ChiYo,Dallas Fuel,Brigitte
+59872,King's Row,ChiYo,Dallas Fuel,Lucio
+59905,King's Row,Edison,Dallas Fuel,Genji
+59923,King's Row,Edison,Dallas Fuel,Reaper
+59945,King's Row,Edison,Dallas Fuel,Sojourn
+59964,King's Row,Edison,Dallas Fuel,Tracer
+59975,King's Row,Edison,Dallas Fuel,Widowmaker
+59997,King's Row,Fielder,Dallas Fuel,Ana
+60041,King's Row,Hanbin,Dallas Fuel,D.Va
+60055,King's Row,Hanbin,Dallas Fuel,Zarya
+60097,King's Row,SP9RK1E,Dallas Fuel,Echo
+60121,King's Row,SP9RK1E,Dallas Fuel,Genji
+60126,King's Row,SP9RK1E,Dallas Fuel,Sojourn
+60150,King's Row,SP9RK1E,Dallas Fuel,Symmetra
+60154,King's Row,SP9RK1E,Dallas Fuel,Tracer
+60186,King's Row,Aspire,Vancouver Titans,Tracer
+60222,King's Row,False,Vancouver Titans,D.Va
+60226,King's Row,False,Vancouver Titans,Zarya
+60263,King's Row,Masaa,Vancouver Titans,Lucio
+60267,King's Row,Masaa,Vancouver Titans,Zenyatta
+60303,King's Row,Skairipa,Vancouver Titans,Ana
+60351,King's Row,k1ng,Vancouver Titans,Echo
+60377,King's Row,k1ng,Vancouver Titans,Reaper
+60388,King's Row,k1ng,Vancouver Titans,Symmetra
+60407,Junkertown,ChiYo,Dallas Fuel,Zenyatta
+60448,Junkertown,Doha,Dallas Fuel,Echo
+60453,Junkertown,Doha,Dallas Fuel,Genji
+60471,Junkertown,Doha,Dallas Fuel,Sombra
+60502,Junkertown,Edison,Dallas Fuel,Sojourn
+60522,Junkertown,Edison,Dallas Fuel,Tracer
+60546,Junkertown,Edison,Dallas Fuel,Widowmaker
+60566,Junkertown,Fielder,Dallas Fuel,Ana
+60609,Junkertown,Hanbin,Dallas Fuel,D.Va
+60642,Junkertown,Aspire,Vancouver Titans,Genji
+60647,Junkertown,Aspire,Vancouver Titans,Sojourn
+60670,Junkertown,Aspire,Vancouver Titans,Widowmaker
+60690,Junkertown,False,Vancouver Titans,D.Va
+60715,Junkertown,False,Vancouver Titans,Sigma
+60742,Junkertown,Masaa,Vancouver Titans,Lucio
+60766,Junkertown,Masaa,Vancouver Titans,Zenyatta
+60802,Junkertown,Skairipa,Vancouver Titans,Ana
+60819,Junkertown,Skairipa,Vancouver Titans,Baptiste
+60843,Junkertown,Skairipa,Vancouver Titans,Moira
+60859,Junkertown,k1ng,Vancouver Titans,Torbjorn
+60873,Junkertown,k1ng,Vancouver Titans,Tracer
+60911,Busan,Coluge,San Francisco Shock,D.Va
+60933,Busan,Coluge,San Francisco Shock,Doomfist
+60956,Busan,FiNN,San Francisco Shock,Ana
+60991,Busan,Proper,San Francisco Shock,Symmetra
+60997,Busan,Proper,San Francisco Shock,Tracer
+61031,Busan,STRIKER,San Francisco Shock,Sombra
+61069,Busan,Viol2t,San Francisco Shock,Lucio
+61094,Busan,Viol2t,San Francisco Shock,Zenyatta
+61137,Busan,CH0R0NG,Toronto Defiant,Lucio
+61157,Busan,CH0R0NG,Toronto Defiant,Zenyatta
+61195,Busan,Finale,Toronto Defiant,Symmetra
+61201,Busan,Finale,Toronto Defiant,Tracer
+61235,Busan,HOTBA,Toronto Defiant,D.Va
+61270,Busan,Heesu,Toronto Defiant,Sombra
+61298,Busan,Twilight,Toronto Defiant,Ana
+61322,Busan,Twilight,Toronto Defiant,Brigitte
+61350,Paraíso,Coluge,San Francisco Shock,D.Va
+61377,Paraíso,FiNN,San Francisco Shock,Ana
+61424,Paraíso,Proper,San Francisco Shock,Genji
+61449,Paraíso,Proper,San Francisco Shock,Tracer
+61475,Paraíso,Proper,San Francisco Shock,Widowmaker
+61495,Paraíso,Viol2t,San Francisco Shock,Lucio
+61525,Paraíso,Viol2t,San Francisco Shock,Zenyatta
+61563,Paraíso,s9mm,San Francisco Shock,Echo
+61584,Paraíso,s9mm,San Francisco Shock,Sombra
+61614,Paraíso,CH0R0NG,Toronto Defiant,Lucio
+61619,Paraíso,CH0R0NG,Toronto Defiant,Zenyatta
+61651,Paraíso,Finale,Toronto Defiant,Tracer
+61672,Paraíso,Finale,Toronto Defiant,Widowmaker
+61692,Paraíso,HOTBA,Toronto Defiant,D.Va
+61723,Paraíso,Heesu,Toronto Defiant,Sombra
+61747,Paraíso,Twilight,Toronto Defiant,Ana
+61783,Junkertown,Coluge,San Francisco Shock,Doomfist
+61799,Junkertown,Coluge,San Francisco Shock,Sigma
+61833,Junkertown,FiNN,San Francisco Shock,Ana
+61874,Junkertown,Proper,San Francisco Shock,Sojourn
+61910,Junkertown,STRIKER,San Francisco Shock,Sombra
+61938,Junkertown,Viol2t,San Francisco Shock,Lucio
+61954,Junkertown,Viol2t,San Francisco Shock,Zenyatta
+61989,Junkertown,CH0R0NG,Toronto Defiant,Brigitte
+62003,Junkertown,CH0R0NG,Toronto Defiant,Lucio
+62010,Junkertown,CH0R0NG,Toronto Defiant,Moira
+62013,Junkertown,CH0R0NG,Toronto Defiant,Zenyatta
+62051,Junkertown,Finale,Toronto Defiant,Tracer
+62070,Junkertown,Finale,Toronto Defiant,Widowmaker
+62091,Junkertown,HOTBA,Toronto Defiant,D.Va
+62117,Junkertown,HOTBA,Toronto Defiant,Roadhog
+62123,Junkertown,HOTBA,Toronto Defiant,Zarya
+62152,Junkertown,Heesu,Toronto Defiant,Hanzo
+62160,Junkertown,Heesu,Toronto Defiant,Sombra
+62193,Junkertown,Twilight,Toronto Defiant,Ana
+62233,New Queen Street,Coluge,San Francisco Shock,D.Va
+62267,New Queen Street,FiNN,San Francisco Shock,Ana
+62313,New Queen Street,Proper,San Francisco Shock,Tracer
+62352,New Queen Street,STRIKER,San Francisco Shock,Sombra
+62381,New Queen Street,Viol2t,San Francisco Shock,Lucio
+62412,New Queen Street,Viol2t,San Francisco Shock,Zenyatta
+62447,New Queen Street,CH0R0NG,Toronto Defiant,Brigitte
+62468,New Queen Street,CH0R0NG,Toronto Defiant,Zenyatta
+62508,New Queen Street,Finale,Toronto Defiant,Tracer
+62549,New Queen Street,HOTBA,Toronto Defiant,D.Va
+62567,New Queen Street,HOTBA,Toronto Defiant,Zarya
+62598,New Queen Street,Heesu,Toronto Defiant,Sombra
+62628,New Queen Street,Twilight,Toronto Defiant,Ana
+62669,Lijiang Tower,AlphaYi,Hangzhou Spark,Genji
+62693,Lijiang Tower,AlphaYi,Hangzhou Spark,Symmetra
+62711,Lijiang Tower,BERNAR,Hangzhou Spark,Zarya
+62752,Lijiang Tower,Neko,Hangzhou Spark,Lucio
+62789,Lijiang Tower,Teru,Hangzhou Spark,Ana
+62833,Lijiang Tower,shy,Hangzhou Spark,Sombra
+62870,Lijiang Tower,BEBE,Shanghai Dragons,Ana
+62911,Lijiang Tower,Fleta,Shanghai Dragons,Symmetra
+62914,Lijiang Tower,Fleta,Shanghai Dragons,Tracer
+62945,Lijiang Tower,IZaYaKI,Shanghai Dragons,Brigitte
+62947,Lijiang Tower,IZaYaKI,Shanghai Dragons,Lucio
+62969,Lijiang Tower,IZaYaKI,Shanghai Dragons,Zenyatta
+63007,Lijiang Tower,LIP,Shanghai Dragons,Sombra
+63035,Lijiang Tower,Void,Shanghai Dragons,D.Va
+63075,Paraíso,AlphaYi,Hangzhou Spark,Genji
+63101,Paraíso,AlphaYi,Hangzhou Spark,Tracer
+63124,Paraíso,AlphaYi,Hangzhou Spark,Widowmaker
+63147,Paraíso,Guxue,Hangzhou Spark,Winston
+63183,Paraíso,Neko,Hangzhou Spark,Brigitte
+63219,Paraíso,Teru,Hangzhou Spark,Ana
+63244,Paraíso,Teru,Hangzhou Spark,Lucio
+63259,Paraíso,shy,Hangzhou Spark,Sojourn
+63294,Paraíso,BEBE,Shanghai Dragons,Ana
+63319,Paraíso,BEBE,Shanghai Dragons,Lucio
+63323,Paraíso,BEBE,Shanghai Dragons,Moira
+63338,Paraíso,Fleta,Shanghai Dragons,Echo
+63353,Paraíso,Fleta,Shanghai Dragons,Tracer
+63387,Paraíso,IZaYaKI,Shanghai Dragons,Lucio
+63395,Paraíso,IZaYaKI,Shanghai Dragons,Zenyatta
+63428,Paraíso,LIP,Shanghai Dragons,Sojourn
+63449,Paraíso,LIP,Shanghai Dragons,Sombra
+63461,Paraíso,LIP,Shanghai Dragons,Tracer
+63477,Paraíso,LIP,Shanghai Dragons,Widowmaker
+63495,Paraíso,Void,Shanghai Dragons,D.Va
+63524,Route 66,AlphaYi,Hangzhou Spark,Genji
+63540,Route 66,AlphaYi,Hangzhou Spark,Hanzo
+63544,Route 66,AlphaYi,Hangzhou Spark,Tracer
+63565,Route 66,AlphaYi,Hangzhou Spark,Widowmaker
+63581,Route 66,BERNAR,Hangzhou Spark,Doomfist
+63591,Route 66,BERNAR,Hangzhou Spark,Zarya
+63626,Route 66,Neko,Hangzhou Spark,Lucio
+63663,Route 66,Teru,Hangzhou Spark,Ana
+63702,Route 66,shy,Hangzhou Spark,Sojourn
+63725,Route 66,shy,Hangzhou Spark,Sombra
+63759,Route 66,BEBE,Shanghai Dragons,Ana
+63800,Route 66,Fleta,Shanghai Dragons,Symmetra
+63804,Route 66,Fleta,Shanghai Dragons,Tracer
+63831,Route 66,IZaYaKI,Shanghai Dragons,Lucio
+63837,Route 66,IZaYaKI,Shanghai Dragons,Zenyatta
+63878,Route 66,LIP,Shanghai Dragons,Sojourn
+63892,Route 66,LIP,Shanghai Dragons,Sombra
+63908,Route 66,LIP,Shanghai Dragons,Widowmaker
+63932,Route 66,Void,Shanghai Dragons,D.Va
+63953,Route 66,Void,Shanghai Dragons,Junker Queen
+63970,New Queen Street,AlphaYi,Hangzhou Spark,Genji
+63996,New Queen Street,AlphaYi,Hangzhou Spark,Tracer
+64012,New Queen Street,BERNAR,Hangzhou Spark,Zarya
+64046,New Queen Street,Neko,Hangzhou Spark,Lucio
+64088,New Queen Street,Teru,Hangzhou Spark,Ana
+64124,New Queen Street,shy,Hangzhou Spark,Sombra
+64156,New Queen Street,BEBE,Shanghai Dragons,Ana
+64200,New Queen Street,Fleta,Shanghai Dragons,Tracer
+64235,New Queen Street,IZaYaKI,Shanghai Dragons,Zenyatta
+64275,New Queen Street,LIP,Shanghai Dragons,Sombra
+64307,New Queen Street,Void,Shanghai Dragons,D.Va
+64344,Oasis,AlphaYi,Hangzhou Spark,Genji
+64368,Oasis,AlphaYi,Hangzhou Spark,Symmetra
+64376,Oasis,AlphaYi,Hangzhou Spark,Tracer
+64404,Oasis,BERNAR,Hangzhou Spark,D.Va
+64423,Oasis,BERNAR,Hangzhou Spark,Doomfist
+64444,Oasis,BERNAR,Hangzhou Spark,Zarya
+64475,Oasis,Neko,Hangzhou Spark,Lucio
+64518,Oasis,Teru,Hangzhou Spark,Ana
+64561,Oasis,shy,Hangzhou Spark,Sombra
+64594,Oasis,BEBE,Shanghai Dragons,Ana
+64624,Oasis,BEBE,Shanghai Dragons,Lucio
+64654,Oasis,Fleta,Shanghai Dragons,Pharah
+64669,Oasis,Fleta,Shanghai Dragons,Symmetra
+64674,Oasis,Fleta,Shanghai Dragons,Tracer
+64708,Oasis,IZaYaKI,Shanghai Dragons,Zenyatta
+64749,Oasis,LIP,Shanghai Dragons,Sombra
+64767,Oasis,LIP,Shanghai Dragons,Symmetra
+64791,Oasis,Void,Shanghai Dragons,D.Va
+64815,Oasis,Void,Shanghai Dragons,Orisa
+64854,Nepal,GA9A,Chengdu Hunters,Doomfist
+64867,Nepal,GA9A,Chengdu Hunters,Winston
+64906,Nepal,Jinmu,Chengdu Hunters,Sombra
+64942,Nepal,Leave,Chengdu Hunters,Symmetra
+64948,Nepal,Leave,Chengdu Hunters,Tracer
+64983,Nepal,Mmonk,Chengdu Hunters,Ana
+65024,Nepal,Nisha,Chengdu Hunters,Brigitte
+65059,Nepal,Becky,Los Angeles Valiant,Echo
+65061,Nepal,Becky,Los Angeles Valiant,Symmetra
+65067,Nepal,Becky,Los Angeles Valiant,Tracer
+65100,Nepal,Ezhan,Los Angeles Valiant,Sombra
+65132,Nepal,Lengsa,Los Angeles Valiant,Brigitte
+65164,Nepal,Marve1,Los Angeles Valiant,Doomfist
+65175,Nepal,Marve1,Los Angeles Valiant,Winston
+65217,Nepal,Molly,Los Angeles Valiant,Ana
+65259,Eichenwalde,GA9A,Chengdu Hunters,Winston
+65295,Eichenwalde,Jinmu,Chengdu Hunters,Sombra
+65314,Eichenwalde,Jinmu,Chengdu Hunters,Tracer
+65344,Eichenwalde,Leave,Chengdu Hunters,Ashe
+65358,Eichenwalde,Leave,Chengdu Hunters,Tracer
+65390,Eichenwalde,Mmonk,Chengdu Hunters,Ana
+65421,Eichenwalde,Nisha,Chengdu Hunters,Brigitte
+65446,Eichenwalde,Becky,Los Angeles Valiant,Echo
+65475,Eichenwalde,Becky,Los Angeles Valiant,Reaper
+65495,Eichenwalde,Becky,Los Angeles Valiant,Tracer
+65502,Eichenwalde,Becky,Los Angeles Valiant,Widowmaker
+65528,Eichenwalde,Ezhan,Los Angeles Valiant,Sombra
+65563,Eichenwalde,Lengsa,Los Angeles Valiant,Brigitte
+65584,Eichenwalde,Lengsa,Los Angeles Valiant,Mercy
+65600,Eichenwalde,Molly,Los Angeles Valiant,Ana
+65649,Eichenwalde,SASIN,Los Angeles Valiant,Zarya
+65688,Dorado,GA9A,Chengdu Hunters,Winston
+65715,Dorado,GA9A,Chengdu Hunters,Zarya
+65737,Dorado,Jinmu,Chengdu Hunters,Genji
+65757,Dorado,Jinmu,Chengdu Hunters,Sombra
+65769,Dorado,Jinmu,Chengdu Hunters,Torbjorn
+65783,Dorado,Jinmu,Chengdu Hunters,Tracer
+65818,Dorado,Leave,Chengdu Hunters,Ashe
+65841,Dorado,Leave,Chengdu Hunters,Tracer
+65869,Dorado,Mmonk,Chengdu Hunters,Ana
+65885,Dorado,Mmonk,Chengdu Hunters,Brigitte
+65894,Dorado,Mmonk,Chengdu Hunters,Zenyatta
+65927,Dorado,Nisha,Chengdu Hunters,Ana
+65955,Dorado,Nisha,Chengdu Hunters,Brigitte
+65995,Dorado,Becky,Los Angeles Valiant,Echo
+66033,Dorado,Ezhan,Los Angeles Valiant,Sojourn
+66057,Dorado,Ezhan,Los Angeles Valiant,Sombra
+66085,Dorado,Lengsa,Los Angeles Valiant,Brigitte
+66118,Dorado,Molly,Los Angeles Valiant,Ana
+66161,Dorado,SASIN,Los Angeles Valiant,Reinhardt
+66162,Dorado,SASIN,Los Angeles Valiant,Zarya
+66197,Colosseo,Daizi,Chengdu Hunters,Zarya
+66237,Colosseo,Jinmu,Chengdu Hunters,Genji
+66277,Colosseo,Leave,Chengdu Hunters,Sombra
+66306,Colosseo,Mmonk,Chengdu Hunters,Ana
+66353,Colosseo,Nisha,Chengdu Hunters,Lucio
+66396,Colosseo,Diya,Los Angeles Valiant,Reaper
+66425,Colosseo,Ezhan,Los Angeles Valiant,Sojourn
+66443,Colosseo,Ezhan,Los Angeles Valiant,Tracer
+66463,Colosseo,Lengsa,Los Angeles Valiant,Lucio
+66503,Colosseo,Molly,Los Angeles Valiant,Ana
+66540,Colosseo,SASIN,Los Angeles Valiant,Zarya
+66581,Ilios,Daizi,Chengdu Hunters,Zarya
+66617,Ilios,Jinmu,Chengdu Hunters,Echo
+66629,Ilios,Jinmu,Chengdu Hunters,Genji
+66650,Ilios,Jinmu,Chengdu Hunters,Reaper
+66666,Ilios,Jinmu,Chengdu Hunters,Symmetra
+66672,Ilios,Jinmu,Chengdu Hunters,Tracer
+66702,Ilios,Leave,Chengdu Hunters,Sombra
+66734,Ilios,Mmonk,Chengdu Hunters,Ana
+66775,Ilios,Nisha,Chengdu Hunters,Brigitte
+66789,Ilios,Nisha,Chengdu Hunters,Lucio
+66829,Ilios,Becky,Los Angeles Valiant,Echo
+66850,Ilios,Becky,Los Angeles Valiant,Symmetra
+66856,Ilios,Becky,Los Angeles Valiant,Tracer
+66896,Ilios,Ezhan,Los Angeles Valiant,Sombra
+66928,Ilios,Lengsa,Los Angeles Valiant,Brigitte
+66944,Ilios,Lengsa,Los Angeles Valiant,Lucio
+66982,Ilios,Marve1,Los Angeles Valiant,Winston
+67020,Ilios,Molly,Los Angeles Valiant,Ana
+67064,Oasis,ChoiSehwan,Guangzhou Charge,Genji
+67092,Oasis,ChoiSehwan,Guangzhou Charge,Symmetra
+67115,Oasis,Farway1987,Guangzhou Charge,Ana
+67156,Oasis,Jimmy,Guangzhou Charge,Sojourn
+67179,Oasis,Jimmy,Guangzhou Charge,Sombra
+67195,Oasis,Jimmy,Guangzhou Charge,Tracer
+67211,Oasis,Piggy,Guangzhou Charge,Doomfist
+67223,Oasis,Piggy,Guangzhou Charge,Zarya
+67265,Oasis,Xerneas,Guangzhou Charge,Lucio
+67302,Oasis,Fits,Seoul Dynasty,Sombra
+67337,Oasis,Profit,Seoul Dynasty,Genji
+67358,Oasis,Profit,Seoul Dynasty,Symmetra
+67364,Oasis,Profit,Seoul Dynasty,Tracer
+67387,Oasis,Vindaim,Seoul Dynasty,Lucio
+67427,Oasis,ir1s,Seoul Dynasty,Ana
+67468,Oasis,smurf,Seoul Dynasty,Zarya
+67504,Paraíso,ChoiSehwan,Guangzhou Charge,Genji
+67540,Paraíso,Farway1987,Guangzhou Charge,Ana
+67575,Paraíso,Jimmy,Guangzhou Charge,Sombra
+67607,Paraíso,Piggy,Guangzhou Charge,Doomfist
+67614,Paraíso,Piggy,Guangzhou Charge,Zarya
+67658,Paraíso,Xerneas,Guangzhou Charge,Lucio
+67697,Paraíso,Fits,Seoul Dynasty,Sojourn
+67729,Paraíso,Fits,Seoul Dynasty,Sombra
+67766,Paraíso,Profit,Seoul Dynasty,Genji
+67784,Paraíso,Profit,Seoul Dynasty,Tracer
+67809,Paraíso,Profit,Seoul Dynasty,Widowmaker
+67824,Paraíso,Vindaim,Seoul Dynasty,Brigitte
+67842,Paraíso,Vindaim,Seoul Dynasty,Lucio
+67884,Paraíso,ir1s,Seoul Dynasty,Ana
+67908,Paraíso,ir1s,Seoul Dynasty,Lucio
+67929,Paraíso,smurf,Seoul Dynasty,Doomfist
+67945,Paraíso,smurf,Seoul Dynasty,Winston
+67977,Paraíso,smurf,Seoul Dynasty,Zarya
+68011,Circuit royal,ChoiSehwan,Guangzhou Charge,Cassidy
+68022,Circuit royal,ChoiSehwan,Guangzhou Charge,Tracer
+68053,Circuit royal,Farway1987,Guangzhou Charge,Moira
+68059,Circuit royal,Farway1987,Guangzhou Charge,Zenyatta
+68090,Circuit royal,Jimmy,Guangzhou Charge,Cassidy
+68103,Circuit royal,Jimmy,Guangzhou Charge,Mei
+68113,Circuit royal,Jimmy,Guangzhou Charge,Sojourn
+68139,Circuit royal,Jimmy,Guangzhou Charge,Widowmaker
+68175,Circuit royal,Piggy,Guangzhou Charge,Doomfist
+68185,Circuit royal,Piggy,Guangzhou Charge,Sigma
+68202,Circuit royal,Piggy,Guangzhou Charge,Wrecking Ball
+68222,Circuit royal,Xerneas,Guangzhou Charge,Ana
+68240,Circuit royal,Xerneas,Guangzhou Charge,Baptiste
+68267,Circuit royal,Xerneas,Guangzhou Charge,Lucio
+68285,Circuit royal,Fits,Seoul Dynasty,Sombra
+68304,Circuit royal,Fits,Seoul Dynasty,Tracer
+68334,Circuit royal,Profit,Seoul Dynasty,Genji
+68360,Circuit royal,Vindaim,Seoul Dynasty,Lucio
+68401,Circuit royal,ir1s,Seoul Dynasty,Ana
+68433,Circuit royal,smurf,Seoul Dynasty,Doomfist
+68446,Circuit royal,smurf,Seoul Dynasty,Wrecking Ball
+68453,Circuit royal,smurf,Seoul Dynasty,Zarya
+68497,Lijiang Tower,ChiYo,Dallas Fuel,Lucio
+68540,Lijiang Tower,Doha,Dallas Fuel,Mei
+68560,Lijiang Tower,Doha,Dallas Fuel,Sojourn
+68581,Lijiang Tower,Doha,Dallas Fuel,Sombra
+68598,Lijiang Tower,Doha,Dallas Fuel,Symmetra
+68619,Lijiang Tower,Edison,Dallas Fuel,Reaper
+68654,Lijiang Tower,Fielder,Dallas Fuel,Ana
+68682,Lijiang Tower,Fielder,Dallas Fuel,Baptiste
+68710,Lijiang Tower,Fielder,Dallas Fuel,Moira
+68747,Lijiang Tower,Hanbin,Dallas Fuel,Doomfist
+68753,Lijiang Tower,Hanbin,Dallas Fuel,Junker Queen
+68779,Lijiang Tower,Hanbin,Dallas Fuel,Zarya
+68822,Lijiang Tower,Admiral,London Spitfire,Lucio
+68862,Lijiang Tower,Backbone,London Spitfire,Mei
+68877,Lijiang Tower,Backbone,London Spitfire,Symmetra
+68896,Lijiang Tower,Backbone,London Spitfire,Tracer
+68901,Lijiang Tower,Backbone,London Spitfire,Widowmaker
+68918,Lijiang Tower,Hadi,London Spitfire,Reinhardt
+68945,Lijiang Tower,Kaan,London Spitfire,Baptiste
+68964,Lijiang Tower,Kaan,London Spitfire,Moira
+68998,Lijiang Tower,SparkR,London Spitfire,Sombra
+69016,Lijiang Tower,SparkR,London Spitfire,Symmetra
+69028,Eichenwalde,ChiYo,Dallas Fuel,Brigitte
+69055,Eichenwalde,Doha,Dallas Fuel,Sombra
+69094,Eichenwalde,FEARLESS,Dallas Fuel,Winston
+69127,Eichenwalde,Fielder,Dallas Fuel,Ana
+69171,Eichenwalde,SP9RK1E,Dallas Fuel,Tracer
+69208,Eichenwalde,Admiral,London Spitfire,Brigitte
+69225,Eichenwalde,Admiral,London Spitfire,Lucio
+69258,Eichenwalde,Backbone,London Spitfire,Sombra
+69294,Eichenwalde,Hadi,London Spitfire,Reinhardt
+69297,Eichenwalde,Hadi,London Spitfire,Winston
+69318,Eichenwalde,Hadi,London Spitfire,Wrecking Ball
+69328,Eichenwalde,Kaan,London Spitfire,Ana
+69351,Eichenwalde,Kaan,London Spitfire,Moira
+69369,Eichenwalde,Shax,London Spitfire,Tracer
+69382,Eichenwalde,Shax,London Spitfire,Widowmaker
+69397,Dorado,ChiYo,Dallas Fuel,Brigitte
+69432,Dorado,Doha,Dallas Fuel,Echo
+69456,Dorado,Doha,Dallas Fuel,Mei
+69459,Dorado,Doha,Dallas Fuel,Sombra
+69489,Dorado,FEARLESS,Dallas Fuel,Roadhog
+69493,Dorado,FEARLESS,Dallas Fuel,Winston
+69543,Dorado,Fielder,Dallas Fuel,Ana
+69595,Dorado,SP9RK1E,Dallas Fuel,Tracer
+69632,Dorado,Backbone,London Spitfire,Sombra
+69644,Dorado,Backbone,London Spitfire,Symmetra
+69648,Dorado,Backbone,London Spitfire,Widowmaker
+69683,Dorado,Hadi,London Spitfire,Winston
+69726,Dorado,Kaan,London Spitfire,Ana
+69749,Dorado,Kaan,London Spitfire,Zenyatta
+69788,Dorado,Landon,London Spitfire,Ana
+69811,Dorado,Landon,London Spitfire,Brigitte
+69838,Dorado,Shax,London Spitfire,Tracer
+69877,Nepal,ANSOONJAE,New York Excelsior,Lucio
+69916,Nepal,Flora,New York Excelsior,Sojourn
+69935,Nepal,Flora,New York Excelsior,Sombra
+69955,Nepal,Flora,New York Excelsior,Symmetra
+69971,Nepal,HO1,New York Excelsior,Ana
+70014,Nepal,Kellan,New York Excelsior,Doomfist
+70031,Nepal,Kellan,New York Excelsior,Zarya
+70067,Nepal,Yaki,New York Excelsior,Genji
+70089,Nepal,Yaki,New York Excelsior,Reaper
+70125,Nepal,Assassin,Washington Justice,Genji
+70129,Nepal,Assassin,Washington Justice,Mei
+70150,Nepal,Assassin,Washington Justice,Sojourn
+70164,Nepal,Assassin,Washington Justice,Sombra
+70196,Nepal,Decay,Washington Justice,Reaper
+70210,Nepal,Decay,Washington Justice,Symmetra
+70215,Nepal,Decay,Washington Justice,Tracer
+70248,Nepal,Kalios,Washington Justice,D.Va
+70268,Nepal,Kalios,Washington Justice,Doomfist
+70282,Nepal,Kalios,Washington Justice,Orisa
+70301,Nepal,Kalios,Washington Justice,Zarya
+70332,Nepal,Krillin,Washington Justice,Ana
+70351,Nepal,Krillin,Washington Justice,Baptiste
+70378,Nepal,Krillin,Washington Justice,Moira
+70392,Nepal,Krillin,Washington Justice,Zenyatta
+70425,Nepal,OPENER,Washington Justice,Ana
+70447,Nepal,OPENER,Washington Justice,Lucio
+70483,Paraíso,ANSOONJAE,New York Excelsior,Lucio
+70520,Paraíso,Flora,New York Excelsior,Sombra
+70552,Paraíso,HO1,New York Excelsior,Ana
+70596,Paraíso,Kellan,New York Excelsior,Zarya
+70632,Paraíso,Yaki,New York Excelsior,Genji
+70654,Paraíso,Yaki,New York Excelsior,Reaper
+70676,Paraíso,Yaki,New York Excelsior,Torbjorn
+70677,Paraíso,Yaki,New York Excelsior,Tracer
+70685,Paraíso,Yaki,New York Excelsior,Widowmaker
+70703,Paraíso,Assassin,Washington Justice,Sombra
+70737,Paraíso,Decay,Washington Justice,Tracer
+70768,Paraíso,Kalios,Washington Justice,D.Va
+70781,Paraíso,Kalios,Washington Justice,Zarya
+70819,Paraíso,Krillin,Washington Justice,Ana
+70842,Paraíso,Krillin,Washington Justice,Zenyatta
+70881,Paraíso,OPENER,Washington Justice,Ana
+70911,Paraíso,OPENER,Washington Justice,Lucio
+70933,Paraíso,OPENER,Washington Justice,Mercy
+70951,Junkertown,Flora,New York Excelsior,Sojourn
+70978,Junkertown,Flora,New York Excelsior,Sombra
+71001,Junkertown,Flora,New York Excelsior,Widowmaker
+71026,Junkertown,GangNamJin,New York Excelsior,Brigitte
+71043,Junkertown,GangNamJin,New York Excelsior,Lucio
+71079,Junkertown,HO1,New York Excelsior,Ana
+71101,Junkertown,HO1,New York Excelsior,Zenyatta
+71134,Junkertown,Kellan,New York Excelsior,Sigma
+71146,Junkertown,Kellan,New York Excelsior,Zarya
+71174,Junkertown,Yaki,New York Excelsior,Genji
+71184,Junkertown,Yaki,New York Excelsior,Tracer
+71221,Junkertown,Assassin,Washington Justice,Sombra
+71252,Junkertown,Decay,Washington Justice,Tracer
+71294,Junkertown,Kalios,Washington Justice,D.Va
+71315,Junkertown,Kalios,Washington Justice,Roadhog
+71317,Junkertown,Kalios,Washington Justice,Zarya
+71349,Junkertown,Krillin,Washington Justice,Ana
+71377,Junkertown,Krillin,Washington Justice,Zenyatta
+71417,Junkertown,OPENER,Washington Justice,Ana
+71446,Junkertown,OPENER,Washington Justice,Lucio
+71481,Colosseo,ANSOONJAE,New York Excelsior,Lucio
+71518,Colosseo,Flora,New York Excelsior,Sojourn
+71542,Colosseo,Flora,New York Excelsior,Sombra
+71567,Colosseo,HO1,New York Excelsior,Ana
+71610,Colosseo,Kellan,New York Excelsior,Winston
+71636,Colosseo,Kellan,New York Excelsior,Zarya
+71664,Colosseo,Yaki,New York Excelsior,Reaper
+71678,Colosseo,Yaki,New York Excelsior,Tracer
+71716,Colosseo,Assassin,Washington Justice,Sombra
+71744,Colosseo,Decay,Washington Justice,Tracer
+71781,Colosseo,Kalios,Washington Justice,Zarya
+71817,Colosseo,Krillin,Washington Justice,Ana
+71863,Colosseo,OPENER,Washington Justice,Lucio
+71900,Lijiang Tower,Hawk,Atlanta Reign,D.Va
+71929,Lijiang Tower,Hawk,Atlanta Reign,Orisa
+71953,Lijiang Tower,Speedily,Atlanta Reign,Echo
+71977,Lijiang Tower,Speedily,Atlanta Reign,Junkrat
+71987,Lijiang Tower,Speedily,Atlanta Reign,Sombra
+72014,Lijiang Tower,UltraViolet,Atlanta Reign,Ana
+72054,Lijiang Tower,Venom,Atlanta Reign,Symmetra
+72061,Lijiang Tower,Venom,Atlanta Reign,Tracer
+72105,Lijiang Tower,vigilante,Atlanta Reign,Zenyatta
+72143,Lijiang Tower,Coluge,San Francisco Shock,D.Va
+72163,Lijiang Tower,Coluge,San Francisco Shock,Sigma
+72191,Lijiang Tower,FiNN,San Francisco Shock,Ana
+72212,Lijiang Tower,FiNN,San Francisco Shock,Zenyatta
+72240,Lijiang Tower,Proper,San Francisco Shock,Sojourn
+72262,Lijiang Tower,Proper,San Francisco Shock,Symmetra
+72266,Lijiang Tower,Proper,San Francisco Shock,Tracer
+72298,Lijiang Tower,STRIKER,San Francisco Shock,Sombra
+72316,Lijiang Tower,STRIKER,San Francisco Shock,Symmetra
+72322,Lijiang Tower,STRIKER,San Francisco Shock,Tracer
+72355,Lijiang Tower,Viol2t,San Francisco Shock,Ana
+72379,Lijiang Tower,Viol2t,San Francisco Shock,Baptiste
+72399,Lijiang Tower,Viol2t,San Francisco Shock,Lucio
+72434,Paraíso,Hawk,Atlanta Reign,D.Va
+72474,Paraíso,Speedily,Atlanta Reign,Echo
+72506,Paraíso,UltraViolet,Atlanta Reign,Ana
+72550,Paraíso,Venom,Atlanta Reign,Tracer
+72565,Paraíso,Venom,Atlanta Reign,Widowmaker
+72583,Paraíso,vigilante,Atlanta Reign,Zenyatta
+72614,Paraíso,Coluge,San Francisco Shock,D.Va
+72638,Paraíso,Coluge,San Francisco Shock,Wrecking Ball
+72653,Paraíso,FiNN,San Francisco Shock,Ana
+72677,Paraíso,FiNN,San Francisco Shock,Zenyatta
+72716,Paraíso,Proper,San Francisco Shock,Echo
+72737,Paraíso,Proper,San Francisco Shock,Genji
+72775,Paraíso,STRIKER,San Francisco Shock,Sombra
+72793,Paraíso,STRIKER,San Francisco Shock,Tracer
+72823,Paraíso,Viol2t,San Francisco Shock,Ana
+72846,Paraíso,Viol2t,San Francisco Shock,Lucio
+72889,Junkertown,Hawk,Atlanta Reign,D.Va
+72928,Junkertown,Speedily,Atlanta Reign,Genji
+72950,Junkertown,Speedily,Atlanta Reign,Sombra
+72988,Junkertown,UltraViolet,Atlanta Reign,Ana
+73020,Junkertown,UltraViolet,Atlanta Reign,Lucio
+73048,Junkertown,Venom,Atlanta Reign,Tracer
+73085,Junkertown,vigilante,Atlanta Reign,Zenyatta
+73118,Junkertown,Coluge,San Francisco Shock,D.Va
+73134,Junkertown,Coluge,San Francisco Shock,Sigma
+73162,Junkertown,FiNN,San Francisco Shock,Zenyatta
+73194,Junkertown,Proper,San Francisco Shock,Sojourn
+73235,Junkertown,STRIKER,San Francisco Shock,Tracer
+73275,Junkertown,Viol2t,San Francisco Shock,Baptiste
+73318,Colosseo,Hawk,Atlanta Reign,D.Va
+73341,Colosseo,Hawk,Atlanta Reign,Winston
+73373,Colosseo,Speedily,Atlanta Reign,Echo
+73386,Colosseo,Speedily,Atlanta Reign,Genji
+73405,Colosseo,Speedily,Atlanta Reign,Sombra
+73438,Colosseo,UltraViolet,Atlanta Reign,Ana
+73482,Colosseo,Venom,Atlanta Reign,Tracer
+73512,Colosseo,vigilante,Atlanta Reign,Zenyatta
+73543,Colosseo,Coluge,San Francisco Shock,D.Va
+73566,Colosseo,Coluge,San Francisco Shock,Sigma
+73594,Colosseo,FiNN,San Francisco Shock,Zenyatta
+73628,Colosseo,Proper,San Francisco Shock,Sojourn
+73664,Colosseo,STRIKER,San Francisco Shock,Tracer
+73702,Colosseo,Viol2t,San Francisco Shock,Baptiste
+73747,Oasis,Hawk,Atlanta Reign,D.Va
+73767,Oasis,Hawk,Atlanta Reign,Orisa
+73788,Oasis,Speedily,Atlanta Reign,Echo
+73828,Oasis,UltraViolet,Atlanta Reign,Ana
+73867,Oasis,Venom,Atlanta Reign,Symmetra
+73872,Oasis,Venom,Atlanta Reign,Tracer
+73903,Oasis,vigilante,Atlanta Reign,Zenyatta
+73943,Oasis,Coluge,San Francisco Shock,D.Va
+73967,Oasis,Coluge,San Francisco Shock,Sigma
+73999,Oasis,FiNN,San Francisco Shock,Zenyatta
+74036,Oasis,Proper,San Francisco Shock,Sojourn
+74072,Oasis,STRIKER,San Francisco Shock,Symmetra
+74079,Oasis,STRIKER,San Francisco Shock,Tracer
+74110,Oasis,Viol2t,San Francisco Shock,Baptiste
+74148,Lijiang Tower,ChoiSehwan,Guangzhou Charge,Genji
+74177,Lijiang Tower,ChoiSehwan,Guangzhou Charge,Symmetra
+74184,Lijiang Tower,ChoiSehwan,Guangzhou Charge,Tracer
+74205,Lijiang Tower,Farway1987,Guangzhou Charge,Ana
+74248,Lijiang Tower,Jimmy,Guangzhou Charge,Sombra
+74281,Lijiang Tower,Piggy,Guangzhou Charge,Zarya
+74318,Lijiang Tower,Xerneas,Guangzhou Charge,Lucio
+74357,Lijiang Tower,AimGod,Seoul Infernal,Ana
+74405,Lijiang Tower,FIXA,Seoul Infernal,Lucio
+74454,Lijiang Tower,Fury,Seoul Infernal,Zarya
+74487,Lijiang Tower,MN3,Seoul Infernal,Sombra
+74512,Lijiang Tower,MN3,Seoul Infernal,Symmetra
+74532,Lijiang Tower,ZEST,Seoul Infernal,Genji
+74557,Lijiang Tower,ZEST,Seoul Infernal,Reaper
+74573,Lijiang Tower,ZEST,Seoul Infernal,Symmetra
+74599,Eichenwalde,ChoiSehwan,Guangzhou Charge,Genji
+74632,Eichenwalde,Farway1987,Guangzhou Charge,Ana
+74675,Eichenwalde,Jimmy,Guangzhou Charge,Sojourn
+74701,Eichenwalde,Jimmy,Guangzhou Charge,Sombra
+74723,Eichenwalde,Jimmy,Guangzhou Charge,Widowmaker
+74754,Eichenwalde,Piggy,Guangzhou Charge,Zarya
+74791,Eichenwalde,Xerneas,Guangzhou Charge,Lucio
+74828,Eichenwalde,AimGod,Seoul Infernal,Ana
+74855,Eichenwalde,AimGod,Seoul Infernal,Zenyatta
+74885,Eichenwalde,FIXA,Seoul Infernal,Ana
+74908,Eichenwalde,FIXA,Seoul Infernal,Lucio
+74944,Eichenwalde,Fury,Seoul Infernal,Zarya
+74976,Eichenwalde,MN3,Seoul Infernal,Ashe
+74992,Eichenwalde,MN3,Seoul Infernal,Sojourn
+75015,Eichenwalde,MN3,Seoul Infernal,Sombra
+75042,Eichenwalde,ZEST,Seoul Infernal,Genji
+75066,Eichenwalde,ZEST,Seoul Infernal,Reaper
+75077,Eichenwalde,ZEST,Seoul Infernal,Tracer
+75109,Dorado,ChoiSehwan,Guangzhou Charge,Genji
+75134,Dorado,ChoiSehwan,Guangzhou Charge,Tracer
+75169,Dorado,Farway1987,Guangzhou Charge,Ana
+75204,Dorado,Jimmy,Guangzhou Charge,Genji
+75207,Dorado,Jimmy,Guangzhou Charge,Sojourn
+75224,Dorado,Jimmy,Guangzhou Charge,Sombra
+75262,Dorado,Piggy,Guangzhou Charge,D.Va
+75278,Dorado,Piggy,Guangzhou Charge,Winston
+75313,Dorado,Piggy,Guangzhou Charge,Zarya
+75353,Dorado,Xerneas,Guangzhou Charge,Brigitte
+75379,Dorado,Xerneas,Guangzhou Charge,Lucio
+75405,Dorado,Xerneas,Guangzhou Charge,Zenyatta
+75441,Dorado,AimGod,Seoul Infernal,Brigitte
+75459,Dorado,AimGod,Seoul Infernal,Zenyatta
+75493,Dorado,FIXA,Seoul Infernal,Ana
+75517,Dorado,FIXA,Seoul Infernal,Lucio
+75541,Dorado,Fury,Seoul Infernal,D.Va
+75558,Dorado,Fury,Seoul Infernal,Zarya
+75590,Dorado,MN3,Seoul Infernal,Ashe
+75595,Dorado,MN3,Seoul Infernal,Sombra
+75634,Dorado,ZEST,Seoul Infernal,Genji
+75653,Dorado,ZEST,Seoul Infernal,Tracer
+75687,Colosseo,ChoiSehwan,Guangzhou Charge,Genji
+75727,Colosseo,Farway1987,Guangzhou Charge,Ana
+75767,Colosseo,Jimmy,Guangzhou Charge,Sojourn
+75796,Colosseo,Jimmy,Guangzhou Charge,Tracer
+75820,Colosseo,Piggy,Guangzhou Charge,Doomfist
+75823,Colosseo,Piggy,Guangzhou Charge,Zarya
+75859,Colosseo,Xerneas,Guangzhou Charge,Lucio
+75901,Colosseo,AimGod,Seoul Infernal,Ana
+75943,Colosseo,FIXA,Seoul Infernal,Lucio
+75989,Colosseo,Fury,Seoul Infernal,Zarya
+76017,Colosseo,MN3,Seoul Infernal,Sombra
+76052,Colosseo,ZEST,Seoul Infernal,Genji
+76072,Colosseo,ZEST,Seoul Infernal,Reaper
+76085,Colosseo,ZEST,Seoul Infernal,Tracer
+76108,Oasis,ChoiSehwan,Guangzhou Charge,Genji
+76137,Oasis,ChoiSehwan,Guangzhou Charge,Symmetra
+76158,Oasis,Farway1987,Guangzhou Charge,Ana
+76200,Oasis,Jimmy,Guangzhou Charge,Sombra
+76227,Oasis,Piggy,Guangzhou Charge,Zarya
+76264,Oasis,Xerneas,Guangzhou Charge,Lucio
+76303,Oasis,AimGod,Seoul Infernal,Ana
+76346,Oasis,FIXA,Seoul Infernal,Lucio
+76386,Oasis,Fury,Seoul Infernal,Doomfist
+76395,Oasis,Fury,Seoul Infernal,Zarya
+76421,Oasis,MN3,Seoul Infernal,Sojourn
+76438,Oasis,MN3,Seoul Infernal,Sombra
+76472,Oasis,ZEST,Seoul Infernal,Genji
+76487,Oasis,ZEST,Seoul Infernal,Reaper
+76504,Oasis,ZEST,Seoul Infernal,Symmetra
+76521,Ilios,AlphaYi,Hangzhou Spark,Symmetra
+76528,Ilios,AlphaYi,Hangzhou Spark,Tracer
+76562,Ilios,Guxue,Hangzhou Spark,Winston
+76598,Ilios,Neko,Hangzhou Spark,Brigitte
+76630,Ilios,Teru,Hangzhou Spark,Ana
+76656,Ilios,Teru,Hangzhou Spark,Lucio
+76682,Ilios,shy,Hangzhou Spark,Sombra
+76711,Ilios,Becky,Los Angeles Valiant,Echo
+76714,Ilios,Becky,Los Angeles Valiant,Symmetra
+76722,Ilios,Becky,Los Angeles Valiant,Tracer
+76757,Ilios,Ezhan,Los Angeles Valiant,Sombra
+76785,Ilios,Lengsa,Los Angeles Valiant,Brigitte
+76801,Ilios,Lengsa,Los Angeles Valiant,Lucio
+76824,Ilios,Marve1,Los Angeles Valiant,Doomfist
+76840,Ilios,Marve1,Los Angeles Valiant,Winston
+76881,Ilios,Molly,Los Angeles Valiant,Ana
+76926,King's Row,AlphaYi,Hangzhou Spark,Genji
+76949,King's Row,AlphaYi,Hangzhou Spark,Tracer
+76969,King's Row,AlphaYi,Hangzhou Spark,Widowmaker
+76994,King's Row,BERNAR,Hangzhou Spark,Zarya
+77036,King's Row,Neko,Hangzhou Spark,Lucio
+77067,King's Row,Neko,Hangzhou Spark,Zenyatta
+77104,King's Row,Teru,Hangzhou Spark,Ana
+77142,King's Row,shy,Hangzhou Spark,Sojourn
+77178,King's Row,Becky,Los Angeles Valiant,Echo
+77204,King's Row,Becky,Los Angeles Valiant,Genji
+77216,King's Row,Becky,Los Angeles Valiant,Pharah
+77222,King's Row,Becky,Los Angeles Valiant,Tracer
+77253,King's Row,Ezhan,Los Angeles Valiant,Sojourn
+77275,King's Row,Ezhan,Los Angeles Valiant,Widowmaker
+77293,King's Row,Lengsa,Los Angeles Valiant,Brigitte
+77307,King's Row,Lengsa,Los Angeles Valiant,Lucio
+77326,King's Row,Lengsa,Los Angeles Valiant,Zenyatta
+77354,King's Row,Molly,Los Angeles Valiant,Ana
+77391,King's Row,SASIN,Los Angeles Valiant,Zarya
+77422,Circuit royal,AlphaYi,Hangzhou Spark,Genji
+77440,Circuit royal,AlphaYi,Hangzhou Spark,Tracer
+77476,Circuit royal,BERNAR,Hangzhou Spark,Doomfist
+77480,Circuit royal,BERNAR,Hangzhou Spark,Junker Queen
+77501,Circuit royal,BERNAR,Hangzhou Spark,Sigma
+77516,Circuit royal,BERNAR,Hangzhou Spark,Zarya
+77547,Circuit royal,Neko,Hangzhou Spark,Baptiste
+77572,Circuit royal,Neko,Hangzhou Spark,Lucio
+77594,Circuit royal,Neko,Hangzhou Spark,Zenyatta
+77629,Circuit royal,Teru,Hangzhou Spark,Ana
+77651,Circuit royal,Teru,Hangzhou Spark,Zenyatta
+77685,Circuit royal,shy,Hangzhou Spark,Sojourn
+77700,Circuit royal,shy,Hangzhou Spark,Sombra
+77721,Circuit royal,shy,Hangzhou Spark,Widowmaker
+77757,Circuit royal,Becky,Los Angeles Valiant,Genji
+77786,Circuit royal,Becky,Los Angeles Valiant,Junkrat
+77802,Circuit royal,Becky,Los Angeles Valiant,Tracer
+77838,Circuit royal,Ezhan,Los Angeles Valiant,Sojourn
+77859,Circuit royal,Ezhan,Los Angeles Valiant,Soldier: 76
+77874,Circuit royal,Ezhan,Los Angeles Valiant,Sombra
+77896,Circuit royal,Ezhan,Los Angeles Valiant,Widowmaker
+77934,Circuit royal,Lengsa,Los Angeles Valiant,Lucio
+77944,Circuit royal,Lengsa,Los Angeles Valiant,Zenyatta
+77973,Circuit royal,Molly,Los Angeles Valiant,Ana
+78020,Circuit royal,SASIN,Los Angeles Valiant,Zarya
+78062,New Queen Street,AlphaYi,Hangzhou Spark,Genji
+78110,New Queen Street,BERNAR,Hangzhou Spark,Zarya
+78150,New Queen Street,Neko,Hangzhou Spark,Lucio
+78194,New Queen Street,Teru,Hangzhou Spark,Ana
+78243,New Queen Street,shy,Hangzhou Spark,Sojourn
+78280,New Queen Street,Diya,Los Angeles Valiant,Reaper
+78300,New Queen Street,Ezhan,Los Angeles Valiant,Sojourn
+78322,New Queen Street,Ezhan,Los Angeles Valiant,Sombra
+78353,New Queen Street,Lengsa,Los Angeles Valiant,Lucio
+78386,New Queen Street,Molly,Los Angeles Valiant,Ana
+78422,New Queen Street,SASIN,Los Angeles Valiant,Zarya
+78454,Busan,AlphaYi,Hangzhou Spark,Reaper
+78474,Busan,AlphaYi,Hangzhou Spark,Symmetra
+78482,Busan,AlphaYi,Hangzhou Spark,Tracer
+78519,Busan,BERNAR,Hangzhou Spark,D.Va
+78538,Busan,BERNAR,Hangzhou Spark,Zarya
+78571,Busan,Neko,Hangzhou Spark,Brigitte
+78574,Busan,Neko,Hangzhou Spark,Lucio
+78600,Busan,Neko,Hangzhou Spark,Zenyatta
+78641,Busan,Teru,Hangzhou Spark,Ana
+78672,Busan,shy,Hangzhou Spark,Sojourn
+78692,Busan,shy,Hangzhou Spark,Sombra
+78719,Busan,Becky,Los Angeles Valiant,Symmetra
+78726,Busan,Becky,Los Angeles Valiant,Tracer
+78759,Busan,Ezhan,Los Angeles Valiant,Soldier: 76
+78763,Busan,Ezhan,Los Angeles Valiant,Sombra
+78798,Busan,Lengsa,Los Angeles Valiant,Brigitte
+78822,Busan,Lengsa,Los Angeles Valiant,Lucio
+78849,Busan,Marve1,Los Angeles Valiant,Winston
+78897,Busan,Molly,Los Angeles Valiant,Ana
+78947,Busan,Happy,Los Angeles Gladiators,Sojourn
+78971,Busan,Happy,Los Angeles Gladiators,Soldier: 76
+78985,Busan,Happy,Los Angeles Gladiators,Sombra
+79015,Busan,Reiner,Los Angeles Gladiators,D.Va
+79034,Busan,Reiner,Los Angeles Gladiators,Orisa
+79071,Busan,kevster,Los Angeles Gladiators,Symmetra
+79080,Busan,kevster,Los Angeles Gladiators,Tracer
+79114,Busan,shu,Los Angeles Gladiators,Baptiste
+79135,Busan,shu,Los Angeles Gladiators,Zenyatta
+79178,Busan,skewed,Los Angeles Gladiators,Ana
+79202,Busan,skewed,Los Angeles Gladiators,Zenyatta
+79241,Busan,Flora,New York Excelsior,Sombra
+79259,Busan,Flora,New York Excelsior,Symmetra
+79282,Busan,GangNamJin,New York Excelsior,Lucio
+79305,Busan,GangNamJin,New York Excelsior,Zenyatta
+79337,Busan,HO1,New York Excelsior,Ana
+79372,Busan,Kellan,New York Excelsior,Doomfist
+79382,Busan,Kellan,New York Excelsior,Wrecking Ball
+79411,Busan,Kellan,New York Excelsior,Zarya
+79454,Busan,Yaki,New York Excelsior,Genji
+79480,Busan,Yaki,New York Excelsior,Symmetra
+79488,Busan,Yaki,New York Excelsior,Tracer
+79518,Eichenwalde,Happy,Los Angeles Gladiators,Ashe
+79540,Eichenwalde,Happy,Los Angeles Gladiators,Sojourn
+79558,Eichenwalde,Happy,Los Angeles Gladiators,Sombra
+79583,Eichenwalde,Happy,Los Angeles Gladiators,Symmetra
+79614,Eichenwalde,Reiner,Los Angeles Gladiators,Doomfist
+79627,Eichenwalde,Reiner,Los Angeles Gladiators,Winston
+79671,Eichenwalde,kevster,Los Angeles Gladiators,Tracer
+79694,Eichenwalde,kevster,Los Angeles Gladiators,Widowmaker
+79713,Eichenwalde,shu,Los Angeles Gladiators,Ana
+79741,Eichenwalde,shu,Los Angeles Gladiators,Lucio
+79759,Eichenwalde,shu,Los Angeles Gladiators,Zenyatta
+79803,Eichenwalde,skewed,Los Angeles Gladiators,Ana
+79824,Eichenwalde,skewed,Los Angeles Gladiators,Brigitte
+79832,Eichenwalde,skewed,Los Angeles Gladiators,Lucio
+79837,Eichenwalde,skewed,Los Angeles Gladiators,Zenyatta
+79875,Eichenwalde,Flora,New York Excelsior,Sombra
+79903,Eichenwalde,GangNamJin,New York Excelsior,Lucio
+79907,Eichenwalde,GangNamJin,New York Excelsior,Zenyatta
+79944,Eichenwalde,HO1,New York Excelsior,Ana
+79986,Eichenwalde,Kellan,New York Excelsior,Zarya
+80030,Eichenwalde,Yaki,New York Excelsior,Tracer
+80063,Route 66,Happy,Los Angeles Gladiators,Ashe
+80085,Route 66,Happy,Los Angeles Gladiators,Hanzo
+80090,Route 66,Happy,Los Angeles Gladiators,Sojourn
+80098,Route 66,Happy,Los Angeles Gladiators,Soldier: 76
+80102,Route 66,Happy,Los Angeles Gladiators,Sombra
+80136,Route 66,Reiner,Los Angeles Gladiators,D.Va
+80165,Route 66,Reiner,Los Angeles Gladiators,Winston
+80210,Route 66,kevster,Los Angeles Gladiators,Tracer
+80234,Route 66,kevster,Los Angeles Gladiators,Widowmaker
+80253,Route 66,shu,Los Angeles Gladiators,Zenyatta
+80290,Route 66,skewed,Los Angeles Gladiators,Ana
+80317,Route 66,Flora,New York Excelsior,Sombra
+80345,Route 66,GangNamJin,New York Excelsior,Zenyatta
+80388,Route 66,HO1,New York Excelsior,Ana
+80414,Route 66,HO1,New York Excelsior,Baptiste
+80428,Route 66,Kellan,New York Excelsior,D.Va
+80451,Route 66,Kellan,New York Excelsior,Doomfist
+80469,Route 66,Kellan,New York Excelsior,Winston
+80472,Route 66,Kellan,New York Excelsior,Zarya
+80505,Route 66,Yaki,New York Excelsior,Tracer
+80534,Route 66,Yaki,New York Excelsior,Widowmaker
+80556,New Queen Street,Happy,Los Angeles Gladiators,Ashe
+80578,New Queen Street,Happy,Los Angeles Gladiators,Sojourn
+80597,New Queen Street,Happy,Los Angeles Gladiators,Sombra
+80623,New Queen Street,Reiner,Los Angeles Gladiators,D.Va
+80636,New Queen Street,Reiner,Los Angeles Gladiators,Zarya
+80672,New Queen Street,kevster,Los Angeles Gladiators,Tracer
+80707,New Queen Street,shu,Los Angeles Gladiators,Zenyatta
+80743,New Queen Street,skewed,Los Angeles Gladiators,Ana
+80779,New Queen Street,Flora,New York Excelsior,Sombra
+80815,New Queen Street,GangNamJin,New York Excelsior,Zenyatta
+80850,New Queen Street,HO1,New York Excelsior,Ana
+80905,New Queen Street,Kellan,New York Excelsior,Zarya
+80942,New Queen Street,Yaki,New York Excelsior,Tracer
+80980,Lijiang Tower,FunnyAstro,Los Angeles Gladiators,Lucio
+81016,Lijiang Tower,Happy,Los Angeles Gladiators,Sojourn
+81040,Lijiang Tower,Happy,Los Angeles Gladiators,Sombra
+81058,Lijiang Tower,Happy,Los Angeles Gladiators,Symmetra
+81079,Lijiang Tower,Reiner,Los Angeles Gladiators,Doomfist
+81093,Lijiang Tower,Reiner,Los Angeles Gladiators,Reinhardt
+81116,Lijiang Tower,Reiner,Los Angeles Gladiators,Winston
+81156,Lijiang Tower,kevster,Los Angeles Gladiators,Mei
+81182,Lijiang Tower,kevster,Los Angeles Gladiators,Symmetra
+81187,Lijiang Tower,kevster,Los Angeles Gladiators,Tracer
+81230,Lijiang Tower,shu,Los Angeles Gladiators,Ana
+81263,Lijiang Tower,shu,Los Angeles Gladiators,Baptiste
+81289,Lijiang Tower,shu,Los Angeles Gladiators,Moira
+81309,Lijiang Tower,Flora,New York Excelsior,Sojourn
+81331,Lijiang Tower,Flora,New York Excelsior,Sombra
+81348,Lijiang Tower,Flora,New York Excelsior,Symmetra
+81368,Lijiang Tower,GangNamJin,New York Excelsior,Lucio
+81397,Lijiang Tower,GangNamJin,New York Excelsior,Zenyatta
+81433,Lijiang Tower,HO1,New York Excelsior,Ana
+81467,Lijiang Tower,HO1,New York Excelsior,Baptiste
+81507,Lijiang Tower,Kellan,New York Excelsior,D.Va
+81511,Lijiang Tower,Kellan,New York Excelsior,Zarya
+81545,Lijiang Tower,Yaki,New York Excelsior,Reaper
+81566,Lijiang Tower,Yaki,New York Excelsior,Symmetra
+81571,Lijiang Tower,Yaki,New York Excelsior,Tracer
+81606,Oasis,Hawk,Atlanta Reign,D.Va
+81630,Oasis,Hawk,Atlanta Reign,Zarya
+81658,Oasis,Speedily,Atlanta Reign,Echo
+81684,Oasis,Speedily,Atlanta Reign,Genji
+81706,Oasis,UltraViolet,Atlanta Reign,Ana
+81746,Oasis,Venom,Atlanta Reign,Symmetra
+81753,Oasis,Venom,Atlanta Reign,Tracer
+81791,Oasis,vigilante,Atlanta Reign,Zenyatta
+81833,Oasis,Assassin,Washington Justice,Sombra
+81869,Oasis,Decay,Washington Justice,Symmetra
+81876,Oasis,Decay,Washington Justice,Tracer
+81919,Oasis,Kalios,Washington Justice,D.Va
+81939,Oasis,Kalios,Washington Justice,Doomfist
+81951,Oasis,Kalios,Washington Justice,Orisa
+81970,Oasis,Kalios,Washington Justice,Zarya
+82006,Oasis,Krillin,Washington Justice,Ana
+82034,Oasis,Krillin,Washington Justice,Zenyatta
+82076,Oasis,OPENER,Washington Justice,Ana
+82099,Oasis,OPENER,Washington Justice,Lucio
+82133,Eichenwalde,Hawk,Atlanta Reign,D.Va
+82169,Eichenwalde,Speedily,Atlanta Reign,Echo
+82196,Eichenwalde,Speedily,Atlanta Reign,Genji
+82229,Eichenwalde,UltraViolet,Atlanta Reign,Ana
+82275,Eichenwalde,Venom,Atlanta Reign,Tracer
+82301,Eichenwalde,Venom,Atlanta Reign,Widowmaker
+82319,Eichenwalde,vigilante,Atlanta Reign,Zenyatta
+82354,Eichenwalde,Assassin,Washington Justice,Sombra
+82380,Eichenwalde,Decay,Washington Justice,Ashe
+82392,Eichenwalde,Decay,Washington Justice,Tracer
+82431,Eichenwalde,Kalios,Washington Justice,D.Va
+82454,Eichenwalde,Kalios,Washington Justice,Doomfist
+82481,Eichenwalde,Krillin,Washington Justice,Baptiste
+82493,Eichenwalde,Krillin,Washington Justice,Zenyatta
+82528,Eichenwalde,OPENER,Washington Justice,Ana
+82551,Eichenwalde,OPENER,Washington Justice,Lucio
+82564,Route 66,Hawk,Atlanta Reign,D.Va
+82597,Route 66,Speedily,Atlanta Reign,Echo
+82624,Route 66,Speedily,Atlanta Reign,Genji
+82635,Route 66,Speedily,Atlanta Reign,Sombra
+82661,Route 66,UltraViolet,Atlanta Reign,Ana
+82709,Route 66,Venom,Atlanta Reign,Symmetra
+82717,Route 66,Venom,Atlanta Reign,Tracer
+82749,Route 66,vigilante,Atlanta Reign,Zenyatta
+82793,Route 66,Assassin,Washington Justice,Sombra
+82818,Route 66,Decay,Washington Justice,Ashe
+82834,Route 66,Decay,Washington Justice,Sojourn
+82847,Route 66,Decay,Washington Justice,Tracer
+82874,Route 66,Kalios,Washington Justice,D.Va
+82889,Route 66,Kalios,Washington Justice,Zarya
+82923,Route 66,Krillin,Washington Justice,Ana
+82943,Route 66,Krillin,Washington Justice,Zenyatta
+82975,Route 66,OPENER,Washington Justice,Ana
+82994,Route 66,OPENER,Washington Justice,Lucio
+83030,Lijiang Tower,CH0R0NG,Toronto Defiant,Lucio
+83051,Lijiang Tower,CH0R0NG,Toronto Defiant,Zenyatta
+83090,Lijiang Tower,Finale,Toronto Defiant,Mei
+83106,Lijiang Tower,Finale,Toronto Defiant,Symmetra
+83112,Lijiang Tower,Finale,Toronto Defiant,Tracer
+83154,Lijiang Tower,HOTBA,Toronto Defiant,D.Va
+83172,Lijiang Tower,HOTBA,Toronto Defiant,Orisa
+83184,Lijiang Tower,HOTBA,Toronto Defiant,Zarya
+83211,Lijiang Tower,Heesu,Toronto Defiant,Reaper
+83221,Lijiang Tower,Heesu,Toronto Defiant,Sojourn
+83240,Lijiang Tower,Heesu,Toronto Defiant,Sombra
+83261,Lijiang Tower,Heesu,Toronto Defiant,Symmetra
+83279,Lijiang Tower,Twilight,Toronto Defiant,Ana
+83315,Lijiang Tower,Twilight,Toronto Defiant,Baptiste
+83343,Lijiang Tower,Aspire,Vancouver Titans,Genji
+83365,Lijiang Tower,Aspire,Vancouver Titans,Sojourn
+83388,Lijiang Tower,Aspire,Vancouver Titans,Symmetra
+83395,Lijiang Tower,Aspire,Vancouver Titans,Tracer
+83434,Lijiang Tower,Masaa,Vancouver Titans,Lucio
+83465,Lijiang Tower,MirroR,Vancouver Titans,Junker Queen
+83489,Lijiang Tower,MirroR,Vancouver Titans,Zarya
+83529,Lijiang Tower,Skairipa,Vancouver Titans,Ana
+83549,Lijiang Tower,Skairipa,Vancouver Titans,Baptiste
+83573,Lijiang Tower,Skairipa,Vancouver Titans,Moira
+83607,Lijiang Tower,k1ng,Vancouver Titans,Genji
+83633,Lijiang Tower,k1ng,Vancouver Titans,Mei
+83646,Lijiang Tower,k1ng,Vancouver Titans,Tracer
+83681,Eichenwalde,CH0R0NG,Toronto Defiant,Zenyatta
+83721,Eichenwalde,Finale,Toronto Defiant,Tracer
+83744,Eichenwalde,Finale,Toronto Defiant,Widowmaker
+83765,Eichenwalde,HOTBA,Toronto Defiant,D.Va
+83789,Eichenwalde,HOTBA,Toronto Defiant,Zarya
+83828,Eichenwalde,Heesu,Toronto Defiant,Sojourn
+83833,Eichenwalde,Heesu,Toronto Defiant,Sombra
+83866,Eichenwalde,Twilight,Toronto Defiant,Ana
+83893,Eichenwalde,Twilight,Toronto Defiant,Baptiste
+83922,Eichenwalde,Aspire,Vancouver Titans,Sojourn
+83966,Eichenwalde,False,Vancouver Titans,D.Va
+83983,Eichenwalde,False,Vancouver Titans,Zarya
+84029,Eichenwalde,Masaa,Vancouver Titans,Lucio
+84070,Eichenwalde,Skairipa,Vancouver Titans,Ana
+84105,Eichenwalde,k1ng,Vancouver Titans,Genji
+84127,Eichenwalde,k1ng,Vancouver Titans,Reaper
+84155,Route 66,CH0R0NG,Toronto Defiant,Brigitte
+84177,Route 66,CH0R0NG,Toronto Defiant,Lucio
+84201,Route 66,CH0R0NG,Toronto Defiant,Zenyatta
+84234,Route 66,Finale,Toronto Defiant,Genji
+84258,Route 66,Finale,Toronto Defiant,Tracer
+84280,Route 66,Finale,Toronto Defiant,Widowmaker
+84301,Route 66,HOTBA,Toronto Defiant,Zarya
+84340,Route 66,Heesu,Toronto Defiant,Ashe
+84353,Route 66,Heesu,Toronto Defiant,Sojourn
+84361,Route 66,Heesu,Toronto Defiant,Sombra
+84390,Route 66,Twilight,Toronto Defiant,Ana
+84431,Route 66,Aspire,Vancouver Titans,Ashe
+84443,Route 66,Aspire,Vancouver Titans,Sojourn
+84461,Route 66,Aspire,Vancouver Titans,Tracer
+84465,Route 66,Aspire,Vancouver Titans,Widowmaker
+84479,Route 66,False,Vancouver Titans,Zarya
+84513,Route 66,Masaa,Vancouver Titans,Lucio
+84553,Route 66,Skairipa,Vancouver Titans,Ana
+84595,Route 66,k1ng,Vancouver Titans,Genji
+84632,New Queen Street,CH0R0NG,Toronto Defiant,Brigitte
+84647,New Queen Street,CH0R0NG,Toronto Defiant,Lucio
+84686,New Queen Street,Finale,Toronto Defiant,Genji
+84702,New Queen Street,Finale,Toronto Defiant,Tracer
+84737,New Queen Street,HOTBA,Toronto Defiant,Zarya
+84775,New Queen Street,Heesu,Toronto Defiant,Sojourn
+84800,New Queen Street,Heesu,Toronto Defiant,Sombra
+84828,New Queen Street,Twilight,Toronto Defiant,Ana
+84866,New Queen Street,Aspire,Vancouver Titans,Sojourn
+84902,New Queen Street,False,Vancouver Titans,Zarya
+84935,New Queen Street,Masaa,Vancouver Titans,Lucio
+84975,New Queen Street,Skairipa,Vancouver Titans,Ana
+85026,New Queen Street,k1ng,Vancouver Titans,Genji
+85053,New Queen Street,k1ng,Vancouver Titans,Reaper
+85080,Oasis,BERNAR,Hangzhou Spark,D.Va
+85113,Oasis,Pineapple,Hangzhou Spark,Symmetra
+85118,Oasis,Pineapple,Hangzhou Spark,Tracer
+85149,Oasis,Teru,Hangzhou Spark,Zenyatta
+85183,Oasis,irony,Hangzhou Spark,Ana
+85224,Oasis,shy,Hangzhou Spark,Sombra
+85262,Oasis,Fits,Seoul Dynasty,Sombra
+85292,Oasis,Profit,Seoul Dynasty,Genji
+85315,Oasis,Profit,Seoul Dynasty,Symmetra
+85322,Oasis,Profit,Seoul Dynasty,Tracer
+85354,Oasis,Vindaim,Seoul Dynasty,Ana
+85375,Oasis,Vindaim,Seoul Dynasty,Lucio
+85418,Oasis,ir1s,Seoul Dynasty,Ana
+85439,Oasis,ir1s,Seoul Dynasty,Zenyatta
+85477,Oasis,smurf,Seoul Dynasty,Doomfist
+85492,Oasis,smurf,Seoul Dynasty,Zarya
+85525,Eichenwalde,BERNAR,Hangzhou Spark,D.Va
+85545,Eichenwalde,BERNAR,Hangzhou Spark,Junker Queen
+85560,Eichenwalde,Pineapple,Hangzhou Spark,Tracer
+85580,Eichenwalde,Pineapple,Hangzhou Spark,Widowmaker
+85603,Eichenwalde,Teru,Hangzhou Spark,Zenyatta
+85644,Eichenwalde,irony,Hangzhou Spark,Ana
+85689,Eichenwalde,shy,Hangzhou Spark,Sombra
+85724,Eichenwalde,Fits,Seoul Dynasty,Sombra
+85752,Eichenwalde,Profit,Seoul Dynasty,Tracer
+85776,Eichenwalde,Vindaim,Seoul Dynasty,Ana
+85802,Eichenwalde,Vindaim,Seoul Dynasty,Lucio
+85804,Eichenwalde,Vindaim,Seoul Dynasty,Moira
+85827,Eichenwalde,ir1s,Seoul Dynasty,Zenyatta
+85866,Eichenwalde,smurf,Seoul Dynasty,D.Va
+85893,Eichenwalde,smurf,Seoul Dynasty,Zarya
+85931,Circuit royal,BERNAR,Hangzhou Spark,D.Va
+85952,Circuit royal,BERNAR,Hangzhou Spark,Doomfist
+85959,Circuit royal,BERNAR,Hangzhou Spark,Wrecking Ball
+85960,Circuit royal,BERNAR,Hangzhou Spark,Zarya
+85984,Circuit royal,Pineapple,Hangzhou Spark,Tracer
+86006,Circuit royal,Pineapple,Hangzhou Spark,Widowmaker
+86033,Circuit royal,Teru,Hangzhou Spark,Zenyatta
+86065,Circuit royal,irony,Hangzhou Spark,Ana
+86097,Circuit royal,shy,Hangzhou Spark,Sombra
+86123,Circuit royal,Fits,Seoul Dynasty,Sojourn
+86160,Circuit royal,Profit,Seoul Dynasty,Genji
+86198,Circuit royal,Vindaim,Seoul Dynasty,Lucio
+86235,Circuit royal,ir1s,Seoul Dynasty,Ana
+86279,Circuit royal,smurf,Seoul Dynasty,Zarya
+86318,Colosseo,BERNAR,Hangzhou Spark,D.Va
+86356,Colosseo,Pineapple,Hangzhou Spark,Tracer
+86394,Colosseo,Teru,Hangzhou Spark,Zenyatta
+86438,Colosseo,irony,Hangzhou Spark,Ana
+86475,Colosseo,shy,Hangzhou Spark,Sombra
+86502,Colosseo,Fits,Seoul Dynasty,Sojourn
+86524,Colosseo,Fits,Seoul Dynasty,Sombra
+86556,Colosseo,Profit,Seoul Dynasty,Genji
+86574,Colosseo,Profit,Seoul Dynasty,Tracer
+86604,Colosseo,Vindaim,Seoul Dynasty,Lucio
+86642,Colosseo,ir1s,Seoul Dynasty,Ana
+86688,Colosseo,smurf,Seoul Dynasty,Zarya
+86726,Nepal,BERNAR,Hangzhou Spark,D.Va
+86744,Nepal,BERNAR,Hangzhou Spark,Doomfist
+86747,Nepal,BERNAR,Hangzhou Spark,Junker Queen
+86762,Nepal,Pineapple,Hangzhou Spark,Symmetra
+86770,Nepal,Pineapple,Hangzhou Spark,Tracer
+86807,Nepal,Teru,Hangzhou Spark,Zenyatta
+86845,Nepal,irony,Hangzhou Spark,Ana
+86887,Nepal,shy,Hangzhou Spark,Sombra
+86919,Nepal,Fits,Seoul Dynasty,Sojourn
+86952,Nepal,Profit,Seoul Dynasty,Genji
+86971,Nepal,Profit,Seoul Dynasty,Symmetra
+86978,Nepal,Profit,Seoul Dynasty,Tracer
+87003,Nepal,Vindaim,Seoul Dynasty,Lucio
+87039,Nepal,ir1s,Seoul Dynasty,Ana
+87068,Nepal,smurf,Seoul Dynasty,Doomfist
+87070,Nepal,smurf,Seoul Dynasty,Zarya
+87104,Ilios,ChoiSehwan,Guangzhou Charge,Genji
+87124,Ilios,ChoiSehwan,Guangzhou Charge,Symmetra
+87127,Ilios,ChoiSehwan,Guangzhou Charge,Tracer
+87162,Ilios,Farway1987,Guangzhou Charge,Ana
+87199,Ilios,Jimmy,Guangzhou Charge,Sombra
+87238,Ilios,Piggy,Guangzhou Charge,Winston
+87271,Ilios,Piggy,Guangzhou Charge,Zarya
+87305,Ilios,Xerneas,Guangzhou Charge,Brigitte
+87324,Ilios,Xerneas,Guangzhou Charge,Lucio
+87368,Ilios,Becky,Los Angeles Valiant,Symmetra
+87372,Ilios,Becky,Los Angeles Valiant,Tracer
+87399,Ilios,Ezhan,Los Angeles Valiant,Sombra
+87431,Ilios,Lengsa,Los Angeles Valiant,Brigitte
+87451,Ilios,Lengsa,Los Angeles Valiant,Lucio
+87466,Ilios,Marve1,Los Angeles Valiant,Winston
+87502,Ilios,Molly,Los Angeles Valiant,Ana
+87542,Paraíso,ChoiSehwan,Guangzhou Charge,Genji
+87563,Paraíso,ChoiSehwan,Guangzhou Charge,Tracer
+87596,Paraíso,Farway1987,Guangzhou Charge,Ana
+87633,Paraíso,Jimmy,Guangzhou Charge,Sombra
+87661,Paraíso,Piggy,Guangzhou Charge,D.Va
+87689,Paraíso,Piggy,Guangzhou Charge,Zarya
+87727,Paraíso,Xerneas,Guangzhou Charge,Lucio
+87753,Paraíso,Xerneas,Guangzhou Charge,Zenyatta
+87778,Paraíso,Becky,Los Angeles Valiant,Tracer
+87812,Paraíso,Ezhan,Los Angeles Valiant,Sojourn
+87838,Paraíso,Ezhan,Los Angeles Valiant,Sombra
+87861,Paraíso,Ezhan,Los Angeles Valiant,Widowmaker
+87882,Paraíso,Lengsa,Los Angeles Valiant,Brigitte
+87914,Paraíso,Marve1,Los Angeles Valiant,Winston
+87952,Paraíso,Molly,Los Angeles Valiant,Ana
+87985,Junkertown,ChoiSehwan,Guangzhou Charge,Tracer
+88024,Junkertown,Farway1987,Guangzhou Charge,Ana
+88071,Junkertown,Jimmy,Guangzhou Charge,Sombra
+88104,Junkertown,Piggy,Guangzhou Charge,D.Va
+88122,Junkertown,Piggy,Guangzhou Charge,Zarya
+88153,Junkertown,Xerneas,Guangzhou Charge,Zenyatta
+88178,Junkertown,Becky,Los Angeles Valiant,Tracer
+88219,Junkertown,Ezhan,Los Angeles Valiant,Sombra
+88238,Junkertown,Ezhan,Los Angeles Valiant,Widowmaker
+88267,Junkertown,Lengsa,Los Angeles Valiant,Lucio
+88284,Junkertown,Lengsa,Los Angeles Valiant,Zenyatta
+88321,Junkertown,Marve1,Los Angeles Valiant,D.Va
+88346,Junkertown,Marve1,Los Angeles Valiant,Sigma
+88369,Junkertown,Molly,Los Angeles Valiant,Ana
+88416,Colosseo,ChoiSehwan,Guangzhou Charge,Genji
+88448,Colosseo,Farway1987,Guangzhou Charge,Ana
+88487,Colosseo,Jimmy,Guangzhou Charge,Sombra
+88515,Colosseo,Piggy,Guangzhou Charge,Zarya
+88558,Colosseo,Xerneas,Guangzhou Charge,Lucio
+88601,Colosseo,Becky,Los Angeles Valiant,Tracer
+88637,Colosseo,Ezhan,Los Angeles Valiant,Sojourn
+88674,Colosseo,Lengsa,Los Angeles Valiant,Lucio
+88711,Colosseo,Molly,Los Angeles Valiant,Ana
+88758,Colosseo,SASIN,Los Angeles Valiant,Zarya
+88795,Lijiang Tower,Creative,Houston Outlaws,Ana
+88838,Lijiang Tower,Danteh,Houston Outlaws,Orisa
+88853,Lijiang Tower,Danteh,Houston Outlaws,Zarya
+88889,Lijiang Tower,Lastro,Houston Outlaws,Lucio
+88912,Lijiang Tower,Lastro,Houston Outlaws,Zenyatta
+88946,Lijiang Tower,MER1T,Houston Outlaws,Sojourn
+88972,Lijiang Tower,MER1T,Houston Outlaws,Symmetra
+88991,Lijiang Tower,PELICAN,Houston Outlaws,Genji
+89015,Lijiang Tower,PELICAN,Houston Outlaws,Symmetra
+89021,Lijiang Tower,PELICAN,Houston Outlaws,Tracer
+89058,Lijiang Tower,Dove,Vegas Eternal,Cassidy
+89068,Lijiang Tower,Dove,Vegas Eternal,Sojourn
+89106,Lijiang Tower,Krawi,Vegas Eternal,Doomfist
+89121,Lijiang Tower,Krawi,Vegas Eternal,Orisa
+89136,Lijiang Tower,Krawi,Vegas Eternal,Zarya
+89174,Lijiang Tower,Lukemino,Vegas Eternal,Baptiste
+89194,Lijiang Tower,Lukemino,Vegas Eternal,Moira
+89217,Lijiang Tower,MaltheL,Vegas Eternal,Genji
+89240,Lijiang Tower,MaltheL,Vegas Eternal,Junkrat
+89249,Lijiang Tower,MaltheL,Vegas Eternal,Symmetra
+89253,Lijiang Tower,MaltheL,Vegas Eternal,Tracer
+89280,Lijiang Tower,Rakattack,Vegas Eternal,Lucio
+89320,Paraíso,Creative,Houston Outlaws,Ana
+89368,Paraíso,Danteh,Houston Outlaws,D.Va
+89394,Paraíso,Danteh,Houston Outlaws,Zarya
+89426,Paraíso,Lastro,Houston Outlaws,Lucio
+89453,Paraíso,Lastro,Houston Outlaws,Zenyatta
+89487,Paraíso,MER1T,Houston Outlaws,Sojourn
+89505,Paraíso,MER1T,Houston Outlaws,Sombra
+89524,Paraíso,MER1T,Houston Outlaws,Tracer
+89547,Paraíso,MER1T,Houston Outlaws,Widowmaker
+89565,Paraíso,PELICAN,Houston Outlaws,Echo
+89576,Paraíso,PELICAN,Houston Outlaws,Genji
+89597,Paraíso,PELICAN,Houston Outlaws,Sombra
+89610,Paraíso,PELICAN,Houston Outlaws,Tracer
+89638,Paraíso,Dove,Vegas Eternal,Sojourn
+89658,Paraíso,Dove,Vegas Eternal,Sombra
+89682,Paraíso,Krawi,Vegas Eternal,Doomfist
+89695,Paraíso,Krawi,Vegas Eternal,Zarya
+89734,Paraíso,Lukemino,Vegas Eternal,Baptiste
+89774,Paraíso,MaltheL,Vegas Eternal,Genji
+89793,Paraíso,MaltheL,Vegas Eternal,Tracer
+89827,Paraíso,Rakattack,Vegas Eternal,Lucio
+89865,Junkertown,Creative,Houston Outlaws,Ana
+89909,Junkertown,Danteh,Houston Outlaws,D.Va
+89931,Junkertown,Danteh,Houston Outlaws,Doomfist
+89933,Junkertown,Danteh,Houston Outlaws,Wrecking Ball
+89961,Junkertown,Danteh,Houston Outlaws,Zarya
+89995,Junkertown,Lastro,Houston Outlaws,Zenyatta
+90036,Junkertown,MER1T,Houston Outlaws,Hanzo
+90044,Junkertown,MER1T,Houston Outlaws,Sombra
+90062,Junkertown,MER1T,Houston Outlaws,Tracer
+90100,Junkertown,PELICAN,Houston Outlaws,Genji
+90127,Junkertown,PELICAN,Houston Outlaws,Sombra
+90148,Junkertown,PELICAN,Houston Outlaws,Widowmaker
+90168,Junkertown,Dove,Vegas Eternal,Ashe
+90180,Junkertown,Dove,Vegas Eternal,Tracer
+90208,Junkertown,Dove,Vegas Eternal,Widowmaker
+90232,Junkertown,Krawi,Vegas Eternal,D.Va
+90253,Junkertown,Krawi,Vegas Eternal,Doomfist
+90255,Junkertown,Krawi,Vegas Eternal,Sigma
+90275,Junkertown,Krawi,Vegas Eternal,Wrecking Ball
+90309,Junkertown,Lukemino,Vegas Eternal,Baptiste
+90340,Junkertown,Lukemino,Vegas Eternal,Lucio
+90372,Junkertown,Rakattack,Vegas Eternal,Mercy
+90384,Junkertown,Rakattack,Vegas Eternal,Moira
+90385,Junkertown,Rakattack,Vegas Eternal,Zenyatta
+90426,Junkertown,wub,Vegas Eternal,Hanzo
+90442,Junkertown,wub,Vegas Eternal,Sojourn
+90481,Busan,Crimzo,Boston Uprising,Ana
+90505,Busan,Crimzo,Boston Uprising,Baptiste
+90545,Busan,MCD,Boston Uprising,Zenyatta
+90582,Busan,Valentine,Boston Uprising,Symmetra
+90586,Busan,Valentine,Boston Uprising,Tracer
+90619,Busan,Victoria,Boston Uprising,Sojourn
+90636,Busan,Victoria,Boston Uprising,Sombra
+90674,Busan,punk,Boston Uprising,D.Va
+90702,Busan,punk,Boston Uprising,Orisa
+90731,Busan,Assassin,Washington Justice,Sombra
+90744,Busan,Assassin,Washington Justice,Symmetra
+90763,Busan,Decay,Washington Justice,Sojourn
+90785,Busan,Decay,Washington Justice,Tracer
+90824,Busan,Kalios,Washington Justice,D.Va
+90843,Busan,Kalios,Washington Justice,Orisa
+90861,Busan,Kalios,Washington Justice,Wrecking Ball
+90881,Busan,Krillin,Washington Justice,Ana
+90905,Busan,Krillin,Washington Justice,Baptiste
+90936,Busan,OPENER,Washington Justice,Lucio
+90976,King's Row,Crimzo,Boston Uprising,Ana
+91020,King's Row,MCD,Boston Uprising,Baptiste
+91024,King's Row,MCD,Boston Uprising,Zenyatta
+91058,King's Row,Valentine,Boston Uprising,Genji
+91068,King's Row,Valentine,Boston Uprising,Tracer
+91089,King's Row,Valentine,Boston Uprising,Widowmaker
+91105,King's Row,Victoria,Boston Uprising,Sombra
+91147,King's Row,punk,Boston Uprising,D.Va
+91166,King's Row,punk,Boston Uprising,Zarya
+91200,King's Row,Assassin,Washington Justice,Sombra
+91234,King's Row,Decay,Washington Justice,Genji
+91253,King's Row,Decay,Washington Justice,Hanzo
+91258,King's Row,Decay,Washington Justice,Tracer
+91288,King's Row,Kalios,Washington Justice,Doomfist
+91298,King's Row,Kalios,Washington Justice,Zarya
+91327,King's Row,Krillin,Washington Justice,Ana
+91362,King's Row,Krillin,Washington Justice,Baptiste
+91364,King's Row,Krillin,Washington Justice,Zenyatta
+91404,King's Row,OPENER,Washington Justice,Ana
+91431,King's Row,OPENER,Washington Justice,Lucio
+91466,King's Row,OPENER,Washington Justice,Mercy
+91481,Circuit royal,Crimzo,Boston Uprising,Ana
+91508,Circuit royal,Crimzo,Boston Uprising,Baptiste
+91548,Circuit royal,MCD,Boston Uprising,Mercy
+91551,Circuit royal,MCD,Boston Uprising,Zenyatta
+91587,Circuit royal,Seeker,Boston Uprising,Sojourn
+91624,Circuit royal,Victoria,Boston Uprising,Sombra
+91642,Circuit royal,Victoria,Boston Uprising,Tracer
+91662,Circuit royal,Victoria,Boston Uprising,Widowmaker
+91699,Circuit royal,punk,Boston Uprising,D.Va
+91706,Circuit royal,punk,Boston Uprising,Sigma
+91724,Circuit royal,punk,Boston Uprising,Zarya
+91755,Circuit royal,Assassin,Washington Justice,Genji
+91778,Circuit royal,Assassin,Washington Justice,Hanzo
+91806,Circuit royal,Decay,Washington Justice,Sojourn
+91848,Circuit royal,Kalios,Washington Justice,Sigma
+91868,Circuit royal,Kalios,Washington Justice,Zarya
+91908,Circuit royal,Krillin,Washington Justice,Ana
+91937,Circuit royal,Krillin,Washington Justice,Lucio
+91940,Circuit royal,Krillin,Washington Justice,Moira
+91954,Circuit royal,Krillin,Washington Justice,Zenyatta
+91997,Circuit royal,OPENER,Washington Justice,Ana
+92025,Circuit royal,OPENER,Washington Justice,Lucio
+92072,New Queen Street,Crimzo,Boston Uprising,Ana
+92108,New Queen Street,MCD,Boston Uprising,Zenyatta
+92151,New Queen Street,Valentine,Boston Uprising,Tracer
+92178,New Queen Street,Victoria,Boston Uprising,Sombra
+92212,New Queen Street,punk,Boston Uprising,D.Va
+92232,New Queen Street,punk,Boston Uprising,Zarya
+92280,New Queen Street,Assassin,Washington Justice,Sombra
+92306,New Queen Street,Decay,Washington Justice,Genji
+92326,New Queen Street,Decay,Washington Justice,Tracer
+92364,New Queen Street,Kalios,Washington Justice,Zarya
+92402,New Queen Street,Krillin,Washington Justice,Ana
+92442,New Queen Street,OPENER,Washington Justice,Lucio
+92479,Lijiang Tower,Crimzo,Boston Uprising,Ana
+92506,Lijiang Tower,Crimzo,Boston Uprising,Baptiste
+92543,Lijiang Tower,MCD,Boston Uprising,Lucio
+92565,Lijiang Tower,MCD,Boston Uprising,Zenyatta
+92597,Lijiang Tower,Valentine,Boston Uprising,Mei
+92621,Lijiang Tower,Valentine,Boston Uprising,Sombra
+92632,Lijiang Tower,Valentine,Boston Uprising,Symmetra
+92638,Lijiang Tower,Valentine,Boston Uprising,Tracer
+92676,Lijiang Tower,Victoria,Boston Uprising,Sojourn
+92688,Lijiang Tower,Victoria,Boston Uprising,Sombra
+92713,Lijiang Tower,punk,Boston Uprising,D.Va
+92727,Lijiang Tower,punk,Boston Uprising,Orisa
+92744,Lijiang Tower,punk,Boston Uprising,Zarya
+92775,Lijiang Tower,Assassin,Washington Justice,Mei
+92797,Lijiang Tower,Assassin,Washington Justice,Sombra
+92829,Lijiang Tower,Decay,Washington Justice,Genji
+92848,Lijiang Tower,Decay,Washington Justice,Reaper
+92866,Lijiang Tower,Decay,Washington Justice,Symmetra
+92873,Lijiang Tower,Decay,Washington Justice,Tracer
+92908,Lijiang Tower,Kalios,Washington Justice,D.Va
+92925,Lijiang Tower,Kalios,Washington Justice,Orisa
+92943,Lijiang Tower,Kalios,Washington Justice,Zarya
+92983,Lijiang Tower,Krillin,Washington Justice,Ana
+93006,Lijiang Tower,Krillin,Washington Justice,Baptiste
+93041,Lijiang Tower,OPENER,Washington Justice,Lucio
+93074,Busan,Checkmate,Florida Mayhem,Sombra
+93082,Busan,Checkmate,Florida Mayhem,Symmetra
+93087,Busan,Checkmate,Florida Mayhem,Tracer
+93111,Busan,Hydron,Florida Mayhem,Sojourn
+93132,Busan,Hydron,Florida Mayhem,Tracer
+93155,Busan,Rupal,Florida Mayhem,Ana
+93175,Busan,Rupal,Florida Mayhem,Baptiste
+93206,Busan,SirMajed,Florida Mayhem,Lucio
+93226,Busan,SirMajed,Florida Mayhem,Zenyatta
+93252,Busan,Someone,Florida Mayhem,D.Va
+93272,Busan,Someone,Florida Mayhem,Sigma
+93283,Busan,Someone,Florida Mayhem,Winston
+93323,Busan,Aspire,Vancouver Titans,Symmetra
+93333,Busan,Aspire,Vancouver Titans,Tracer
+93375,Busan,Aztac,Vancouver Titans,Brigitte
+93389,Busan,Aztac,Vancouver Titans,Moira
+93407,Busan,MirroR,Vancouver Titans,Doomfist
+93446,Busan,Skairipa,Vancouver Titans,Ana
+93472,Busan,Skairipa,Vancouver Titans,Lucio
+93509,Busan,k1ng,Vancouver Titans,Sombra
+93537,Paraíso,Checkmate,Florida Mayhem,Genji
+93544,Paraíso,Checkmate,Florida Mayhem,Sombra
+93570,Paraíso,Hydron,Florida Mayhem,Echo
+93575,Paraíso,Hydron,Florida Mayhem,Genji
+93593,Paraíso,Hydron,Florida Mayhem,Hanzo
+93597,Paraíso,Hydron,Florida Mayhem,Sojourn
+93612,Paraíso,Hydron,Florida Mayhem,Tracer
+93635,Paraíso,Hydron,Florida Mayhem,Widowmaker
+93654,Paraíso,Rupal,Florida Mayhem,Ana
+93695,Paraíso,SirMajed,Florida Mayhem,Lucio
+93718,Paraíso,SirMajed,Florida Mayhem,Zenyatta
+93753,Paraíso,Someone,Florida Mayhem,Winston
+93774,Paraíso,Someone,Florida Mayhem,Zarya
+93814,Paraíso,Aspire,Vancouver Titans,Genji
+93820,Paraíso,Aspire,Vancouver Titans,Hanzo
+93822,Paraíso,Aspire,Vancouver Titans,Sojourn
+93847,Paraíso,Aspire,Vancouver Titans,Tracer
+93876,Paraíso,Aztac,Vancouver Titans,Brigitte
+93892,Paraíso,Aztac,Vancouver Titans,Zenyatta
+93929,Paraíso,False,Vancouver Titans,D.Va
+93954,Paraíso,False,Vancouver Titans,Sigma
+93967,Paraíso,False,Vancouver Titans,Zarya
+94007,Paraíso,Skairipa,Vancouver Titans,Ana
+94012,Paraíso,Skairipa,Vancouver Titans,Baptiste
+94038,Paraíso,Skairipa,Vancouver Titans,Lucio
+94060,Paraíso,k1ng,Vancouver Titans,Echo
+94072,Paraíso,k1ng,Vancouver Titans,Genji
+94074,Paraíso,k1ng,Vancouver Titans,Tracer
+94100,Paraíso,k1ng,Vancouver Titans,Widowmaker
+94128,Circuit royal,Checkmate,Florida Mayhem,Genji
+94147,Circuit royal,Checkmate,Florida Mayhem,Tracer
+94176,Circuit royal,Hydron,Florida Mayhem,Sojourn
+94199,Circuit royal,Hydron,Florida Mayhem,Widowmaker
+94238,Circuit royal,Rupal,Florida Mayhem,Ana
+94269,Circuit royal,Rupal,Florida Mayhem,Baptiste
+94308,Circuit royal,SirMajed,Florida Mayhem,Zenyatta
+94347,Circuit royal,Someone,Florida Mayhem,Sigma
+94382,Circuit royal,Aspire,Vancouver Titans,Sojourn
+94413,Circuit royal,Aztac,Vancouver Titans,Zenyatta
+94452,Circuit royal,False,Vancouver Titans,Sigma
+94483,Circuit royal,Skairipa,Vancouver Titans,Baptiste
+94512,Circuit royal,Skairipa,Vancouver Titans,Lucio
+94530,Circuit royal,k1ng,Vancouver Titans,Genji
+94535,Circuit royal,k1ng,Vancouver Titans,Hanzo
+94554,Circuit royal,k1ng,Vancouver Titans,Tracer
+94585,Colosseo,Anamo,Florida Mayhem,Lucio
+94626,Colosseo,Checkmate,Florida Mayhem,Sombra
+94658,Colosseo,Hydron,Florida Mayhem,Tracer
+94699,Colosseo,Rupal,Florida Mayhem,Ana
+94744,Colosseo,Someone,Florida Mayhem,Winston
+94787,Colosseo,Aspire,Vancouver Titans,Sojourn
+94810,Colosseo,Aspire,Vancouver Titans,Sombra
+94828,Colosseo,Aztac,Vancouver Titans,Zenyatta
+94863,Colosseo,False,Vancouver Titans,D.Va
+94878,Colosseo,False,Vancouver Titans,Zarya
+94912,Colosseo,Skairipa,Vancouver Titans,Ana
+94941,Colosseo,Skairipa,Vancouver Titans,Lucio
+94971,Colosseo,k1ng,Vancouver Titans,Tracer
+95002,Lijiang Tower,Anamo,Florida Mayhem,Lucio
+95040,Lijiang Tower,Checkmate,Florida Mayhem,Mei
+95058,Lijiang Tower,Checkmate,Florida Mayhem,Sombra
+95090,Lijiang Tower,Hydron,Florida Mayhem,Sojourn
+95110,Lijiang Tower,Hydron,Florida Mayhem,Symmetra
+95118,Lijiang Tower,Hydron,Florida Mayhem,Tracer
+95165,Lijiang Tower,Rupal,Florida Mayhem,Ana
+95186,Lijiang Tower,Rupal,Florida Mayhem,Baptiste
+95226,Lijiang Tower,Someone,Florida Mayhem,Orisa
+95241,Lijiang Tower,Someone,Florida Mayhem,Winston
+95296,Lijiang Tower,Aspire,Vancouver Titans,Sojourn
+95311,Lijiang Tower,Aspire,Vancouver Titans,Symmetra
+95317,Lijiang Tower,Aspire,Vancouver Titans,Tracer
+95337,Lijiang Tower,Aspire,Vancouver Titans,Widowmaker
+95367,Lijiang Tower,Aztac,Vancouver Titans,Brigitte
+95383,Lijiang Tower,Aztac,Vancouver Titans,Lucio
+95394,Lijiang Tower,Aztac,Vancouver Titans,Zenyatta
+95424,Lijiang Tower,MirroR,Vancouver Titans,Doomfist
+95436,Lijiang Tower,MirroR,Vancouver Titans,Junker Queen
+95448,Lijiang Tower,MirroR,Vancouver Titans,Orisa
+95454,Lijiang Tower,MirroR,Vancouver Titans,Zarya
+95475,Lijiang Tower,Skairipa,Vancouver Titans,Ana
+95496,Lijiang Tower,Skairipa,Vancouver Titans,Baptiste
+95528,Lijiang Tower,k1ng,Vancouver Titans,Echo
+95542,Lijiang Tower,k1ng,Vancouver Titans,Genji
+95552,Lijiang Tower,k1ng,Vancouver Titans,Sombra
+95562,Lijiang Tower,k1ng,Vancouver Titans,Symmetra
+95566,Lijiang Tower,k1ng,Vancouver Titans,Tracer
+95601,Busan,ChoiSehwan,Guangzhou Charge,Symmetra
+95607,Busan,ChoiSehwan,Guangzhou Charge,Tracer
+95641,Busan,Farway1987,Guangzhou Charge,Ana
+95673,Busan,Jimmy,Guangzhou Charge,Sombra
+95705,Busan,Piggy,Guangzhou Charge,D.Va
+95739,Busan,Xerneas,Guangzhou Charge,Zenyatta
+95785,Busan,BERNAR,Hangzhou Spark,D.Va
+95810,Busan,BERNAR,Hangzhou Spark,Junker Queen
+95827,Busan,Pineapple,Hangzhou Spark,Symmetra
+95833,Busan,Pineapple,Hangzhou Spark,Tracer
+95866,Busan,Teru,Hangzhou Spark,Lucio
+95887,Busan,Teru,Hangzhou Spark,Zenyatta
+95922,Busan,irony,Hangzhou Spark,Ana
+95962,Busan,shy,Hangzhou Spark,Sombra
+95990,Eichenwalde,ChoiSehwan,Guangzhou Charge,Tracer
+96029,Eichenwalde,Farway1987,Guangzhou Charge,Ana
+96067,Eichenwalde,Jimmy,Guangzhou Charge,Sombra
+96091,Eichenwalde,Jimmy,Guangzhou Charge,Widowmaker
+96115,Eichenwalde,Piggy,Guangzhou Charge,D.Va
+96149,Eichenwalde,Xerneas,Guangzhou Charge,Zenyatta
+96189,Eichenwalde,BERNAR,Hangzhou Spark,D.Va
+96221,Eichenwalde,Pineapple,Hangzhou Spark,Tracer
+96251,Eichenwalde,Pineapple,Hangzhou Spark,Widowmaker
+96266,Eichenwalde,Teru,Hangzhou Spark,Lucio
+96279,Eichenwalde,Teru,Hangzhou Spark,Moira
+96281,Eichenwalde,Teru,Hangzhou Spark,Zenyatta
+96325,Eichenwalde,irony,Hangzhou Spark,Ana
+96354,Eichenwalde,irony,Hangzhou Spark,Lucio
+96372,Eichenwalde,shy,Hangzhou Spark,Sombra
+96411,Junkertown,ChoiSehwan,Guangzhou Charge,Tracer
+96445,Junkertown,Farway1987,Guangzhou Charge,Ana
+96482,Junkertown,Jimmy,Guangzhou Charge,Sombra
+96521,Junkertown,Piggy,Guangzhou Charge,D.Va
+96547,Junkertown,Piggy,Guangzhou Charge,Roadhog
+96549,Junkertown,Piggy,Guangzhou Charge,Zarya
+96563,Junkertown,Xerneas,Guangzhou Charge,Zenyatta
+96596,Junkertown,BERNAR,Hangzhou Spark,D.Va
+96613,Junkertown,BERNAR,Hangzhou Spark,Doomfist
+96625,Junkertown,Pineapple,Hangzhou Spark,Tracer
+96647,Junkertown,Pineapple,Hangzhou Spark,Widowmaker
+96667,Junkertown,Teru,Hangzhou Spark,Lucio
+96670,Junkertown,Teru,Hangzhou Spark,Zenyatta
+96709,Junkertown,irony,Hangzhou Spark,Ana
+96740,Junkertown,shy,Hangzhou Spark,Sombra
+96769,Busan,Becky,Los Angeles Valiant,Symmetra
+96778,Busan,Becky,Los Angeles Valiant,Tracer
+96804,Busan,Ezhan,Los Angeles Valiant,Sombra
+96835,Busan,Lengsa,Los Angeles Valiant,Brigitte
+96848,Busan,Lengsa,Los Angeles Valiant,Lucio
+96883,Busan,Marve1,Los Angeles Valiant,Doomfist
+96901,Busan,Marve1,Los Angeles Valiant,Winston
+96939,Busan,Molly,Los Angeles Valiant,Ana
+96977,Busan,BEBE,Shanghai Dragons,Ana
+97017,Busan,Fleta,Shanghai Dragons,Symmetra
+97021,Busan,Fleta,Shanghai Dragons,Tracer
+97059,Busan,IZaYaKI,Shanghai Dragons,Zenyatta
+97095,Busan,LIP,Shanghai Dragons,Sombra
+97124,Busan,Void,Shanghai Dragons,D.Va
+97163,King's Row,Becky,Los Angeles Valiant,Echo
+97184,King's Row,Becky,Los Angeles Valiant,Tracer
+97214,King's Row,Ezhan,Los Angeles Valiant,Sojourn
+97238,King's Row,Ezhan,Los Angeles Valiant,Widowmaker
+97254,King's Row,Lengsa,Los Angeles Valiant,Brigitte
+97268,King's Row,Lengsa,Los Angeles Valiant,Lucio
+97275,King's Row,Lengsa,Los Angeles Valiant,Zenyatta
+97307,King's Row,Molly,Los Angeles Valiant,Ana
+97343,King's Row,SASIN,Los Angeles Valiant,Zarya
+97374,King's Row,IZaYaKI,Shanghai Dragons,Ana
+97408,King's Row,LIP,Shanghai Dragons,Sojourn
+97438,King's Row,LIP,Shanghai Dragons,Widowmaker
+97456,King's Row,LeeJaeGon,Shanghai Dragons,Lucio
+97495,King's Row,Void,Shanghai Dragons,Zarya
+97526,King's Row,WhoRu,Shanghai Dragons,Genji
+97556,Dorado,Becky,Los Angeles Valiant,Echo
+97591,Dorado,Ezhan,Los Angeles Valiant,Sombra
+97625,Dorado,Lengsa,Los Angeles Valiant,Brigitte
+97659,Dorado,Molly,Los Angeles Valiant,Ana
+97695,Dorado,SASIN,Los Angeles Valiant,D.Va
+97699,Dorado,SASIN,Los Angeles Valiant,Zarya
+97738,Dorado,BEBE,Shanghai Dragons,Ana
+97776,Dorado,Fleta,Shanghai Dragons,Tracer
+97816,Dorado,IZaYaKI,Shanghai Dragons,Zenyatta
+97857,Dorado,LIP,Shanghai Dragons,Sombra
+97878,Dorado,LIP,Shanghai Dragons,Widowmaker
+97902,Dorado,Void,Shanghai Dragons,D.Va
+97947,Ilios,Daizi,Chengdu Hunters,D.Va
+97979,Ilios,Jinmu,Chengdu Hunters,Sombra
+98010,Ilios,Leave,Chengdu Hunters,Symmetra
+98019,Ilios,Leave,Chengdu Hunters,Tracer
+98048,Ilios,Mmonk,Chengdu Hunters,Zenyatta
+98078,Ilios,Nisha,Chengdu Hunters,Ana
+98114,Ilios,AimGod,Seoul Infernal,Zenyatta
+98145,Ilios,FIXA,Seoul Infernal,Ana
+98181,Ilios,Fury,Seoul Infernal,D.Va
+98220,Ilios,MN3,Seoul Infernal,Sombra
+98250,Ilios,ZEST,Seoul Infernal,Symmetra
+98254,Ilios,ZEST,Seoul Infernal,Tracer
+98285,Paraíso,GA9A,Chengdu Hunters,Winston
+98331,Paraíso,Jinmu,Chengdu Hunters,Sombra
+98343,Paraíso,Jinmu,Chengdu Hunters,Tracer
+98377,Paraíso,Leave,Chengdu Hunters,Sojourn
+98399,Paraíso,Leave,Chengdu Hunters,Tracer
+98440,Paraíso,Mmonk,Chengdu Hunters,Ana
+98478,Paraíso,Nisha,Chengdu Hunters,Brigitte
+98513,Paraíso,AimGod,Seoul Infernal,Brigitte
+98523,Paraíso,AimGod,Seoul Infernal,Zenyatta
+98563,Paraíso,FIXA,Seoul Infernal,Ana
+98604,Paraíso,Fury,Seoul Infernal,D.Va
+98628,Paraíso,Fury,Seoul Infernal,Doomfist
+98652,Paraíso,MN3,Seoul Infernal,Sojourn
+98664,Paraíso,MN3,Seoul Infernal,Sombra
+98689,Paraíso,ZEST,Seoul Infernal,Genji
+98712,Paraíso,ZEST,Seoul Infernal,Tracer
+98734,Paraíso,ZEST,Seoul Infernal,Widowmaker
+98749,Route 66,Daizi,Chengdu Hunters,Zarya
+98777,Route 66,Jinmu,Chengdu Hunters,Genji
+98795,Route 66,Jinmu,Chengdu Hunters,Tracer
+98819,Route 66,Leave,Chengdu Hunters,Sojourn
+98851,Route 66,Mmonk,Chengdu Hunters,Zenyatta
+98882,Route 66,Nisha,Chengdu Hunters,Ana
+98920,Route 66,AimGod,Seoul Infernal,Zenyatta
+98951,Route 66,FIXA,Seoul Infernal,Ana
+98996,Route 66,Fury,Seoul Infernal,D.Va
+99027,Route 66,MN3,Seoul Infernal,Sombra
+99056,Route 66,ZEST,Seoul Infernal,Tracer
+99071,Route 66,ZEST,Seoul Infernal,Widowmaker
+99095,New Queen Street,Daizi,Chengdu Hunters,Zarya
+99136,New Queen Street,Jinmu,Chengdu Hunters,Genji
+99163,New Queen Street,Jinmu,Chengdu Hunters,Tracer
+99196,New Queen Street,Leave,Chengdu Hunters,Sojourn
+99225,New Queen Street,Mmonk,Chengdu Hunters,Ana
+99264,New Queen Street,Nisha,Chengdu Hunters,Lucio
+99305,New Queen Street,AimGod,Seoul Infernal,Zenyatta
+99350,New Queen Street,FIXA,Seoul Infernal,Ana
+99397,New Queen Street,Fury,Seoul Infernal,D.Va
+99440,New Queen Street,MN3,Seoul Infernal,Sombra
+99466,New Queen Street,ZEST,Seoul Infernal,Tracer
+99507,Oasis,Hawk,Atlanta Reign,D.Va
+99534,Oasis,Hawk,Atlanta Reign,Winston
+99572,Oasis,Speedily,Atlanta Reign,Echo
+99599,Oasis,Speedily,Atlanta Reign,Genji
+99632,Oasis,UltraViolet,Atlanta Reign,Ana
+99666,Oasis,UltraViolet,Atlanta Reign,Lucio
+99684,Oasis,UltraViolet,Atlanta Reign,Zenyatta
+99708,Oasis,Venom,Atlanta Reign,Symmetra
+99714,Oasis,Venom,Atlanta Reign,Tracer
+99751,Oasis,vigilante,Atlanta Reign,Ana
+99777,Oasis,vigilante,Atlanta Reign,Mercy
+99778,Oasis,vigilante,Atlanta Reign,Moira
+99791,Oasis,vigilante,Atlanta Reign,Zenyatta
+99835,Oasis,Anamo,Florida Mayhem,Lucio
+99874,Oasis,Checkmate,Florida Mayhem,Genji
+99885,Oasis,Checkmate,Florida Mayhem,Sombra
+99908,Oasis,Checkmate,Florida Mayhem,Symmetra
+99913,Oasis,Checkmate,Florida Mayhem,Tracer
+99946,Oasis,Hydron,Florida Mayhem,Sojourn
+99969,Oasis,Hydron,Florida Mayhem,Symmetra
+99979,Oasis,Hydron,Florida Mayhem,Tracer
+100012,Oasis,Rupal,Florida Mayhem,Ana
+100044,Oasis,Rupal,Florida Mayhem,Baptiste
+100068,Oasis,Rupal,Florida Mayhem,Moira
+100088,Oasis,Someone,Florida Mayhem,Doomfist
+100100,Oasis,Someone,Florida Mayhem,Orisa
+100123,Oasis,Someone,Florida Mayhem,Winston
+100153,Oasis,Someone,Florida Mayhem,Zarya
+100187,King's Row,Hawk,Atlanta Reign,D.Va
+100215,King's Row,Hawk,Atlanta Reign,Sigma
+100235,King's Row,Hawk,Atlanta Reign,Zarya
+100261,King's Row,Speedily,Atlanta Reign,Echo
+100290,King's Row,Speedily,Atlanta Reign,Genji
+100309,King's Row,Speedily,Atlanta Reign,Sojourn
+100342,King's Row,UltraViolet,Atlanta Reign,Ana
+100378,King's Row,UltraViolet,Atlanta Reign,Baptiste
+100408,King's Row,UltraViolet,Atlanta Reign,Lucio
+100423,King's Row,UltraViolet,Atlanta Reign,Zenyatta
+100464,King's Row,Venom,Atlanta Reign,Hanzo
+100473,King's Row,Venom,Atlanta Reign,Symmetra
+100480,King's Row,Venom,Atlanta Reign,Tracer
+100520,King's Row,vigilante,Atlanta Reign,Ana
+100540,King's Row,vigilante,Atlanta Reign,Lucio
+100546,King's Row,vigilante,Atlanta Reign,Zenyatta
+100583,King's Row,Checkmate,Florida Mayhem,Genji
+100606,King's Row,Checkmate,Florida Mayhem,Tracer
+100634,King's Row,Hydron,Florida Mayhem,Ashe
+100654,King's Row,Hydron,Florida Mayhem,Sojourn
+100682,King's Row,Hydron,Florida Mayhem,Symmetra
+100713,King's Row,Rupal,Florida Mayhem,Ana
+100742,King's Row,Rupal,Florida Mayhem,Baptiste
+100776,King's Row,SirMajed,Florida Mayhem,Lucio
+100802,King's Row,SirMajed,Florida Mayhem,Zenyatta
+100835,King's Row,Someone,Florida Mayhem,D.Va
+100852,King's Row,Someone,Florida Mayhem,Orisa
+100866,King's Row,Someone,Florida Mayhem,Winston
+100890,King's Row,Someone,Florida Mayhem,Zarya
+100927,Dorado,Hawk,Atlanta Reign,D.Va
+100970,Dorado,Speedily,Atlanta Reign,Echo
+100996,Dorado,Speedily,Atlanta Reign,Genji
+101026,Dorado,UltraViolet,Atlanta Reign,Ana
+101061,Dorado,Venom,Atlanta Reign,Tracer
+101100,Dorado,vigilante,Atlanta Reign,Zenyatta
+101134,Dorado,Checkmate,Florida Mayhem,Genji
+101145,Dorado,Checkmate,Florida Mayhem,Symmetra
+101153,Dorado,Checkmate,Florida Mayhem,Tracer
+101190,Dorado,Hydron,Florida Mayhem,Ashe
+101210,Dorado,Hydron,Florida Mayhem,Hanzo
+101218,Dorado,Hydron,Florida Mayhem,Tracer
+101232,Dorado,Hydron,Florida Mayhem,Widowmaker
+101255,Dorado,Rupal,Florida Mayhem,Baptiste
+101283,Dorado,SirMajed,Florida Mayhem,Zenyatta
+101316,Dorado,Someone,Florida Mayhem,D.Va
+101337,Dorado,Someone,Florida Mayhem,Zarya
+101369,New Queen Street,Hawk,Atlanta Reign,D.Va
+101390,New Queen Street,Hawk,Atlanta Reign,Doomfist
+101420,New Queen Street,Speedily,Atlanta Reign,Genji
+101440,New Queen Street,Speedily,Atlanta Reign,Sombra
+101471,New Queen Street,UltraViolet,Atlanta Reign,Ana
+101502,New Queen Street,UltraViolet,Atlanta Reign,Baptiste
+101520,New Queen Street,UltraViolet,Atlanta Reign,Lucio
+101538,New Queen Street,Venom,Atlanta Reign,Tracer
+101568,New Queen Street,vigilante,Atlanta Reign,Zenyatta
+101605,New Queen Street,Checkmate,Florida Mayhem,Tracer
+101638,New Queen Street,Hydron,Florida Mayhem,Sojourn
+101674,New Queen Street,Rupal,Florida Mayhem,Ana
+101700,New Queen Street,Rupal,Florida Mayhem,Moira
+101728,New Queen Street,SirMajed,Florida Mayhem,Lucio
+101754,New Queen Street,SirMajed,Florida Mayhem,Zenyatta
+101789,New Queen Street,Someone,Florida Mayhem,Doomfist
+101802,New Queen Street,Someone,Florida Mayhem,Orisa
+101821,New Queen Street,Someone,Florida Mayhem,Zarya
+101866,Nepal,Hawk,Atlanta Reign,D.Va
+101888,Nepal,Hawk,Atlanta Reign,Orisa
+101922,Nepal,Speedily,Atlanta Reign,Echo
+101959,Nepal,UltraViolet,Atlanta Reign,Ana
+101988,Nepal,UltraViolet,Atlanta Reign,Baptiste
+102003,Nepal,UltraViolet,Atlanta Reign,Lucio
+102027,Nepal,Venom,Atlanta Reign,Symmetra
+102034,Nepal,Venom,Atlanta Reign,Tracer
+102075,Nepal,vigilante,Atlanta Reign,Moira
+102079,Nepal,vigilante,Atlanta Reign,Zenyatta
+102115,Nepal,Anamo,Florida Mayhem,Lucio
+102155,Nepal,Checkmate,Florida Mayhem,Genji
+102181,Nepal,Checkmate,Florida Mayhem,Sombra
+102195,Nepal,Checkmate,Florida Mayhem,Symmetra
+102212,Nepal,Hydron,Florida Mayhem,Sojourn
+102237,Nepal,Hydron,Florida Mayhem,Symmetra
+102242,Nepal,Hydron,Florida Mayhem,Tracer
+102279,Nepal,Rupal,Florida Mayhem,Ana
+102304,Nepal,Rupal,Florida Mayhem,Baptiste
+102338,Nepal,Someone,Florida Mayhem,Orisa
+102362,Nepal,Someone,Florida Mayhem,Winston
+102401,Ilios,FunnyAstro,Los Angeles Gladiators,Lucio
+102441,Ilios,Happy,Los Angeles Gladiators,Symmetra
+102448,Ilios,Happy,Los Angeles Gladiators,Tracer
+102485,Ilios,Reiner,Los Angeles Gladiators,D.Va
+102504,Ilios,Reiner,Los Angeles Gladiators,Doomfist
+102511,Ilios,Reiner,Los Angeles Gladiators,Winston
+102546,Ilios,kevster,Los Angeles Gladiators,Genji
+102574,Ilios,kevster,Los Angeles Gladiators,Sombra
+102606,Ilios,shu,Los Angeles Gladiators,Ana
+102653,Ilios,Assassin,Washington Justice,Sombra
+102681,Ilios,Decay,Washington Justice,Symmetra
+102688,Ilios,Decay,Washington Justice,Tracer
+102730,Ilios,Kalios,Washington Justice,D.Va
+102750,Ilios,Kalios,Washington Justice,Doomfist
+102781,Ilios,Krillin,Washington Justice,Zenyatta
+102818,Ilios,OPENER,Washington Justice,Brigitte
+102851,Paraíso,FunnyAstro,Los Angeles Gladiators,Lucio
+102890,Paraíso,Happy,Los Angeles Gladiators,Echo
+102892,Paraíso,Happy,Los Angeles Gladiators,Sojourn
+102929,Paraíso,Reiner,Los Angeles Gladiators,Zarya
+102968,Paraíso,kevster,Los Angeles Gladiators,Echo
+102973,Paraíso,kevster,Los Angeles Gladiators,Tracer
+102996,Paraíso,kevster,Los Angeles Gladiators,Widowmaker
+103020,Paraíso,shu,Los Angeles Gladiators,Baptiste
+103055,Paraíso,Assassin,Washington Justice,Sombra
+103091,Paraíso,Decay,Washington Justice,Genji
+103114,Paraíso,Decay,Washington Justice,Tracer
+103153,Paraíso,Kalios,Washington Justice,D.Va
+103173,Paraíso,Kalios,Washington Justice,Zarya
+103212,Paraíso,Krillin,Washington Justice,Ana
+103234,Paraíso,Krillin,Washington Justice,Zenyatta
+103270,Paraíso,OPENER,Washington Justice,Ana
+103290,Paraíso,OPENER,Washington Justice,Lucio
+103312,Paraíso,OPENER,Washington Justice,Mercy
+103325,Junkertown,Happy,Los Angeles Gladiators,Sojourn
+103336,Junkertown,Happy,Los Angeles Gladiators,Sombra
+103367,Junkertown,SPACE,Los Angeles Gladiators,D.Va
+103388,Junkertown,SPACE,Los Angeles Gladiators,Sigma
+103401,Junkertown,SPACE,Los Angeles Gladiators,Winston
+103406,Junkertown,SPACE,Los Angeles Gladiators,Zarya
+103437,Junkertown,kevster,Los Angeles Gladiators,Tracer
+103462,Junkertown,kevster,Los Angeles Gladiators,Widowmaker
+103482,Junkertown,shu,Los Angeles Gladiators,Baptiste
+103520,Junkertown,skewed,Los Angeles Gladiators,Brigitte
+103538,Junkertown,skewed,Los Angeles Gladiators,Zenyatta
+103574,Junkertown,Assassin,Washington Justice,Sombra
+103611,Junkertown,Decay,Washington Justice,Tracer
+103655,Junkertown,Kalios,Washington Justice,D.Va
+103676,Junkertown,Kalios,Washington Justice,Zarya
+103712,Junkertown,Krillin,Washington Justice,Baptiste
+103728,Junkertown,Krillin,Washington Justice,Zenyatta
+103767,Junkertown,OPENER,Washington Justice,Ana
+103800,Junkertown,OPENER,Washington Justice,Lucio
+103822,Junkertown,OPENER,Washington Justice,Mercy
+103842,Colosseo,FunnyAstro,Los Angeles Gladiators,Lucio
+103885,Colosseo,Happy,Los Angeles Gladiators,Sojourn
+103914,Colosseo,Happy,Los Angeles Gladiators,Sombra
+103942,Colosseo,Reiner,Los Angeles Gladiators,Zarya
+103969,Colosseo,kevster,Los Angeles Gladiators,Tracer
+104004,Colosseo,shu,Los Angeles Gladiators,Baptiste
+104047,Colosseo,Assassin,Washington Justice,Sombra
+104076,Colosseo,Decay,Washington Justice,Tracer
+104108,Colosseo,Kalios,Washington Justice,D.Va
+104123,Colosseo,Kalios,Washington Justice,Doomfist
+104137,Colosseo,Kalios,Washington Justice,Zarya
+104174,Colosseo,Krillin,Washington Justice,Ana
+104203,Colosseo,Krillin,Washington Justice,Moira
+104207,Colosseo,Krillin,Washington Justice,Zenyatta
+104236,Colosseo,OPENER,Washington Justice,Ana
+104259,Colosseo,OPENER,Washington Justice,Lucio
+104296,Oasis,ChiYo,Dallas Fuel,Lucio
+104331,Oasis,Edison,Dallas Fuel,Sojourn
+104351,Oasis,Edison,Dallas Fuel,Tracer
+104385,Oasis,Fielder,Dallas Fuel,Ana
+104400,Oasis,Fielder,Dallas Fuel,Baptiste
+104446,Oasis,Hanbin,Dallas Fuel,Doomfist
+104458,Oasis,Hanbin,Dallas Fuel,Zarya
+104493,Oasis,SP9RK1E,Dallas Fuel,Genji
+104517,Oasis,SP9RK1E,Dallas Fuel,Symmetra
+104522,Oasis,SP9RK1E,Dallas Fuel,Tracer
+104556,Oasis,Creative,Houston Outlaws,Baptiste
+104602,Oasis,Danteh,Houston Outlaws,Zarya
+104636,Oasis,Lastro,Houston Outlaws,Lucio
+104675,Oasis,MER1T,Houston Outlaws,Sojourn
+104695,Oasis,MER1T,Houston Outlaws,Symmetra
+104718,Oasis,PELICAN,Houston Outlaws,Genji
+104745,Oasis,PELICAN,Houston Outlaws,Tracer
+104774,Paraíso,ChiYo,Dallas Fuel,Lucio
+104819,Paraíso,Edison,Dallas Fuel,Sojourn
+104857,Paraíso,Fielder,Dallas Fuel,Baptiste
+104895,Paraíso,Hanbin,Dallas Fuel,Zarya
+104936,Paraíso,SP9RK1E,Dallas Fuel,Genji
+104940,Paraíso,SP9RK1E,Dallas Fuel,Tracer
+104965,Paraíso,SP9RK1E,Dallas Fuel,Widowmaker
+104979,Paraíso,Creative,Houston Outlaws,Ana
+104983,Paraíso,Creative,Houston Outlaws,Baptiste
+105027,Paraíso,Danteh,Houston Outlaws,Doomfist
+105043,Paraíso,Danteh,Houston Outlaws,Zarya
+105083,Paraíso,Lastro,Houston Outlaws,Lucio
+105112,Paraíso,Lastro,Houston Outlaws,Zenyatta
+105146,Paraíso,MER1T,Houston Outlaws,Sojourn
+105168,Paraíso,MER1T,Houston Outlaws,Sombra
+105191,Paraíso,PELICAN,Houston Outlaws,Genji
+105230,Circuit royal,ChiYo,Dallas Fuel,Lucio
+105267,Circuit royal,Edison,Dallas Fuel,Sojourn
+105298,Circuit royal,Edison,Dallas Fuel,Tracer
+105322,Circuit royal,Fielder,Dallas Fuel,Ana
+105342,Circuit royal,Fielder,Dallas Fuel,Baptiste
+105378,Circuit royal,Hanbin,Dallas Fuel,Doomfist
+105393,Circuit royal,Hanbin,Dallas Fuel,Reinhardt
+105402,Circuit royal,Hanbin,Dallas Fuel,Zarya
+105441,Circuit royal,SP9RK1E,Dallas Fuel,Genji
+105467,Circuit royal,SP9RK1E,Dallas Fuel,Mei
+105483,Circuit royal,SP9RK1E,Dallas Fuel,Tracer
+105510,Circuit royal,Creative,Houston Outlaws,Ana
+105512,Circuit royal,Creative,Houston Outlaws,Baptiste
+105549,Circuit royal,Danteh,Houston Outlaws,Zarya
+105594,Circuit royal,Lastro,Houston Outlaws,Lucio
+105627,Circuit royal,MER1T,Houston Outlaws,Sojourn
+105660,Circuit royal,PELICAN,Houston Outlaws,Genji
+105700,New Queen Street,ChiYo,Dallas Fuel,Lucio
+105743,New Queen Street,Edison,Dallas Fuel,Sojourn
+105784,New Queen Street,Fielder,Dallas Fuel,Baptiste
+105820,New Queen Street,Hanbin,Dallas Fuel,Zarya
+105856,New Queen Street,SP9RK1E,Dallas Fuel,Genji
+105865,New Queen Street,SP9RK1E,Dallas Fuel,Tracer
+105896,New Queen Street,Creative,Houston Outlaws,Baptiste
+105929,New Queen Street,Danteh,Houston Outlaws,Zarya
+105967,New Queen Street,Lastro,Houston Outlaws,Lucio
+105996,New Queen Street,Lastro,Houston Outlaws,Zenyatta
+106036,New Queen Street,MER1T,Houston Outlaws,Sojourn
+106073,New Queen Street,PELICAN,Houston Outlaws,Tracer
+106104,Oasis,Daizi,Chengdu Hunters,Zarya
+106138,Oasis,Jinmu,Chengdu Hunters,Sombra
+106157,Oasis,Jinmu,Chengdu Hunters,Symmetra
+106176,Oasis,Leave,Chengdu Hunters,Sojourn
+106193,Oasis,Leave,Chengdu Hunters,Symmetra
+106198,Oasis,Leave,Chengdu Hunters,Tracer
+106240,Oasis,Mmonk,Chengdu Hunters,Baptiste
+106276,Oasis,Nisha,Chengdu Hunters,Lucio
+106313,Oasis,BEBE,Shanghai Dragons,Ana
+106336,Oasis,BEBE,Shanghai Dragons,Baptiste
+106367,Oasis,Fleta,Shanghai Dragons,Symmetra
+106372,Oasis,Fleta,Shanghai Dragons,Tracer
+106408,Oasis,IZaYaKI,Shanghai Dragons,Zenyatta
+106448,Oasis,LIP,Shanghai Dragons,Sojourn
+106459,Oasis,LIP,Shanghai Dragons,Sombra
+106488,Oasis,Void,Shanghai Dragons,D.Va
+106511,Oasis,Void,Shanghai Dragons,Orisa
+106524,Oasis,Void,Shanghai Dragons,Zarya
+106549,Eichenwalde,Daizi,Chengdu Hunters,Zarya
+106589,Eichenwalde,Jinmu,Chengdu Hunters,Genji
+106607,Eichenwalde,Jinmu,Chengdu Hunters,Sombra
+106640,Eichenwalde,Leave,Chengdu Hunters,Sojourn
+106658,Eichenwalde,Leave,Chengdu Hunters,Tracer
+106687,Eichenwalde,Mmonk,Chengdu Hunters,Baptiste
+106707,Eichenwalde,Mmonk,Chengdu Hunters,Zenyatta
+106752,Eichenwalde,Nisha,Chengdu Hunters,Ana
+106777,Eichenwalde,Nisha,Chengdu Hunters,Lucio
+106816,Eichenwalde,BEBE,Shanghai Dragons,Ana
+106863,Eichenwalde,Fleta,Shanghai Dragons,Tracer
+106894,Eichenwalde,Fleta,Shanghai Dragons,Widowmaker
+106917,Eichenwalde,IZaYaKI,Shanghai Dragons,Zenyatta
+106960,Eichenwalde,LIP,Shanghai Dragons,Sombra
+106989,Eichenwalde,Void,Shanghai Dragons,D.Va
+107028,Junkertown,Daizi,Chengdu Hunters,D.Va
+107044,Junkertown,Daizi,Chengdu Hunters,Sigma
+107063,Junkertown,Daizi,Chengdu Hunters,Zarya
+107108,Junkertown,Jinmu,Chengdu Hunters,Genji
+107122,Junkertown,Jinmu,Chengdu Hunters,Sombra
+107160,Junkertown,Leave,Chengdu Hunters,Sojourn
+107179,Junkertown,Leave,Chengdu Hunters,Tracer
+107215,Junkertown,Mmonk,Chengdu Hunters,Zenyatta
+107256,Junkertown,Nisha,Chengdu Hunters,Ana
+107283,Junkertown,Nisha,Chengdu Hunters,Baptiste
+107309,Junkertown,BEBE,Shanghai Dragons,Ana
+107339,Junkertown,BEBE,Shanghai Dragons,Baptiste
+107386,Junkertown,Fleta,Shanghai Dragons,Sombra
+107402,Junkertown,Fleta,Shanghai Dragons,Tracer
+107437,Junkertown,IZaYaKI,Shanghai Dragons,Zenyatta
+107472,Junkertown,LIP,Shanghai Dragons,Sojourn
+107497,Junkertown,LIP,Shanghai Dragons,Sombra
+107519,Junkertown,LIP,Shanghai Dragons,Widowmaker
+107534,Junkertown,Void,Shanghai Dragons,D.Va
+107559,Junkertown,Void,Shanghai Dragons,Sigma
+107576,Junkertown,Void,Shanghai Dragons,Zarya
+107596,Nepal,Fits,Seoul Dynasty,Sombra
+107622,Nepal,Profit,Seoul Dynasty,Genji
+107642,Nepal,Profit,Seoul Dynasty,Symmetra
+107646,Nepal,Profit,Seoul Dynasty,Tracer
+107684,Nepal,Vindaim,Seoul Dynasty,Brigitte
+107701,Nepal,Vindaim,Seoul Dynasty,Lucio
+107742,Nepal,ir1s,Seoul Dynasty,Ana
+107783,Nepal,smurf,Seoul Dynasty,Winston
+107822,Nepal,AimGod,Seoul Infernal,Ana
+107849,Nepal,AimGod,Seoul Infernal,Moira
+107884,Nepal,Belosrea,Seoul Infernal,Junker Queen
+107889,Nepal,Belosrea,Seoul Infernal,Reinhardt
+107905,Nepal,Belosrea,Seoul Infernal,Winston
+107941,Nepal,FIXA,Seoul Infernal,Lucio
+107979,Nepal,MN3,Seoul Infernal,Cassidy
+107995,Nepal,MN3,Seoul Infernal,Sombra
+108017,Nepal,MN3,Seoul Infernal,Symmetra
+108043,Nepal,carpe,Seoul Infernal,Mei
+108059,Nepal,carpe,Seoul Infernal,Tracer
+108099,King's Row,Fits,Seoul Dynasty,Sojourn
+108109,King's Row,Fits,Seoul Dynasty,Sombra
+108133,King's Row,Fits,Seoul Dynasty,Widowmaker
+108156,King's Row,Profit,Seoul Dynasty,Genji
+108175,King's Row,Profit,Seoul Dynasty,Tracer
+108208,King's Row,Vindaim,Seoul Dynasty,Brigitte
+108225,King's Row,Vindaim,Seoul Dynasty,Lucio
+108264,King's Row,ir1s,Seoul Dynasty,Ana
+108300,King's Row,smurf,Seoul Dynasty,Winston
+108329,King's Row,smurf,Seoul Dynasty,Zarya
+108363,King's Row,AimGod,Seoul Infernal,Ana
+108391,King's Row,AimGod,Seoul Infernal,Lucio
+108412,King's Row,Belosrea,Seoul Infernal,Winston
+108453,King's Row,FIXA,Seoul Infernal,Brigitte
+108487,King's Row,MN3,Seoul Infernal,Sojourn
+108518,King's Row,MN3,Seoul Infernal,Sombra
+108532,King's Row,MN3,Seoul Infernal,Widowmaker
+108550,King's Row,carpe,Seoul Infernal,Hanzo
+108554,King's Row,carpe,Seoul Infernal,Tracer
+108593,Route 66,Fits,Seoul Dynasty,Sombra
+108623,Route 66,Profit,Seoul Dynasty,Ana
+108659,Route 66,Stalk3r,Seoul Dynasty,Hanzo
+108666,Route 66,Stalk3r,Seoul Dynasty,Tracer
+108701,Route 66,ir1s,Seoul Dynasty,Zenyatta
+108733,Route 66,smurf,Seoul Dynasty,D.Va
+108769,Route 66,AimGod,Seoul Infernal,Zenyatta
+108807,Route 66,FIXA,Seoul Infernal,Ana
+108844,Route 66,Fury,Seoul Infernal,D.Va
+108871,Route 66,MN3,Seoul Infernal,Sombra
+108898,Route 66,carpe,Seoul Infernal,Tracer
+108936,New Queen Street,Fits,Seoul Dynasty,Sojourn
+108973,New Queen Street,Profit,Seoul Dynasty,Tracer
+109008,New Queen Street,Vindaim,Seoul Dynasty,Lucio
+109048,New Queen Street,ir1s,Seoul Dynasty,Baptiste
+109090,New Queen Street,smurf,Seoul Dynasty,Zarya
+109128,New Queen Street,AimGod,Seoul Infernal,Zenyatta
+109167,New Queen Street,FIXA,Seoul Infernal,Ana
+109212,New Queen Street,Fury,Seoul Infernal,D.Va
+109235,New Queen Street,Fury,Seoul Infernal,Zarya
+109264,New Queen Street,MN3,Seoul Infernal,Sombra
+109290,New Queen Street,carpe,Seoul Infernal,Tracer
+109331,Ilios,Fits,Seoul Dynasty,Sombra
+109366,Ilios,Profit,Seoul Dynasty,Symmetra
+109372,Ilios,Profit,Seoul Dynasty,Tracer
+109400,Ilios,Vindaim,Seoul Dynasty,Brigitte
+109427,Ilios,Vindaim,Seoul Dynasty,Lucio
+109444,Ilios,ir1s,Seoul Dynasty,Ana
+109488,Ilios,smurf,Seoul Dynasty,Winston
+109534,Ilios,AimGod,Seoul Infernal,Ana
+109574,Ilios,Belosrea,Seoul Infernal,Winston
+109609,Ilios,FIXA,Seoul Infernal,Brigitte
+109647,Ilios,MN3,Seoul Infernal,Sombra
+109663,Ilios,MN3,Seoul Infernal,Widowmaker
+109683,Ilios,carpe,Seoul Infernal,Symmetra
+109691,Ilios,carpe,Seoul Infernal,Tracer
+109727,Oasis,Aspire,Vancouver Titans,Genji
+109741,Oasis,Aspire,Vancouver Titans,Sojourn
+109758,Oasis,Aspire,Vancouver Titans,Symmetra
+109767,Oasis,Aspire,Vancouver Titans,Tracer
+109802,Oasis,Aztac,Vancouver Titans,Zenyatta
+109842,Oasis,False,Vancouver Titans,D.Va
+109857,Oasis,False,Vancouver Titans,Zarya
+109897,Oasis,Skairipa,Vancouver Titans,Ana
+109924,Oasis,Skairipa,Vancouver Titans,Baptiste
+109965,Oasis,k1ng,Vancouver Titans,Sombra
+109988,Oasis,k1ng,Vancouver Titans,Symmetra
+109993,Oasis,k1ng,Vancouver Titans,Tracer
+110027,Oasis,Dove,Vegas Eternal,Genji
+110031,Oasis,Dove,Vegas Eternal,Sojourn
+110049,Oasis,Dove,Vegas Eternal,Sombra
+110074,Oasis,Krawi,Vegas Eternal,D.Va
+110088,Oasis,Krawi,Vegas Eternal,Zarya
+110123,Oasis,Lukemino,Vegas Eternal,Ana
+110150,Oasis,Lukemino,Vegas Eternal,Baptiste
+110171,Oasis,Lukemino,Vegas Eternal,Brigitte
+110180,Oasis,Lukemino,Vegas Eternal,Moira
+110195,Oasis,MaltheL,Vegas Eternal,Symmetra
+110202,Oasis,MaltheL,Vegas Eternal,Tracer
+110229,Oasis,Rakattack,Vegas Eternal,Lucio
+110249,Oasis,Rakattack,Vegas Eternal,Zenyatta
+110279,King's Row,Aspire,Vancouver Titans,Sojourn
+110299,King's Row,Aspire,Vancouver Titans,Widowmaker
+110315,King's Row,Aztac,Vancouver Titans,Zenyatta
+110351,King's Row,False,Vancouver Titans,Zarya
+110387,King's Row,Skairipa,Vancouver Titans,Baptiste
+110421,King's Row,k1ng,Vancouver Titans,Symmetra
+110428,King's Row,k1ng,Vancouver Titans,Tracer
+110470,King's Row,Dove,Vegas Eternal,Sojourn
+110495,King's Row,Dove,Vegas Eternal,Sombra
+110516,King's Row,Krawi,Vegas Eternal,D.Va
+110537,King's Row,Krawi,Vegas Eternal,Zarya
+110572,King's Row,Lukemino,Vegas Eternal,Ana
+110591,King's Row,Lukemino,Vegas Eternal,Baptiste
+110622,King's Row,MaltheL,Vegas Eternal,Genji
+110642,King's Row,MaltheL,Vegas Eternal,Symmetra
+110647,King's Row,MaltheL,Vegas Eternal,Tracer
+110684,King's Row,Rakattack,Vegas Eternal,Lucio
+110727,Dorado,Aspire,Vancouver Titans,Symmetra
+110733,Dorado,Aspire,Vancouver Titans,Tracer
+110771,Dorado,Aztac,Vancouver Titans,Zenyatta
+110815,Dorado,False,Vancouver Titans,D.Va
+110851,Dorado,Skairipa,Vancouver Titans,Ana
+110885,Dorado,k1ng,Vancouver Titans,Echo
+110907,Dorado,k1ng,Vancouver Titans,Sombra
+110933,Dorado,Dove,Vegas Eternal,Ashe
+110959,Dorado,Dove,Vegas Eternal,Sojourn
+110979,Dorado,Dove,Vegas Eternal,Sombra
+110994,Dorado,Dove,Vegas Eternal,Tracer
+111000,Dorado,Dove,Vegas Eternal,Widowmaker
+111032,Dorado,Krawi,Vegas Eternal,D.Va
+111057,Dorado,Krawi,Vegas Eternal,Orisa
+111090,Dorado,Lukemino,Vegas Eternal,Ana
+111120,Dorado,Lukemino,Vegas Eternal,Baptiste
+111134,Dorado,Lukemino,Vegas Eternal,Lucio
+111165,Dorado,MaltheL,Vegas Eternal,Genji
+111190,Dorado,MaltheL,Vegas Eternal,Tracer
+111221,Dorado,Rakattack,Vegas Eternal,Lucio
+111241,Dorado,Rakattack,Vegas Eternal,Zenyatta
+111280,New Queen Street,Aspire,Vancouver Titans,Sojourn
+111322,New Queen Street,Aztac,Vancouver Titans,Zenyatta
+111361,New Queen Street,False,Vancouver Titans,Zarya
+111395,New Queen Street,Skairipa,Vancouver Titans,Baptiste
+111423,New Queen Street,k1ng,Vancouver Titans,Tracer
+111460,New Queen Street,Dove,Vegas Eternal,Sojourn
+111480,New Queen Street,Dove,Vegas Eternal,Tracer
+111503,New Queen Street,Krawi,Vegas Eternal,D.Va
+111540,New Queen Street,Lukemino,Vegas Eternal,Ana
+111577,New Queen Street,MaltheL,Vegas Eternal,Genji
+111599,New Queen Street,MaltheL,Vegas Eternal,Tracer
+111635,New Queen Street,Rakattack,Vegas Eternal,Zenyatta
+111670,Nepal,Aspire,Vancouver Titans,Sojourn
+111717,Nepal,Aztac,Vancouver Titans,Lucio
+111741,Nepal,Aztac,Vancouver Titans,Zenyatta
+111773,Nepal,MirroR,Vancouver Titans,D.Va
+111786,Nepal,MirroR,Vancouver Titans,Orisa
+111826,Nepal,Skairipa,Vancouver Titans,Baptiste
+111863,Nepal,k1ng,Vancouver Titans,Genji
+111886,Nepal,k1ng,Vancouver Titans,Symmetra
+111901,Nepal,Krawi,Vegas Eternal,D.Va
+111915,Nepal,Krawi,Vegas Eternal,Orisa
+111942,Nepal,Lukemino,Vegas Eternal,Baptiste
+111979,Nepal,MaltheL,Vegas Eternal,Genji
+111999,Nepal,MaltheL,Vegas Eternal,Symmetra
+112017,Nepal,Rakattack,Vegas Eternal,Lucio
+112041,Nepal,Rakattack,Vegas Eternal,Zenyatta
+112074,Nepal,wub,Vegas Eternal,Hanzo
+112087,Nepal,wub,Vegas Eternal,Mei
+112102,Nepal,wub,Vegas Eternal,Sojourn
+112112,Nepal,wub,Vegas Eternal,Tracer
+112131,Busan,Hawk,Atlanta Reign,D.Va
+112153,Busan,Hawk,Atlanta Reign,Doomfist
+112167,Busan,Hawk,Atlanta Reign,Winston
+112184,Busan,Hawk,Atlanta Reign,Zarya
+112225,Busan,Speedily,Atlanta Reign,Echo
+112245,Busan,Speedily,Atlanta Reign,Genji
+112259,Busan,Speedily,Atlanta Reign,Sojourn
+112276,Busan,Speedily,Atlanta Reign,Soldier: 76
+112304,Busan,UltraViolet,Atlanta Reign,Ana
+112327,Busan,UltraViolet,Atlanta Reign,Lucio
+112360,Busan,Venom,Atlanta Reign,Symmetra
+112369,Busan,Venom,Atlanta Reign,Tracer
+112399,Busan,vigilante,Atlanta Reign,Ana
+112426,Busan,vigilante,Atlanta Reign,Zenyatta
+112468,Busan,ChiYo,Dallas Fuel,Lucio
+112504,Busan,Edison,Dallas Fuel,Sojourn
+112534,Busan,Fielder,Dallas Fuel,Baptiste
+112576,Busan,Hanbin,Dallas Fuel,Doomfist
+112582,Busan,Hanbin,Dallas Fuel,Zarya
+112626,Busan,SP9RK1E,Dallas Fuel,Symmetra
+112631,Busan,SP9RK1E,Dallas Fuel,Tracer
+112662,Eichenwalde,Hawk,Atlanta Reign,D.Va
+112686,Eichenwalde,Hawk,Atlanta Reign,Doomfist
+112711,Eichenwalde,Speedily,Atlanta Reign,Echo
+112730,Eichenwalde,Speedily,Atlanta Reign,Sojourn
+112762,Eichenwalde,UltraViolet,Atlanta Reign,Ana
+112805,Eichenwalde,Venom,Atlanta Reign,Symmetra
+112810,Eichenwalde,Venom,Atlanta Reign,Tracer
+112833,Eichenwalde,Venom,Atlanta Reign,Widowmaker
+112852,Eichenwalde,vigilante,Atlanta Reign,Baptiste
+112857,Eichenwalde,vigilante,Atlanta Reign,Lucio
+112863,Eichenwalde,vigilante,Atlanta Reign,Zenyatta
+112902,Eichenwalde,ChiYo,Dallas Fuel,Lucio
+112933,Eichenwalde,Edison,Dallas Fuel,Sojourn
+112977,Eichenwalde,Fielder,Dallas Fuel,Baptiste
+113019,Eichenwalde,Hanbin,Dallas Fuel,Zarya
+113055,Eichenwalde,SP9RK1E,Dallas Fuel,Tracer
+113087,Junkertown,Hawk,Atlanta Reign,D.Va
+113089,Junkertown,Hawk,Atlanta Reign,Zarya
+113123,Junkertown,Kai,Atlanta Reign,Sojourn
+113143,Junkertown,Kai,Atlanta Reign,Widowmaker
+113163,Junkertown,UltraViolet,Atlanta Reign,Baptiste
+113203,Junkertown,Venom,Atlanta Reign,Tracer
+113241,Junkertown,vigilante,Atlanta Reign,Zenyatta
+113279,Junkertown,ChiYo,Dallas Fuel,Lucio
+113318,Junkertown,Edison,Dallas Fuel,Sojourn
+113355,Junkertown,Fielder,Dallas Fuel,Baptiste
+113391,Junkertown,Hanbin,Dallas Fuel,Zarya
+113423,Junkertown,SP9RK1E,Dallas Fuel,Tracer
+113456,New Queen Street,Hawk,Atlanta Reign,D.Va
+113497,New Queen Street,Speedily,Atlanta Reign,Echo
+113512,New Queen Street,Speedily,Atlanta Reign,Sojourn
+113543,New Queen Street,UltraViolet,Atlanta Reign,Ana
+113570,New Queen Street,UltraViolet,Atlanta Reign,Lucio
+113585,New Queen Street,Venom,Atlanta Reign,Tracer
+113623,New Queen Street,vigilante,Atlanta Reign,Zenyatta
+113659,New Queen Street,ChiYo,Dallas Fuel,Lucio
+113702,New Queen Street,Edison,Dallas Fuel,Sojourn
+113738,New Queen Street,Fielder,Dallas Fuel,Baptiste
+113779,New Queen Street,Hanbin,Dallas Fuel,Zarya
+113816,New Queen Street,SP9RK1E,Dallas Fuel,Tracer
+113853,Ilios,Crimzo,Boston Uprising,Ana
+113887,Ilios,MCD,Boston Uprising,Zenyatta
+113923,Ilios,Valentine,Boston Uprising,Symmetra
+113930,Ilios,Valentine,Boston Uprising,Tracer
+113965,Ilios,Victoria,Boston Uprising,Sombra
+114001,Ilios,punk,Boston Uprising,D.Va
+114021,Ilios,punk,Boston Uprising,Zarya
+114046,Ilios,FunnyAstro,Los Angeles Gladiators,Lucio
+114083,Ilios,Happy,Los Angeles Gladiators,Sojourn
+114120,Ilios,Reiner,Los Angeles Gladiators,Zarya
+114158,Ilios,kevster,Los Angeles Gladiators,Symmetra
+114165,Ilios,kevster,Los Angeles Gladiators,Tracer
+114200,Ilios,shu,Los Angeles Gladiators,Baptiste
+114230,Paraíso,Crimzo,Boston Uprising,Ana
+114249,Paraíso,Crimzo,Boston Uprising,Baptiste
+114278,Paraíso,MCD,Boston Uprising,Zenyatta
+114312,Paraíso,Valentine,Boston Uprising,Tracer
+114348,Paraíso,Victoria,Boston Uprising,Sojourn
+114369,Paraíso,Victoria,Boston Uprising,Sombra
+114382,Paraíso,Victoria,Boston Uprising,Widowmaker
+114400,Paraíso,punk,Boston Uprising,D.Va
+114415,Paraíso,punk,Boston Uprising,Winston
+114426,Paraíso,punk,Boston Uprising,Zarya
+114463,Paraíso,FunnyAstro,Los Angeles Gladiators,Lucio
+114502,Paraíso,Happy,Los Angeles Gladiators,Sojourn
+114524,Paraíso,Happy,Los Angeles Gladiators,Sombra
+114550,Paraíso,Reiner,Los Angeles Gladiators,Zarya
+114581,Paraíso,kevster,Los Angeles Gladiators,Hanzo
+114586,Paraíso,kevster,Los Angeles Gladiators,Tracer
+114611,Paraíso,kevster,Los Angeles Gladiators,Widowmaker
+114629,Paraíso,shu,Los Angeles Gladiators,Baptiste
+114671,Dorado,Crimzo,Boston Uprising,Ana
+114704,Dorado,MCD,Boston Uprising,Zenyatta
+114739,Dorado,Valentine,Boston Uprising,Tracer
+114774,Dorado,Victoria,Boston Uprising,Sombra
+114814,Dorado,punk,Boston Uprising,D.Va
+114850,Dorado,Happy,Los Angeles Gladiators,Sombra
+114862,Dorado,Happy,Los Angeles Gladiators,Symmetra
+114881,Dorado,SPACE,Los Angeles Gladiators,D.Va
+114916,Dorado,kevster,Los Angeles Gladiators,Echo
+114936,Dorado,kevster,Los Angeles Gladiators,Tracer
+114953,Dorado,kevster,Los Angeles Gladiators,Widowmaker
+114969,Dorado,shu,Los Angeles Gladiators,Zenyatta
+115001,Dorado,skewed,Los Angeles Gladiators,Ana
+115036,Colosseo,Crimzo,Boston Uprising,Baptiste
+115060,Colosseo,Crimzo,Boston Uprising,Moira
+115093,Colosseo,Faith,Boston Uprising,Lucio
+115127,Colosseo,Valentine,Boston Uprising,Tracer
+115163,Colosseo,Victoria,Boston Uprising,Sojourn
+115196,Colosseo,punk,Boston Uprising,Zarya
+115237,Colosseo,FunnyAstro,Los Angeles Gladiators,Lucio
+115275,Colosseo,Happy,Los Angeles Gladiators,Sojourn
+115314,Colosseo,Reiner,Los Angeles Gladiators,Zarya
+115353,Colosseo,kevster,Los Angeles Gladiators,Tracer
+115387,Colosseo,shu,Los Angeles Gladiators,Baptiste
+115430,Busan,Admiral,London Spitfire,Lucio
+115478,Busan,Backbone,London Spitfire,Mei
+115492,Busan,Backbone,London Spitfire,Sombra
+115527,Busan,Hadi,London Spitfire,Reinhardt
+115565,Busan,Landon,London Spitfire,Baptiste
+115604,Busan,SparkR,London Spitfire,Sojourn
+115635,Busan,Flora,New York Excelsior,Sojourn
+115664,Busan,GangNamJin,New York Excelsior,Lucio
+115685,Busan,GangNamJin,New York Excelsior,Zenyatta
+115723,Busan,HO1,New York Excelsior,Baptiste
+115744,Busan,HO1,New York Excelsior,Lucio
+115766,Busan,Kellan,New York Excelsior,Doomfist
+115782,Busan,Kellan,New York Excelsior,Zarya
+115813,Busan,Yaki,New York Excelsior,Genji
+115830,Busan,Yaki,New York Excelsior,Symmetra
+115835,Busan,Yaki,New York Excelsior,Tracer
+115879,Paraíso,Admiral,London Spitfire,Lucio
+115932,Paraíso,Backbone,London Spitfire,Mei
+115949,Paraíso,Backbone,London Spitfire,Sombra
+115969,Paraíso,Backbone,London Spitfire,Widowmaker
+115992,Paraíso,Hadi,London Spitfire,Reinhardt
+116008,Paraíso,Hadi,London Spitfire,Zarya
+116048,Paraíso,Landon,London Spitfire,Baptiste
+116075,Paraíso,SparkR,London Spitfire,Sojourn
+116108,Paraíso,Flora,New York Excelsior,Sojourn
+116123,Paraíso,Flora,New York Excelsior,Sombra
+116150,Paraíso,GangNamJin,New York Excelsior,Lucio
+116197,Paraíso,HO1,New York Excelsior,Ana
+116224,Paraíso,HO1,New York Excelsior,Baptiste
+116255,Paraíso,Kellan,New York Excelsior,Winston
+116280,Paraíso,Kellan,New York Excelsior,Zarya
+116310,Paraíso,Yaki,New York Excelsior,Genji
+116327,Paraíso,Yaki,New York Excelsior,Tracer
+116340,Paraíso,Yaki,New York Excelsior,Widowmaker
+116360,Route 66,Admiral,London Spitfire,Lucio
+116400,Route 66,Backbone,London Spitfire,Sombra
+116415,Route 66,Backbone,London Spitfire,Tracer
+116446,Route 66,Hadi,London Spitfire,D.Va
+116466,Route 66,Hadi,London Spitfire,Reinhardt
+116482,Route 66,Hadi,London Spitfire,Winston
+116506,Route 66,Landon,London Spitfire,Baptiste
+116547,Route 66,SparkR,London Spitfire,Sojourn
+116577,Route 66,Flora,New York Excelsior,Sojourn
+116599,Route 66,Flora,New York Excelsior,Sombra
+116632,Route 66,GangNamJin,New York Excelsior,Lucio
+116659,Route 66,GangNamJin,New York Excelsior,Zenyatta
+116687,Route 66,HO1,New York Excelsior,Ana
+116729,Route 66,Kellan,New York Excelsior,Doomfist
+116732,Route 66,Kellan,New York Excelsior,Winston
+116759,Route 66,Kellan,New York Excelsior,Zarya
+116787,Route 66,Yaki,New York Excelsior,Tracer
+116823,Ilios,Coluge,San Francisco Shock,D.Va
+116846,Ilios,Coluge,San Francisco Shock,Sigma
+116877,Ilios,FiNN,San Francisco Shock,Zenyatta
+116912,Ilios,Proper,San Francisco Shock,Echo
+116940,Ilios,Proper,San Francisco Shock,Sojourn
+116976,Ilios,STRIKER,San Francisco Shock,Symmetra
+116981,Ilios,STRIKER,San Francisco Shock,Tracer
+117019,Ilios,Viol2t,San Francisco Shock,Ana
+117039,Ilios,Viol2t,San Francisco Shock,Baptiste
+117060,Ilios,Viol2t,San Francisco Shock,Lucio
+117075,Ilios,Dove,Vegas Eternal,Sombra
+117089,Ilios,Dove,Vegas Eternal,Symmetra
+117094,Ilios,Dove,Vegas Eternal,Tracer
+117115,Ilios,Dove,Vegas Eternal,Widowmaker
+117132,Ilios,Krawi,Vegas Eternal,D.Va
+117149,Ilios,Krawi,Vegas Eternal,Zarya
+117184,Ilios,Lukemino,Vegas Eternal,Ana
+117209,Ilios,Lukemino,Vegas Eternal,Baptiste
+117228,Ilios,Lukemino,Vegas Eternal,Moira
+117254,Ilios,MaltheL,Vegas Eternal,Genji
+117275,Ilios,MaltheL,Vegas Eternal,Symmetra
+117279,Ilios,MaltheL,Vegas Eternal,Tracer
+117306,Ilios,Rakattack,Vegas Eternal,Lucio
+117335,Ilios,Rakattack,Vegas Eternal,Zenyatta
+117371,Eichenwalde,Coluge,San Francisco Shock,D.Va
+117392,Eichenwalde,Coluge,San Francisco Shock,Doomfist
+117408,Eichenwalde,Coluge,San Francisco Shock,Sigma
+117441,Eichenwalde,FiNN,San Francisco Shock,Brigitte
+117449,Eichenwalde,FiNN,San Francisco Shock,Lucio
+117467,Eichenwalde,FiNN,San Francisco Shock,Zenyatta
+117499,Eichenwalde,Proper,San Francisco Shock,Genji
+117519,Eichenwalde,Proper,San Francisco Shock,Reaper
+117522,Eichenwalde,Proper,San Francisco Shock,Sojourn
+117543,Eichenwalde,Proper,San Francisco Shock,Widowmaker
+117568,Eichenwalde,STRIKER,San Francisco Shock,Sombra
+117583,Eichenwalde,STRIKER,San Francisco Shock,Tracer
+117605,Eichenwalde,STRIKER,San Francisco Shock,Widowmaker
+117625,Eichenwalde,Viol2t,San Francisco Shock,Baptiste
+117664,Eichenwalde,Dove,Vegas Eternal,Sojourn
+117687,Eichenwalde,Dove,Vegas Eternal,Sombra
+117711,Eichenwalde,Dove,Vegas Eternal,Tracer
+117728,Eichenwalde,Krawi,Vegas Eternal,D.Va
+117750,Eichenwalde,Krawi,Vegas Eternal,Zarya
+117780,Eichenwalde,Lukemino,Vegas Eternal,Baptiste
+117799,Eichenwalde,Lukemino,Vegas Eternal,Moira
+117830,Eichenwalde,MaltheL,Vegas Eternal,Genji
+117852,Eichenwalde,MaltheL,Vegas Eternal,Tracer
+117884,Eichenwalde,Rakattack,Vegas Eternal,Lucio
+117927,Route 66,Coluge,San Francisco Shock,Doomfist
+117947,Route 66,Coluge,San Francisco Shock,Sigma
+117969,Route 66,Coluge,San Francisco Shock,Zarya
+118002,Route 66,FiNN,San Francisco Shock,Lucio
+118033,Route 66,FiNN,San Francisco Shock,Zenyatta
+118069,Route 66,Proper,San Francisco Shock,Genji
+118085,Route 66,Proper,San Francisco Shock,Sojourn
+118114,Route 66,STRIKER,San Francisco Shock,Hanzo
+118118,Route 66,STRIKER,San Francisco Shock,Sojourn
+118140,Route 66,STRIKER,San Francisco Shock,Sombra
+118160,Route 66,STRIKER,San Francisco Shock,Tracer
+118200,Route 66,Viol2t,San Francisco Shock,Baptiste
+118236,Route 66,Dove,Vegas Eternal,Genji
+118239,Route 66,Dove,Vegas Eternal,Sojourn
+118251,Route 66,Dove,Vegas Eternal,Sombra
+118269,Route 66,Dove,Vegas Eternal,Symmetra
+118287,Route 66,Krawi,Vegas Eternal,D.Va
+118311,Route 66,Krawi,Vegas Eternal,Sigma
+118328,Route 66,Krawi,Vegas Eternal,Zarya
+118355,Route 66,Lukemino,Vegas Eternal,Baptiste
+118379,Route 66,Lukemino,Vegas Eternal,Lucio
+118397,Route 66,Lukemino,Vegas Eternal,Moira
+118432,Route 66,MaltheL,Vegas Eternal,Genji
+118456,Route 66,MaltheL,Vegas Eternal,Tracer
+118492,Route 66,Rakattack,Vegas Eternal,Lucio
+118519,Route 66,Rakattack,Vegas Eternal,Zenyatta
+118562,Ilios,Anamo,Florida Mayhem,Lucio
+118593,Ilios,Checkmate,Florida Mayhem,Genji
+118621,Ilios,Hydron,Florida Mayhem,Sojourn
+118644,Ilios,Hydron,Florida Mayhem,Symmetra
+118669,Ilios,Rupal,Florida Mayhem,Baptiste
+118705,Ilios,Someone,Florida Mayhem,Zarya
+118736,Ilios,Although,Toronto Defiant,Symmetra
+118741,Ilios,Although,Toronto Defiant,Tracer
+118774,Ilios,CH0R0NG,Toronto Defiant,Lucio
+118818,Ilios,HOTBA,Toronto Defiant,Doomfist
+118823,Ilios,HOTBA,Toronto Defiant,Zarya
+118862,Ilios,Heesu,Toronto Defiant,Sojourn
+118882,Ilios,Heesu,Toronto Defiant,Widowmaker
+118902,Ilios,Twilight,Toronto Defiant,Baptiste
+118942,Eichenwalde,Anamo,Florida Mayhem,Lucio
+118980,Eichenwalde,Checkmate,Florida Mayhem,Genji
+119014,Eichenwalde,Hydron,Florida Mayhem,Sojourn
+119057,Eichenwalde,Rupal,Florida Mayhem,Baptiste
+119101,Eichenwalde,Someone,Florida Mayhem,Zarya
+119131,Eichenwalde,Although,Toronto Defiant,Genji
+119148,Eichenwalde,Although,Toronto Defiant,Tracer
+119185,Eichenwalde,CH0R0NG,Toronto Defiant,Lucio
+119221,Eichenwalde,HOTBA,Toronto Defiant,Zarya
+119261,Eichenwalde,Heesu,Toronto Defiant,Sojourn
+119287,Eichenwalde,Heesu,Toronto Defiant,Tracer
+119299,Eichenwalde,Heesu,Toronto Defiant,Widowmaker
+119319,Eichenwalde,Twilight,Toronto Defiant,Ana
+119334,Eichenwalde,Twilight,Toronto Defiant,Baptiste
+119379,Junkertown,Anamo,Florida Mayhem,Lucio
+119418,Junkertown,Checkmate,Florida Mayhem,Genji
+119443,Junkertown,Checkmate,Florida Mayhem,Soldier: 76
+119449,Junkertown,Checkmate,Florida Mayhem,Sombra
+119468,Junkertown,Checkmate,Florida Mayhem,Tracer
+119490,Junkertown,Hydron,Florida Mayhem,Sojourn
+119523,Junkertown,Rupal,Florida Mayhem,Baptiste
+119563,Junkertown,Someone,Florida Mayhem,Zarya
+119598,Junkertown,Although,Toronto Defiant,Genji
+119624,Junkertown,Although,Toronto Defiant,Sombra
+119647,Junkertown,CH0R0NG,Toronto Defiant,Lucio
+119677,Junkertown,CH0R0NG,Toronto Defiant,Moira
+119696,Junkertown,HOTBA,Toronto Defiant,Roadhog
+119700,Junkertown,HOTBA,Toronto Defiant,Zarya
+119734,Junkertown,Heesu,Toronto Defiant,Sojourn
+119759,Junkertown,Heesu,Toronto Defiant,Widowmaker
+119778,Junkertown,Twilight,Toronto Defiant,Ana
+119792,Junkertown,Twilight,Toronto Defiant,Baptiste
+119840,Nepal,Admiral,London Spitfire,Lucio
+119875,Nepal,Backbone,London Spitfire,Mei
+119890,Nepal,Backbone,London Spitfire,Sombra
+119926,Nepal,Hadi,London Spitfire,Reinhardt
+119955,Nepal,Landon,London Spitfire,Baptiste
+119997,Nepal,SparkR,London Spitfire,Sojourn
+120014,Nepal,SparkR,London Spitfire,Symmetra
+120031,Nepal,FiNN,San Francisco Shock,Lucio
+120057,Nepal,FiNN,San Francisco Shock,Zenyatta
+120097,Nepal,Proper,San Francisco Shock,Pharah
+120108,Nepal,Proper,San Francisco Shock,Sojourn
+120138,Nepal,Proper,San Francisco Shock,Symmetra
+120157,Nepal,STRIKER,San Francisco Shock,Junkrat
+120164,Nepal,STRIKER,San Francisco Shock,Mei
+120183,Nepal,STRIKER,San Francisco Shock,Soldier: 76
+120210,Nepal,STRIKER,San Francisco Shock,Sombra
+120224,Nepal,STRIKER,San Francisco Shock,Symmetra
+120246,Nepal,Viol2t,San Francisco Shock,Baptiste
+120282,Nepal,mikeyy,San Francisco Shock,Orisa
+120301,Nepal,mikeyy,San Francisco Shock,Winston
+120327,Nepal,mikeyy,San Francisco Shock,Wrecking Ball
+120360,King's Row,Admiral,London Spitfire,Lucio
+120398,King's Row,Backbone,London Spitfire,Mei
+120421,King's Row,Backbone,London Spitfire,Sombra
+120438,King's Row,Backbone,London Spitfire,Widowmaker
+120459,King's Row,Hadi,London Spitfire,Reinhardt
+120493,King's Row,Landon,London Spitfire,Baptiste
+120519,King's Row,Landon,London Spitfire,Moira
+120532,King's Row,SparkR,London Spitfire,Sojourn
+120573,King's Row,Coluge,San Francisco Shock,D.Va
+120599,King's Row,Coluge,San Francisco Shock,Doomfist
+120615,King's Row,Coluge,San Francisco Shock,Sigma
+120625,King's Row,Coluge,San Francisco Shock,Winston
+120668,King's Row,FiNN,San Francisco Shock,Lucio
+120695,King's Row,FiNN,San Francisco Shock,Zenyatta
+120737,King's Row,Proper,San Francisco Shock,Genji
+120754,King's Row,Proper,San Francisco Shock,Sojourn
+120775,King's Row,Proper,San Francisco Shock,Widowmaker
+120796,King's Row,STRIKER,San Francisco Shock,Genji
+120817,King's Row,STRIKER,San Francisco Shock,Sombra
+120837,King's Row,STRIKER,San Francisco Shock,Tracer
+120867,King's Row,Viol2t,San Francisco Shock,Baptiste
+120914,Circuit royal,Admiral,London Spitfire,Lucio
+120951,Circuit royal,Backbone,London Spitfire,Sombra
+120974,Circuit royal,Hadi,London Spitfire,Reinhardt
+120988,Circuit royal,Hadi,London Spitfire,Winston
+121005,Circuit royal,Landon,London Spitfire,Baptiste
+121044,Circuit royal,SparkR,London Spitfire,Sojourn
+121073,Circuit royal,Coluge,San Francisco Shock,Sigma
+121106,Circuit royal,FiNN,San Francisco Shock,Zenyatta
+121142,Circuit royal,Kilo,San Francisco Shock,Sojourn
+121176,Circuit royal,Proper,San Francisco Shock,Bastion
+121192,Circuit royal,Proper,San Francisco Shock,Widowmaker
+121220,Circuit royal,Viol2t,San Francisco Shock,Baptiste
+121252,Colosseo,Admiral,London Spitfire,Lucio
+121282,Colosseo,Backbone,London Spitfire,Sombra
+121312,Colosseo,Hadi,London Spitfire,Reinhardt
+121343,Colosseo,Landon,London Spitfire,Baptiste
+121387,Colosseo,SparkR,London Spitfire,Sojourn
+121425,Colosseo,Coluge,San Francisco Shock,Sigma
+121441,Colosseo,Coluge,San Francisco Shock,Winston
+121480,Colosseo,FiNN,San Francisco Shock,Ana
+121492,Colosseo,FiNN,San Francisco Shock,Zenyatta
+121521,Colosseo,Kilo,San Francisco Shock,Sojourn
+121552,Colosseo,Proper,San Francisco Shock,Genji
+121575,Colosseo,Proper,San Francisco Shock,Hanzo
+121612,Colosseo,Viol2t,San Francisco Shock,Baptiste
+121644,Ilios,Admiral,London Spitfire,Lucio
+121688,Ilios,Backbone,London Spitfire,Mei
+121708,Ilios,Backbone,London Spitfire,Sombra
+121721,Ilios,Backbone,London Spitfire,Symmetra
+121728,Ilios,Backbone,London Spitfire,Tracer
+121748,Ilios,Backbone,London Spitfire,Widowmaker
+121768,Ilios,Hadi,London Spitfire,Reinhardt
+121803,Ilios,Landon,London Spitfire,Baptiste
+121830,Ilios,Landon,London Spitfire,Moira
+121846,Ilios,SparkR,London Spitfire,Sojourn
+121859,Ilios,SparkR,London Spitfire,Symmetra
+121876,Ilios,Coluge,San Francisco Shock,D.Va
+121895,Ilios,Coluge,San Francisco Shock,Winston
+121920,Ilios,Coluge,San Francisco Shock,Zarya
+121952,Ilios,FiNN,San Francisco Shock,Lucio
+121966,Ilios,FiNN,San Francisco Shock,Zenyatta
+121991,Ilios,Proper,San Francisco Shock,Echo
+122011,Ilios,Proper,San Francisco Shock,Sojourn
+122034,Ilios,Proper,San Francisco Shock,Symmetra
+122054,Ilios,STRIKER,San Francisco Shock,Sombra
+122073,Ilios,STRIKER,San Francisco Shock,Symmetra
+122081,Ilios,STRIKER,San Francisco Shock,Tracer
+122116,Ilios,Viol2t,San Francisco Shock,Baptiste
+122158,Lijiang Tower,Crimzo,Boston Uprising,Baptiste
+122197,Lijiang Tower,Faith,Boston Uprising,Lucio
+122232,Lijiang Tower,Seeker,Boston Uprising,Sojourn
+122273,Lijiang Tower,Victoria,Boston Uprising,Genji
+122294,Lijiang Tower,Victoria,Boston Uprising,Tracer
+122320,Lijiang Tower,punk,Boston Uprising,Doomfist
+122327,Lijiang Tower,punk,Boston Uprising,Zarya
+122366,Lijiang Tower,Flora,New York Excelsior,Sojourn
+122409,Lijiang Tower,GangNamJin,New York Excelsior,Lucio
+122451,Lijiang Tower,HO1,New York Excelsior,Baptiste
+122490,Lijiang Tower,Kellan,New York Excelsior,Doomfist
+122498,Lijiang Tower,Kellan,New York Excelsior,Zarya
+122534,Lijiang Tower,Yaki,New York Excelsior,Genji
+122567,Eichenwalde,Crimzo,Boston Uprising,Baptiste
+122607,Eichenwalde,Faith,Boston Uprising,Lucio
+122647,Eichenwalde,Seeker,Boston Uprising,Sojourn
+122670,Eichenwalde,Seeker,Boston Uprising,Tracer
+122690,Eichenwalde,Victoria,Boston Uprising,Genji
+122717,Eichenwalde,Victoria,Boston Uprising,Widowmaker
+122737,Eichenwalde,punk,Boston Uprising,Zarya
+122773,Eichenwalde,Flora,New York Excelsior,Sojourn
+122810,Eichenwalde,GangNamJin,New York Excelsior,Lucio
+122850,Eichenwalde,HO1,New York Excelsior,Baptiste
+122892,Eichenwalde,Kellan,New York Excelsior,Zarya
+122938,Eichenwalde,Yaki,New York Excelsior,Genji
+122969,Circuit royal,Crimzo,Boston Uprising,Baptiste
+123001,Circuit royal,Faith,Boston Uprising,Lucio
+123035,Circuit royal,Seeker,Boston Uprising,Sojourn
+123057,Circuit royal,Seeker,Boston Uprising,Tracer
+123062,Circuit royal,Seeker,Boston Uprising,Widowmaker
+123079,Circuit royal,Victoria,Boston Uprising,Genji
+123100,Circuit royal,Victoria,Boston Uprising,Hanzo
+123107,Circuit royal,Victoria,Boston Uprising,Widowmaker
+123127,Circuit royal,punk,Boston Uprising,Doomfist
+123137,Circuit royal,punk,Boston Uprising,Zarya
+123171,Circuit royal,Flora,New York Excelsior,Sojourn
+123210,Circuit royal,GangNamJin,New York Excelsior,Lucio
+123231,Circuit royal,GangNamJin,New York Excelsior,Zenyatta
+123260,Circuit royal,HO1,New York Excelsior,Baptiste
+123299,Circuit royal,Kellan,New York Excelsior,Doomfist
+123313,Circuit royal,Kellan,New York Excelsior,Zarya
+123342,Circuit royal,Yaki,New York Excelsior,Genji
+123368,Circuit royal,Yaki,New York Excelsior,Widowmaker
+123396,New Queen Street,Crimzo,Boston Uprising,Baptiste
+123434,New Queen Street,Faith,Boston Uprising,Lucio
+123476,New Queen Street,Seeker,Boston Uprising,Sojourn
+123510,New Queen Street,Victoria,Boston Uprising,Genji
+123535,New Queen Street,Victoria,Boston Uprising,Soldier: 76
+123574,New Queen Street,punk,Boston Uprising,Zarya
+123610,New Queen Street,Flora,New York Excelsior,Sojourn
+123648,New Queen Street,GangNamJin,New York Excelsior,Lucio
+123681,New Queen Street,HO1,New York Excelsior,Baptiste
+123725,New Queen Street,Kellan,New York Excelsior,Zarya
+123760,New Queen Street,Yaki,New York Excelsior,Genji
+123798,Nepal,Anamo,Florida Mayhem,Lucio
+123829,Nepal,Checkmate,Florida Mayhem,Genji
+123851,Nepal,Checkmate,Florida Mayhem,Mei
+123872,Nepal,Checkmate,Florida Mayhem,Tracer
+123899,Nepal,Hydron,Florida Mayhem,Sojourn
+123913,Nepal,Hydron,Florida Mayhem,Symmetra
+123935,Nepal,Rupal,Florida Mayhem,Ana
+123960,Nepal,Rupal,Florida Mayhem,Baptiste
+123997,Nepal,Someone,Florida Mayhem,Reinhardt
+124010,Nepal,Someone,Florida Mayhem,Winston
+124035,Nepal,Someone,Florida Mayhem,Zarya
+124066,Nepal,Creative,Houston Outlaws,Ana
+124092,Nepal,Creative,Houston Outlaws,Baptiste
+124126,Nepal,Danteh,Houston Outlaws,Orisa
+124141,Nepal,Danteh,Houston Outlaws,Zarya
+124181,Nepal,Lastro,Houston Outlaws,Lucio
+124226,Nepal,MER1T,Houston Outlaws,Sojourn
+124248,Nepal,MER1T,Houston Outlaws,Symmetra
+124272,Nepal,PELICAN,Houston Outlaws,Genji
+124294,Nepal,PELICAN,Houston Outlaws,Mei
+124323,Eichenwalde,Anamo,Florida Mayhem,Lucio
+124363,Eichenwalde,Checkmate,Florida Mayhem,Genji
+124404,Eichenwalde,Hydron,Florida Mayhem,Sojourn
+124447,Eichenwalde,Rupal,Florida Mayhem,Baptiste
+124486,Eichenwalde,Someone,Florida Mayhem,Zarya
+124516,Eichenwalde,Creative,Houston Outlaws,Baptiste
+124545,Eichenwalde,Danteh,Houston Outlaws,Zarya
+124585,Eichenwalde,Lastro,Houston Outlaws,Lucio
+124622,Eichenwalde,MER1T,Houston Outlaws,Sojourn
+124654,Eichenwalde,PELICAN,Houston Outlaws,Genji
+124692,Dorado,Anamo,Florida Mayhem,Brigitte
+124706,Dorado,Anamo,Florida Mayhem,Lucio
+124745,Dorado,Checkmate,Florida Mayhem,Genji
+124767,Dorado,Checkmate,Florida Mayhem,Tracer
+124798,Dorado,Hydron,Florida Mayhem,Hanzo
+124809,Dorado,Hydron,Florida Mayhem,Sojourn
+124838,Dorado,Hydron,Florida Mayhem,Widowmaker
+124878,Dorado,Rupal,Florida Mayhem,Ana
+124902,Dorado,Rupal,Florida Mayhem,Baptiste
+124944,Dorado,Someone,Florida Mayhem,Roadhog
+124950,Dorado,Someone,Florida Mayhem,Winston
+124979,Dorado,Someone,Florida Mayhem,Zarya
+125019,Dorado,Creative,Houston Outlaws,Ana
+125049,Dorado,Creative,Houston Outlaws,Baptiste
+125085,Dorado,Danteh,Houston Outlaws,D.Va
+125109,Dorado,Danteh,Houston Outlaws,Zarya
+125147,Dorado,Lastro,Houston Outlaws,Lucio
+125168,Dorado,Lastro,Houston Outlaws,Zenyatta
+125201,Dorado,MER1T,Houston Outlaws,Sojourn
+125226,Dorado,MER1T,Houston Outlaws,Sombra
+125253,Dorado,PELICAN,Houston Outlaws,Genji
+125280,Dorado,PELICAN,Houston Outlaws,Tracer
+125300,New Queen Street,Anamo,Florida Mayhem,Lucio
+125337,New Queen Street,Checkmate,Florida Mayhem,Genji
+125377,New Queen Street,Hydron,Florida Mayhem,Sojourn
+125410,New Queen Street,Rupal,Florida Mayhem,Baptiste
+125440,New Queen Street,Someone,Florida Mayhem,Zarya
+125477,New Queen Street,Creative,Houston Outlaws,Baptiste
+125516,New Queen Street,Danteh,Houston Outlaws,Zarya
+125549,New Queen Street,Lastro,Houston Outlaws,Lucio
+125593,New Queen Street,MER1T,Houston Outlaws,Sojourn
+125626,New Queen Street,PELICAN,Houston Outlaws,Genji
+125659,Busan,Crimzo,Boston Uprising,Baptiste
+125692,Busan,Faith,Boston Uprising,Lucio
+125723,Busan,Seeker,Boston Uprising,Sojourn
+125757,Busan,Victoria,Boston Uprising,Genji
+125773,Busan,Victoria,Boston Uprising,Soldier: 76
+125807,Busan,punk,Boston Uprising,Zarya
+125833,Busan,Dove,Vegas Eternal,Sojourn
+125864,Busan,Krawi,Vegas Eternal,Zarya
+125900,Busan,Lukemino,Vegas Eternal,Baptiste
+125938,Busan,MaltheL,Vegas Eternal,Genji
+125961,Busan,MaltheL,Vegas Eternal,Symmetra
+125969,Busan,MaltheL,Vegas Eternal,Tracer
+126007,Busan,Rakattack,Vegas Eternal,Lucio
+126048,King's Row,Crimzo,Boston Uprising,Baptiste
+126075,King's Row,Crimzo,Boston Uprising,Mercy
+126096,King's Row,Faith,Boston Uprising,Lucio
+126143,King's Row,Seeker,Boston Uprising,Sojourn
+126163,King's Row,Seeker,Boston Uprising,Widowmaker
+126186,King's Row,Victoria,Boston Uprising,Genji
+126207,King's Row,Victoria,Boston Uprising,Sojourn
+126234,King's Row,punk,Boston Uprising,Zarya
+126262,King's Row,Dove,Vegas Eternal,Sojourn
+126289,King's Row,Dove,Vegas Eternal,Tracer
+126307,King's Row,Krawi,Vegas Eternal,Zarya
+126341,King's Row,Lukemino,Vegas Eternal,Baptiste
+126370,King's Row,MaltheL,Vegas Eternal,Genji
+126385,King's Row,MaltheL,Vegas Eternal,Tracer
+126399,King's Row,MaltheL,Vegas Eternal,Widowmaker
+126418,King's Row,Rakattack,Vegas Eternal,Lucio
+126460,Junkertown,Crimzo,Boston Uprising,Baptiste
+126501,Junkertown,Faith,Boston Uprising,Lucio
+126529,Junkertown,Faith,Boston Uprising,Zenyatta
+126546,Junkertown,Seeker,Boston Uprising,Hanzo
+126561,Junkertown,Seeker,Boston Uprising,Sojourn
+126599,Junkertown,Victoria,Boston Uprising,Genji
+126633,Junkertown,punk,Boston Uprising,Zarya
+126673,Junkertown,Dove,Vegas Eternal,Ashe
+126684,Junkertown,Dove,Vegas Eternal,Sojourn
+126714,Junkertown,Krawi,Vegas Eternal,D.Va
+126734,Junkertown,Krawi,Vegas Eternal,Zarya
+126771,Junkertown,Lukemino,Vegas Eternal,Baptiste
+126797,Junkertown,Lukemino,Vegas Eternal,Moira
+126809,Junkertown,MaltheL,Vegas Eternal,Genji
+126832,Junkertown,MaltheL,Vegas Eternal,Tracer
+126853,Junkertown,Rakattack,Vegas Eternal,Lucio
+126878,Junkertown,Rakattack,Vegas Eternal,Mercy
+126883,Junkertown,Rakattack,Vegas Eternal,Moira
+126900,New Queen Street,Crimzo,Boston Uprising,Baptiste
+126941,New Queen Street,Faith,Boston Uprising,Lucio
+126976,New Queen Street,Seeker,Boston Uprising,Sojourn
+127017,New Queen Street,Victoria,Boston Uprising,Genji
+127039,New Queen Street,Victoria,Boston Uprising,Reaper
+127047,New Queen Street,Victoria,Boston Uprising,Soldier: 76
+127072,New Queen Street,Victoria,Boston Uprising,Tracer
+127101,New Queen Street,punk,Boston Uprising,Zarya
+127128,New Queen Street,Dove,Vegas Eternal,Sojourn
+127162,New Queen Street,Krawi,Vegas Eternal,Zarya
+127200,New Queen Street,Lukemino,Vegas Eternal,Baptiste
+127229,New Queen Street,Lukemino,Vegas Eternal,Brigitte
+127231,New Queen Street,Lukemino,Vegas Eternal,Moira
+127250,New Queen Street,MaltheL,Vegas Eternal,Tracer
+127292,New Queen Street,Rakattack,Vegas Eternal,Lucio
+127322,Ilios,Creative,Houston Outlaws,Baptiste
+127362,Ilios,Danteh,Houston Outlaws,Zarya
+127404,Ilios,Lastro,Houston Outlaws,Lucio
+127448,Ilios,MER1T,Houston Outlaws,Sojourn
+127476,Ilios,MER1T,Houston Outlaws,Symmetra
+127493,Ilios,PELICAN,Houston Outlaws,Genji
+127531,Ilios,CH0R0NG,Toronto Defiant,Lucio
+127556,Ilios,CH0R0NG,Toronto Defiant,Zenyatta
+127596,Ilios,Finale,Toronto Defiant,Symmetra
+127602,Ilios,Finale,Toronto Defiant,Tracer
+127634,Ilios,HOTBA,Toronto Defiant,D.Va
+127654,Ilios,HOTBA,Toronto Defiant,Zarya
+127683,Ilios,Heesu,Toronto Defiant,Sojourn
+127700,Ilios,Heesu,Toronto Defiant,Sombra
+127729,Ilios,Twilight,Toronto Defiant,Ana
+127751,Ilios,Twilight,Toronto Defiant,Baptiste
+127783,King's Row,Creative,Houston Outlaws,Baptiste
+127824,King's Row,Danteh,Houston Outlaws,Doomfist
+127831,King's Row,Danteh,Houston Outlaws,Zarya
+127864,King's Row,Lastro,Houston Outlaws,Lucio
+127907,King's Row,MER1T,Houston Outlaws,Sojourn
+127943,King's Row,PELICAN,Houston Outlaws,Genji
+127975,King's Row,PELICAN,Houston Outlaws,Tracer
+128003,King's Row,CH0R0NG,Toronto Defiant,Lucio
+128033,King's Row,Finale,Toronto Defiant,Genji
+128055,King's Row,Finale,Toronto Defiant,Symmetra
+128063,King's Row,Finale,Toronto Defiant,Tracer
+128073,King's Row,Finale,Toronto Defiant,Widowmaker
+128097,King's Row,HOTBA,Toronto Defiant,Zarya
+128136,King's Row,Heesu,Toronto Defiant,Sojourn
+128163,King's Row,Heesu,Toronto Defiant,Widowmaker
+128186,King's Row,Twilight,Toronto Defiant,Ana
+128218,King's Row,Twilight,Toronto Defiant,Baptiste
+128255,Dorado,Creative,Houston Outlaws,Ana
+128279,Dorado,Creative,Houston Outlaws,Baptiste
+128321,Dorado,Danteh,Houston Outlaws,D.Va
+128341,Dorado,Danteh,Houston Outlaws,Doomfist
+128350,Dorado,Danteh,Houston Outlaws,Zarya
+128379,Dorado,Lastro,Houston Outlaws,Lucio
+128406,Dorado,Lastro,Houston Outlaws,Zenyatta
+128441,Dorado,MER1T,Houston Outlaws,Sojourn
+128475,Dorado,PELICAN,Houston Outlaws,Genji
+128494,Dorado,PELICAN,Houston Outlaws,Tracer
+128525,Dorado,CH0R0NG,Toronto Defiant,Brigitte
+128543,Dorado,CH0R0NG,Toronto Defiant,Lucio
+128586,Dorado,Finale,Toronto Defiant,Symmetra
+128598,Dorado,Finale,Toronto Defiant,Tracer
+128644,Dorado,HOTBA,Toronto Defiant,Wrecking Ball
+128653,Dorado,HOTBA,Toronto Defiant,Zarya
+128691,Dorado,Heesu,Toronto Defiant,Sojourn
+128726,Dorado,Twilight,Toronto Defiant,Ana
+128747,Dorado,Twilight,Toronto Defiant,Baptiste
+128777,Colosseo,Creative,Houston Outlaws,Baptiste
+128814,Colosseo,Danteh,Houston Outlaws,Doomfist
+128825,Colosseo,Danteh,Houston Outlaws,Zarya
+128859,Colosseo,Lastro,Houston Outlaws,Lucio
+128890,Colosseo,MER1T,Houston Outlaws,Sojourn
+128926,Colosseo,PELICAN,Houston Outlaws,Genji
+128945,Colosseo,PELICAN,Houston Outlaws,Tracer
+128970,Colosseo,CH0R0NG,Toronto Defiant,Lucio
+129008,Colosseo,Finale,Toronto Defiant,Genji
+129030,Colosseo,Finale,Toronto Defiant,Tracer
+129068,Colosseo,HOTBA,Toronto Defiant,Zarya
+129106,Colosseo,Heesu,Toronto Defiant,Sojourn
+129152,Colosseo,Twilight,Toronto Defiant,Ana
+129181,Colosseo,Twilight,Toronto Defiant,Baptiste
+158294,Lijiang Tower,Void,Shanghai Dragons,Zarya
+182988,Paraíso,ChoiSehwan,Guangzhou Charge,Hanzo
+186542,King's Row,punk,Boston Uprising,Doomfist
+198916,Junkertown,Kalios,Washington Justice,Wrecking Ball
+208615,Junkertown,SP9RK1E,Dallas Fuel,Widowmaker
