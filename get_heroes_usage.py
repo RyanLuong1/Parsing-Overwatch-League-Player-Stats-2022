@@ -14,7 +14,7 @@ tank_heroes = ["D.va", "Doomfist", "Junker Queen", "Orisa", "Ramattra", "Reinhar
 kickoff_clash_heroes = kickoff_clash_df.drop_duplicates(subset=['esports_match_id', "map_name", "map_type", "player_name", "team_name", "hero_name"]) \
                        .loc[kickoff_clash_df.hero_name != "All Heroes"] \
                        .loc[:, ["map_name", "player_name", "team_name", "hero_name"]]
-kickoff_clash_global_heroes_usage = kickoff_clash_heroes.groupby(["hero_name"]).size()
+kickoff_clash_global_heroes_usage = kickoff_clash_heroes.groupby(["hero_name"]).size().to_frame("total_times_played")
 kickoff_clash_support_players_heroes_usage = kickoff_clash_heroes[kickoff_clash_heroes.hero_name.isin(support_heroes)] \
                                             .groupby(["player_name", "team_name", "hero_name"]) \
                                             .size().to_frame("times_played")
@@ -32,7 +32,7 @@ kickoff_clash_tank_players_heroes_usage["total_times_played"] = kickoff_clash_ta
 summer_showdown_heroes = summer_showdown_df.drop_duplicates(subset=['esports_match_id', "map_name", "map_type", "player_name", "team_name", "hero_name"]) \
                        .loc[summer_showdown_df.hero_name != "All Heroes"] \
                        .loc[:, ["map_name", "player_name", "team_name", "hero_name"]]
-summer_showdown_global_heroes_usage = summer_showdown_heroes.groupby(["hero_name"]).size()
+summer_showdown_global_heroes_usage = summer_showdown_heroes.groupby(["hero_name"]).size().to_frame("total_times_played")
 summer_showdown_support_players_heroes_usage = summer_showdown_heroes[summer_showdown_heroes.hero_name.isin(support_heroes)] \
                                             .groupby(["player_name", "team_name", "hero_name"]) \
                                             .size().to_frame("times_played")
@@ -49,7 +49,7 @@ summer_showdown_tank_players_heroes_usage["total_times_played"] = summer_showdow
 midseason_madness_heroes = midseason_madness_df.drop_duplicates(subset=['esports_match_id', "map_name", "map_type", "player_name", "team_name", "hero_name"]) \
                        .loc[midseason_madness_df.hero_name != "All Heroes"] \
                        .loc[:, ["map_name", "player_name", "team_name", "hero_name"]]
-midseason_madness_global_heroes_usage = midseason_madness_heroes.groupby(["hero_name"]).size()
+midseason_madness_global_heroes_usage = midseason_madness_heroes.groupby(["hero_name"]).size().to_frame("total_times_played")
 midseason_madness_support_players_heroes_usage = midseason_madness_heroes[midseason_madness_heroes.hero_name.isin(support_heroes)] \
                                             .groupby(["player_name", "team_name", "hero_name"]) \
                                             .size().to_frame("times_played")
@@ -66,7 +66,7 @@ midseason_madness_tank_players_heroes_usage["total_times_played"] = midseason_ma
 countdown_cup_heroes = countdown_cup_df.drop_duplicates(subset=['esports_match_id', "map_name", "map_type", "player_name", "team_name", "hero_name"]) \
                        .loc[countdown_cup_df.hero_name != "All Heroes"] \
                        .loc[:, ["map_name", "player_name", "team_name", "hero_name"]]
-countdown_cup_global_heroes_usage = countdown_cup_heroes.groupby(["hero_name"]).size()
+countdown_cup_global_heroes_usage = countdown_cup_heroes.groupby(["hero_name"]).size().to_frame("total_times_played")
 countdown_cup_support_players_heroes_usage = countdown_cup_heroes[countdown_cup_heroes.hero_name.isin(support_heroes)] \
                                             .groupby(["player_name", "team_name", "hero_name"]) \
                                             .size().to_frame("times_played")
@@ -83,7 +83,7 @@ countdown_cup_tank_players_heroes_usage["total_times_played"] = countdown_cup_ta
 grand_finals_heroes = grand_finals_df.drop_duplicates(subset=['esports_match_id', "map_name", "map_type", "player_name", "team_name", "hero_name"]) \
                        .loc[grand_finals_df.hero_name != "All Heroes"] \
                        .loc[:, ["map_name", "player_name", "team_name", "hero_name"]]
-grand_finals_global_heroes_usage = grand_finals_heroes.groupby(["hero_name"]).size()
+grand_finals_global_heroes_usage = grand_finals_heroes.groupby(["hero_name"]).size().to_frame("total_times_played")
 grand_finals_support_players_heroes_usage = grand_finals_heroes[grand_finals_heroes.hero_name.isin(support_heroes)] \
                                             .groupby(["player_name", "team_name", "hero_name"]) \
                                             .size().to_frame("times_played")
