@@ -7,9 +7,9 @@ summer_showdown_df = owl_df[owl_df.tournament_title.isin(["Summer Showdown: Qual
 countdown_cup_df = owl_df[owl_df.tournament_title.isin(["Countdown Cup: Qualifiers"])]
 grand_finals_df =  owl_df[owl_df.tournament_title.isin(["Postseason"])]
 
-kickoff_clash_df.to_csv("kickoff_clash/main/kickoff_clash_2022.csv", index=False)
-midseason_madness_df.to_csv("midseason_madness/main/midseason_madness_2022.csv", index=False)
-summer_showdown_df.to_csv("summer_showdown/main/summer_showdown_2022.csv", index=False)
-countdown_cup_df.to_csv("countdown_cup/main/countdown_cup_2022.csv", index=False)
-grand_finals_df.to_csv("grand_finals/main/grand_finals_2022.csv", index=False)
+kickoff_clash_df.to_csv("kickoff-clash/main/kickoff-clash-2022.csv", index=False)
+midseason_madness_df.to_csv("midseason-madness/main/midseason-madness-2022.csv", index=False)
+summer_showdown_df.to_csv("summer-showdown/main/summer-showdown-2022.csv", index=False)
+countdown_cup_df.to_csv("countdown-cup/main/countdown-cup-2022.csv", index=False)
+grand_finals_df.to_csv("grand-finals/main/grand-finals-2022.csv", index=False)
 

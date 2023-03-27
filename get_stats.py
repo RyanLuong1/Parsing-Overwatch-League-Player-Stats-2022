@@ -1,10 +1,10 @@
 import pandas as pd
 
-kickoff_clash_df = pd.read_csv('kickoff_clash/main/kickoff_clash_2022.csv')
-summer_showdown_df = pd.read_csv('summer_showdown/main/summer_showdown_2022.csv')
-midseason_madness_df = pd.read_csv('midseason_madness/main/midseason_madness_2022.csv')
-countdown_cup_df = pd.read_csv('countdown_cup/main/countdown_cup_2022.csv')
-grand_finals_df = pd.read_csv('grand_finals/main/grand_finals_2022.csv')
+kickoff_clash_df = pd.read_csv('kickoff-clash/main/kickoff-clash-2022.csv')
+summer_showdown_df = pd.read_csv('summer-showdown/main/summer-showdown-2022.csv')
+midseason_madness_df = pd.read_csv('midseason-madness/main/midseason-madness-2022.csv')
+countdown_cup_df = pd.read_csv('countdown-cup/main/countdown-cup-2022.csv')
+grand_finals_df = pd.read_csv('grand-finals/main/grand-finals-2022.csv')
 
 support_heroes = ["Ana", "Baptiste", "Brigitte", "Kiriko", "Lucio", "Mercy", "Moira", "Zenyatta", "All Heroes"]
 dps_heroes = ["Ashe", "Bastion", "Cassidy", "Echo", "Genji", "Hanzo", "Junkrat", "Mei", "Pharah", "Reaper", "Sojourn", "Soldier: 76", "Sombra", "Symmetra", "Torbjorn", "Tracer", "Widowmaker", "All Heroes"]
@@ -30,22 +30,22 @@ grand_finals_support_players_stats = grand_finals_df.loc[grand_finals_df.hero_na
 grand_finals_dps_players_stats = grand_finals_df.loc[grand_finals_df.hero_name.isin(dps_heroes)]
 grand_finals_tank_players_stats = grand_finals_df.loc[grand_finals_df.hero_name.isin(tank_heroes)]
 
-kickoff_clash_support_players_stats.to_csv("kickoff_clash/stats/kickoff_clash_support_players_stats.csv")
-kickoff_clash_dps_players_stats.to_csv("kickoff_clash/stats/kickoff_clash_dps_players_stats.csv")
-kickoff_clash_tank_players_stats.to_csv("kickoff_clash/stats/kickoff_clash_tank_players_stats.csv")
+kickoff_clash_support_players_stats.to_csv("kickoff-clash/stats/kickoff-clash-support-players-stats.csv")
+kickoff_clash_dps_players_stats.to_csv("kickoff-clash/stats/kickoff-clash-dps-players-stats.csv")
+kickoff_clash_tank_players_stats.to_csv("kickoff-clash/stats/kickoff-clash-tank-players-stats.csv")
 
-summer_showdown_support_players_stats.to_csv("summer_showdown/stats/summer_showdown_support_players_stats.csv")
-summer_showdown_dps_players_stats.to_csv("summer_showdown/stats/summer_showdown_dps_players_stats.csv")
-summer_showdown_tank_players_stats.to_csv("summer_showdown/stats/summer_showdown_tank_players_stats.csv")
+summer_showdown_support_players_stats.to_csv("summer-showdown/stats/summer-showdown-support-players-stats.csv")
+summer_showdown_dps_players_stats.to_csv("summer-showdown/stats/summer-showdown-dps-players-stats.csv")
+summer_showdown_tank_players_stats.to_csv("summer-showdown/stats/summer-showdown-tank-players-stats.csv")
 
-midseason_madness_support_players_stats.to_csv("midseason_madness/stats/midseason_madness_support_players_stats.csv")
-midseason_madness_dps_players_stats.to_csv("midseason_madness/stats/midseason_madness_dps_players_stats.csv")
-midseason_madness_tank_players_stats.to_csv("midseason_madness/stats/midseason_madness_tank_players_stats.csv")
+midseason_madness_support_players_stats.to_csv("midseason-madness/stats/midseason-madness-support-players-stats.csv")
+midseason_madness_dps_players_stats.to_csv("midseason-madness/stats/midseason-madness-dps-players-stats.csv")
+midseason_madness_tank_players_stats.to_csv("midseason-madness/stats/midseason-madness-tank-players-stats.csv")
 
-countdown_cup_support_players_stats.to_csv("countdown_cup/stats/countdown_cup_support_players_stats.csv")
-countdown_cup_dps_players_stats.to_csv("countdown_cup/stats/countdown_cup_dps_players_stats.csv")
-countdown_cup_tank_players_stats.to_csv("countdown_cup/stats/countdown_cup_tank_players_stats.csv")
+countdown_cup_support_players_stats.to_csv("countdown-cup/stats/countdown-cup-support-players-stats.csv")
+countdown_cup_dps_players_stats.to_csv("countdown-cup/stats/countdown-cup-dps-players-stats.csv")
+countdown_cup_tank_players_stats.to_csv("countdown-cup/stats/countdown-cup-tank-players-stats.csv")
 
-grand_finals_support_players_stats.to_csv("grand_finals/stats/grand_finals_support_players_stats.csv")
-grand_finals_dps_players_stats.to_csv("grand_finals/stats/grand_finals_dps_players_stats.csv")
-grand_finals_tank_players_stats.to_csv("grand_finals/stats/grand_finals_tank_players_stats.csv")
+grand_finals_support_players_stats.to_csv("grand-finals/stats/grand-finals-support-players-stats.csv")
+grand_finals_dps_players_stats.to_csv("grand-finals/stats/grand-finals-dps-players-stats.csv")
+grand_finals_tank_players_stats.to_csv("grand-finals/stats/grand-finals-tank-players-stats.csv")

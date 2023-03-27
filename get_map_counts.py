@@ -1,11 +1,11 @@
 import pandas as pd
 
 
-kickoff_clash_df = pd.read_csv('kickoff_clash/main/kickoff_clash_2022.csv')
-summer_showdown_df = pd.read_csv('summer_showdown/main/summer_showdown_2022.csv')
-midseason_madness_df = pd.read_csv('midseason_madness/main/midseason_madness_2022.csv')
-countdown_cup_df = pd.read_csv('countdown_cup/main/countdown_cup_2022.csv')
-grand_finals_df = pd.read_csv('grand_finals/main/grand_finals_2022.csv')
+kickoff_clash_df = pd.read_csv('kickoff-clash/main/kickoff-clash-2022.csv')
+summer_showdown_df = pd.read_csv('summer-showdown/main/summer-showdown-2022.csv')
+midseason_madness_df = pd.read_csv('midseason-madness/main/midseason-madness-2022.csv')
+countdown_cup_df = pd.read_csv('countdown-cup/main/countdown-cup-2022.csv')
+grand_finals_df = pd.read_csv('grand-finals/main/grand-finals-2022.csv')
 
 kickoff_clash_maps = kickoff_clash_df.drop_duplicates(subset=['esports_match_id', 'map_name', 'map_type', 'player_name', 'team_name', 'hero_name']) \
                     .loc[kickoff_clash_df.hero_name != "All Heroes"] \
@@ -93,22 +93,22 @@ grand_finals_teams_maps_count = grand_finals_maps.drop_duplicates(subset=["map_t
                                 .pivot_table(values="play_count", index="team_name", columns="map_type", aggfunc="first")
 grand_finals_teams_maps_count["total_map_played"] = grand_finals_teams_maps_count.iloc[:].sum(axis=1)
 
-kickoff_clash_maps.to_csv("kickoff_clash/main/kickoff_clash_maps.csv")
-kickoff_clash_global_maps_count.to_csv("kickoff_clash/maps_count/kickoff_clash_global_maps_count.csv")
-kickoff_clash_teams_maps_count.to_csv("kickoff_clash/maps_count/kickoff_clash_teams_maps_count.csv")
+kickoff_clash_maps.to_csv("kickoff-clash/main/kickoff-clash-maps.csv")
+kickoff_clash_global_maps_count.to_csv("kickoff-clash/maps-count/kickoff-clash-global-maps-count.csv")
+kickoff_clash_teams_maps_count.to_csv("kickoff-clash/maps-count/kickoff-clash-teams-maps-count.csv")
 
-midseason_madness_maps.to_csv("midseason_madness/main/midseason_madness_maps.csv")
-midseason_madness_global_maps_count.to_csv("midseason_madness/maps_count/midseason_madness_global_maps_count.csv")
-midseason_madness_teams_maps_count.to_csv("midseason_madness/maps_count/midseason_madness_teams_maps_count.csv")
+midseason_madness_maps.to_csv("midseason-madness/main/midseason-madness-maps.csv")
+midseason_madness_global_maps_count.to_csv("midseason-madness/maps-count/midseason-madness-global-maps-count.csv")
+midseason_madness_teams_maps_count.to_csv("midseason-madness/maps-count/midseason-madness-teams-maps-count.csv")
 
-summer_showdown_maps.to_csv("summer_showdown/main/summer_showdown_maps.csv")
-summer_showdown_global_maps_count.to_csv("summer_showdown/maps_count/summer_showdown_global_maps_count.csv")
-summer_showdown_teams_maps_count.to_csv("summer_showdown/maps_count/summer_showdown_teams_maps_count.csv")
+summer_showdown_maps.to_csv("summer-showdown/main/summer-showdown-maps.csv")
+summer_showdown_global_maps_count.to_csv("summer-showdown/maps-count/summer-showdown-global-maps-count.csv")
+summer_showdown_teams_maps_count.to_csv("summer-showdown/maps-count/summer-showdown-teams-maps-count.csv")
 
-countdown_cup_maps.to_csv("countdown_cup/main/countdown_cup_maps.csv")
-countdown_cup_global_maps_count.to_csv("countdown_cup/maps_count/countdown_cup_global_maps_count.csv")
-countdown_cup_teams_maps_count.to_csv("countdown_cup/maps_count/countdown_cup_teams_maps_count.csv")
+countdown_cup_maps.to_csv("countdown-cup/main/countdown-cup-maps.csv")
+countdown_cup_global_maps_count.to_csv("countdown-cup/maps-count/countdown-cup-global-maps-count.csv")
+countdown_cup_teams_maps_count.to_csv("countdown-cup/maps-count/countdown-cup-teams-maps-count.csv")
 
-grand_finals_maps.to_csv("grand_finals/main/grand_finals_maps.csv")
-grand_finals_global_maps_count.to_csv("grand_finals/maps_count/grand_finals_global_maps_count.csv")
-grand_finals_teams_maps_count.to_csv("grand_finals/maps_count/grand_finals_teams_maps_count.csv")
+grand_finals_maps.to_csv("grand-finals/main/grand-finals-maps.csv")
+grand_finals_global_maps_count.to_csv("grand-finals/maps-count/grand-finals-global-maps-count.csv")
+grand_finals_teams_maps_count.to_csv("grand-finals/maps-count/grand-finals-teams-maps-count.csv")
