@@ -1,16 +1,16 @@
-,map_name,map_type
-0,Busan,control
-385,King's Row,hybrid
-857,Dorado,payload
-1289,New Queen Street,push
-1706,Oasis,control
-2669,Paraíso,hybrid
-3812,Eichenwalde,hybrid
-4201,Circuit royal,payload
-4576,Ilios,control
-7368,Colosseo,push
-10394,Lijiang Tower,control
-11103,Route 66,payload
-13501,Junkertown,payload
-16336,Esperança,push
-31399,Nepal,control
+,map_name,map_type,tournament_title
+0,Busan,control,Postseason
+385,King's Row,hybrid,Postseason
+857,Dorado,payload,Postseason
+1289,New Queen Street,push,Postseason
+1706,Oasis,control,Postseason
+2669,Paraíso,hybrid,Postseason
+3812,Eichenwalde,hybrid,Postseason
+4201,Circuit royal,payload,Postseason
+4576,Ilios,control,Postseason
+7368,Colosseo,push,Postseason
+10394,Lijiang Tower,control,Postseason
+11103,Route 66,payload,Postseason
+13501,Junkertown,payload,Postseason
+16336,Esperança,push,Postseason
+31399,Nepal,control,Postseason

@@ -1,15 +1,15 @@
-,map_name,map_type
-0,Oasis,control
-419,Eichenwalde,hybrid
-885,Route 66,payload
-1304,Colosseo,push
-1676,Lijiang Tower,control
-2059,King's Row,hybrid
-3122,New Queen Street,push
-3559,Nepal,control
-3973,Paraíso,hybrid
-4414,Circuit royal,payload
-5166,Ilios,control
-6632,Junkertown,payload
-10021,Dorado,payload
-38791,Busan,control
+,map_name,map_type,tournament_title
+0,Oasis,control,Countdown Cup: Qualifiers
+419,Eichenwalde,hybrid,Countdown Cup: Qualifiers
+885,Route 66,payload,Countdown Cup: Qualifiers
+1304,Colosseo,push,Countdown Cup: Qualifiers
+1676,Lijiang Tower,control,Countdown Cup: Qualifiers
+2059,King's Row,hybrid,Countdown Cup: Qualifiers
+3122,New Queen Street,push,Countdown Cup: Qualifiers
+3559,Nepal,control,Countdown Cup: Qualifiers
+3973,Paraíso,hybrid,Countdown Cup: Qualifiers
+4414,Circuit royal,payload,Countdown Cup: Qualifiers
+5166,Ilios,control,Countdown Cup: Qualifiers
+6632,Junkertown,payload,Countdown Cup: Qualifiers
+10021,Dorado,payload,Countdown Cup: Qualifiers
+38791,Busan,control,Countdown Cup: Qualifiers
