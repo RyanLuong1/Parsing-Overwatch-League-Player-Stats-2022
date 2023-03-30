@@ -29,5 +29,5 @@ summer_showdown_qualifiers_map_pools.to_csv("summer-showdown/main/summer-showdow
 summer_showdown_tournament_map_pools.to_csv("summer-showdown/main/summer-showdown-tournament-map-pools.csv")
 midseason_madness_qualifiers_map_pools.to_csv("midseason-madness/main/midseason-madness-qualifiers-map-pools.csv")
 midseason_madness_tournament_map_pools.to_csv("midseason-madness/main/midseason-madness-tournament-map-pools.csv")
-countdown_cup_map_pools.to_csv("countdown-cup/main/countdown-cup-map-pools.csv")
+countdown_cup_map_pools.to_csv("countdown-cup/main/countdown-cup-qualifiers-map-pools.csv")
 grand_finals_map_pools.to_csv("grand-finals/main/grand-finals-map-pools.csv")
