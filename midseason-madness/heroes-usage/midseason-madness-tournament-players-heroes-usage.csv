@@ -1,0 +1,751 @@
+player_name,team_name,hero_name,times_played,total_times_played
+ANS,Los Angeles Gladiators,Ashe,3,12
+ANS,Los Angeles Gladiators,Symmetra,3,12
+ANS,Los Angeles Gladiators,Widowmaker,6,12
+Admiral,London Spitfire,Ana,3,29
+Admiral,London Spitfire,Brigitte,8,29
+Admiral,London Spitfire,Lucio,17,29
+Admiral,London Spitfire,Moira,1,29
+AimGod,Seoul Infernal,Ana,8,36
+AimGod,Seoul Infernal,Baptiste,7,36
+AimGod,Seoul Infernal,Zenyatta,21,36
+AlphaYi,Hangzhou Spark,Bastion,1,45
+AlphaYi,Hangzhou Spark,Echo,6,45
+AlphaYi,Hangzhou Spark,Genji,2,45
+AlphaYi,Hangzhou Spark,Hanzo,3,45
+AlphaYi,Hangzhou Spark,Symmetra,6,45
+AlphaYi,Hangzhou Spark,Tracer,17,45
+AlphaYi,Hangzhou Spark,Widowmaker,10,45
+Anamo,Florida Mayhem,Ana,2,14
+Anamo,Florida Mayhem,Brigitte,3,14
+Anamo,Florida Mayhem,Lucio,8,14
+Anamo,Florida Mayhem,Zenyatta,1,14
+Architect,Hangzhou Spark,Ana,1,5
+Architect,Hangzhou Spark,Baptiste,1,5
+Architect,Hangzhou Spark,Brigitte,2,5
+Architect,Hangzhou Spark,Lucio,1,5
+Aspire,Vancouver Titans,Cassidy,1,42
+Aspire,Vancouver Titans,Genji,1,42
+Aspire,Vancouver Titans,Hanzo,1,42
+Aspire,Vancouver Titans,Junkrat,1,42
+Aspire,Vancouver Titans,Sojourn,7,42
+Aspire,Vancouver Titans,Symmetra,7,42
+Aspire,Vancouver Titans,Tracer,20,42
+Aspire,Vancouver Titans,Widowmaker,4,42
+Assassin,Washington Justice,Ashe,1,9
+Assassin,Washington Justice,Echo,1,9
+Assassin,Washington Justice,Mei,1,9
+Assassin,Washington Justice,Sombra,3,9
+Assassin,Washington Justice,Symmetra,2,9
+Assassin,Washington Justice,Widowmaker,1,9
+Aztac,Vancouver Titans,Ana,3,24
+Aztac,Vancouver Titans,Brigitte,1,24
+Aztac,Vancouver Titans,Lucio,2,24
+Aztac,Vancouver Titans,Moira,2,24
+Aztac,Vancouver Titans,Zenyatta,16,24
+BEBE,Shanghai Dragons,Ana,4,12
+BEBE,Shanghai Dragons,Baptiste,6,12
+BEBE,Shanghai Dragons,Lucio,2,12
+BERNAR,Hangzhou Spark,D.Va,1,31
+BERNAR,Hangzhou Spark,Doomfist,4,31
+BERNAR,Hangzhou Spark,Sigma,10,31
+BERNAR,Hangzhou Spark,Wrecking Ball,13,31
+BERNAR,Hangzhou Spark,Zarya,3,31
+Backbone,London Spitfire,Brigitte,1,35
+Backbone,London Spitfire,Echo,1,35
+Backbone,London Spitfire,Genji,1,35
+Backbone,London Spitfire,Lucio,1,35
+Backbone,London Spitfire,Mei,13,35
+Backbone,London Spitfire,Soldier: 76,2,35
+Backbone,London Spitfire,Sombra,4,35
+Backbone,London Spitfire,Symmetra,4,35
+Backbone,London Spitfire,Tracer,3,35
+Backbone,London Spitfire,Widowmaker,1,35
+Backbone,London Spitfire,Zenyatta,4,35
+Becky,Los Angeles Valiant,Echo,4,7
+Becky,Los Angeles Valiant,Genji,1,7
+Becky,Los Angeles Valiant,Tracer,2,7
+Belosrea,Seoul Infernal,D.Va,1,41
+Belosrea,Seoul Infernal,Doomfist,6,41
+Belosrea,Seoul Infernal,Reinhardt,6,41
+Belosrea,Seoul Infernal,Roadhog,5,41
+Belosrea,Seoul Infernal,Sigma,2,41
+Belosrea,Seoul Infernal,Winston,3,41
+Belosrea,Seoul Infernal,Wrecking Ball,17,41
+Belosrea,Seoul Infernal,Zarya,1,41
+CH0R0NG,Toronto Defiant,Ana,1,41
+CH0R0NG,Toronto Defiant,Baptiste,2,41
+CH0R0NG,Toronto Defiant,Brigitte,11,41
+CH0R0NG,Toronto Defiant,Lucio,14,41
+CH0R0NG,Toronto Defiant,Mercy,1,41
+CH0R0NG,Toronto Defiant,Moira,3,41
+CH0R0NG,Toronto Defiant,Zenyatta,9,41
+Checkmate,Florida Mayhem,Echo,4,42
+Checkmate,Florida Mayhem,Genji,5,42
+Checkmate,Florida Mayhem,Hanzo,2,42
+Checkmate,Florida Mayhem,Mei,8,42
+Checkmate,Florida Mayhem,Symmetra,6,42
+Checkmate,Florida Mayhem,Tracer,17,42
+ChiYo,Dallas Fuel,Ana,2,40
+ChiYo,Dallas Fuel,Baptiste,3,40
+ChiYo,Dallas Fuel,Brigitte,8,40
+ChiYo,Dallas Fuel,Lucio,16,40
+ChiYo,Dallas Fuel,Zenyatta,11,40
+ChoiSehwan,Guangzhou Charge,Cassidy,1,52
+ChoiSehwan,Guangzhou Charge,Echo,4,52
+ChoiSehwan,Guangzhou Charge,Genji,8,52
+ChoiSehwan,Guangzhou Charge,Hanzo,8,52
+ChoiSehwan,Guangzhou Charge,Pharah,2,52
+ChoiSehwan,Guangzhou Charge,Symmetra,6,52
+ChoiSehwan,Guangzhou Charge,Tracer,19,52
+ChoiSehwan,Guangzhou Charge,Widowmaker,4,52
+Coluge,San Francisco Shock,D.Va,1,18
+Coluge,San Francisco Shock,Doomfist,5,18
+Coluge,San Francisco Shock,Roadhog,1,18
+Coluge,San Francisco Shock,Sigma,9,18
+Coluge,San Francisco Shock,Winston,2,18
+Cr0ng,Guangzhou Charge,D.Va,1,28
+Cr0ng,Guangzhou Charge,Doomfist,8,28
+Cr0ng,Guangzhou Charge,Sigma,12,28
+Cr0ng,Guangzhou Charge,Wrecking Ball,2,28
+Cr0ng,Guangzhou Charge,Zarya,5,28
+Creative,Seoul Dynasty,Ana,19,42
+Creative,Seoul Dynasty,Baptiste,8,42
+Creative,Seoul Dynasty,Lucio,5,42
+Creative,Seoul Dynasty,Mercy,1,42
+Creative,Seoul Dynasty,Moira,1,42
+Creative,Seoul Dynasty,Zenyatta,8,42
+Crimzo,Boston Uprising,Ana,3,33
+Crimzo,Boston Uprising,Baptiste,6,33
+Crimzo,Boston Uprising,Lucio,2,33
+Crimzo,Boston Uprising,Moira,2,33
+Crimzo,Boston Uprising,Zenyatta,20,33
+Daan,Vegas Eternal,Doomfist,9,26
+Daan,Vegas Eternal,Roadhog,2,26
+Daan,Vegas Eternal,Winston,2,26
+Daan,Vegas Eternal,Wrecking Ball,12,26
+Daan,Vegas Eternal,Zarya,1,26
+Daizi,Chengdu Hunters,Sigma,2,3
+Daizi,Chengdu Hunters,Wrecking Ball,1,3
+Danteh,Houston Outlaws,Doomfist,15,17
+Danteh,Houston Outlaws,Tracer,2,17
+Decay,Washington Justice,Ashe,2,39
+Decay,Washington Justice,Echo,1,39
+Decay,Washington Justice,Genji,6,39
+Decay,Washington Justice,Hanzo,2,39
+Decay,Washington Justice,Sojourn,1,39
+Decay,Washington Justice,Symmetra,6,39
+Decay,Washington Justice,Tracer,21,39
+Develop,Guangzhou Charge,Ashe,7,40
+Develop,Guangzhou Charge,Hanzo,1,40
+Develop,Guangzhou Charge,Sojourn,16,40
+Develop,Guangzhou Charge,Soldier: 76,1,40
+Develop,Guangzhou Charge,Sombra,1,40
+Develop,Guangzhou Charge,Symmetra,3,40
+Develop,Guangzhou Charge,Tracer,3,40
+Develop,Guangzhou Charge,Widowmaker,8,40
+Diya,Los Angeles Valiant,Ashe,7,34
+Diya,Los Angeles Valiant,Cassidy,1,34
+Diya,Los Angeles Valiant,Genji,1,34
+Diya,Los Angeles Valiant,Hanzo,8,34
+Diya,Los Angeles Valiant,Mei,1,34
+Diya,Los Angeles Valiant,Soldier: 76,2,34
+Diya,Los Angeles Valiant,Tracer,4,34
+Diya,Los Angeles Valiant,Widowmaker,10,34
+Dove,Vegas Eternal,Ashe,3,59
+Dove,Vegas Eternal,Genji,11,59
+Dove,Vegas Eternal,Hanzo,2,59
+Dove,Vegas Eternal,Reaper,1,59
+Dove,Vegas Eternal,Sojourn,14,59
+Dove,Vegas Eternal,Symmetra,7,59
+Dove,Vegas Eternal,Tracer,17,59
+Dove,Vegas Eternal,Widowmaker,4,59
+Edison,Dallas Fuel,Genji,1,24
+Edison,Dallas Fuel,Hanzo,4,24
+Edison,Dallas Fuel,Sojourn,6,24
+Edison,Dallas Fuel,Soldier: 76,1,24
+Edison,Dallas Fuel,Sombra,2,24
+Edison,Dallas Fuel,Symmetra,2,24
+Edison,Dallas Fuel,Tracer,6,24
+Edison,Dallas Fuel,Widowmaker,2,24
+Ezhan,Los Angeles Valiant,Ashe,4,39
+Ezhan,Los Angeles Valiant,Cassidy,1,39
+Ezhan,Los Angeles Valiant,Genji,1,39
+Ezhan,Los Angeles Valiant,Sojourn,14,39
+Ezhan,Los Angeles Valiant,Soldier: 76,3,39
+Ezhan,Los Angeles Valiant,Symmetra,4,39
+Ezhan,Los Angeles Valiant,Tracer,7,39
+Ezhan,Los Angeles Valiant,Widowmaker,5,39
+FEARLESS,Dallas Fuel,Doomfist,6,27
+FEARLESS,Dallas Fuel,Reinhardt,2,27
+FEARLESS,Dallas Fuel,Winston,13,27
+FEARLESS,Dallas Fuel,Wrecking Ball,6,27
+FIXA,Seoul Infernal,Ana,12,56
+FIXA,Seoul Infernal,Baptiste,13,56
+FIXA,Seoul Infernal,Brigitte,15,56
+FIXA,Seoul Infernal,Lucio,13,56
+FIXA,Seoul Infernal,Mercy,1,56
+FIXA,Seoul Infernal,Moira,2,56
+Faith,Boston Uprising,Ana,1,16
+Faith,Boston Uprising,Baptiste,3,16
+Faith,Boston Uprising,Brigitte,8,16
+Faith,Boston Uprising,Lucio,4,16
+False,Vancouver Titans,D.Va,4,16
+False,Vancouver Titans,Doomfist,1,16
+False,Vancouver Titans,Sigma,7,16
+False,Vancouver Titans,Winston,1,16
+False,Vancouver Titans,Wrecking Ball,3,16
+Farway1987,Guangzhou Charge,Ana,3,25
+Farway1987,Guangzhou Charge,Baptiste,2,25
+Farway1987,Guangzhou Charge,Lucio,1,25
+Farway1987,Guangzhou Charge,Zenyatta,19,25
+Fate,Shanghai Dragons,Doomfist,2,20
+Fate,Shanghai Dragons,Reinhardt,1,20
+Fate,Shanghai Dragons,Winston,5,20
+Fate,Shanghai Dragons,Wrecking Ball,11,20
+Fate,Shanghai Dragons,Zarya,1,20
+FiNN,San Francisco Shock,Ana,9,28
+FiNN,San Francisco Shock,Baptiste,1,28
+FiNN,San Francisco Shock,Mercy,1,28
+FiNN,San Francisco Shock,Moira,2,28
+FiNN,San Francisco Shock,Zenyatta,15,28
+Fielder,Dallas Fuel,Ana,14,38
+Fielder,Dallas Fuel,Baptiste,6,38
+Fielder,Dallas Fuel,Lucio,1,38
+Fielder,Dallas Fuel,Mercy,1,38
+Fielder,Dallas Fuel,Moira,9,38
+Fielder,Dallas Fuel,Zenyatta,7,38
+Finale,Toronto Defiant,Echo,5,52
+Finale,Toronto Defiant,Genji,5,52
+Finale,Toronto Defiant,Hanzo,4,52
+Finale,Toronto Defiant,Mei,2,52
+Finale,Toronto Defiant,Reaper,1,52
+Finale,Toronto Defiant,Symmetra,7,52
+Finale,Toronto Defiant,Tracer,22,52
+Finale,Toronto Defiant,Widowmaker,6,52
+Fits,Seoul Dynasty,Ashe,4,21
+Fits,Seoul Dynasty,Bastion,1,21
+Fits,Seoul Dynasty,Genji,1,21
+Fits,Seoul Dynasty,Hanzo,1,21
+Fits,Seoul Dynasty,Sojourn,6,21
+Fits,Seoul Dynasty,Soldier: 76,1,21
+Fits,Seoul Dynasty,Sombra,4,21
+Fits,Seoul Dynasty,Widowmaker,3,21
+Fleta,Shanghai Dragons,Echo,6,40
+Fleta,Shanghai Dragons,Genji,3,40
+Fleta,Shanghai Dragons,Hanzo,3,40
+Fleta,Shanghai Dragons,Mei,1,40
+Fleta,Shanghai Dragons,Sojourn,2,40
+Fleta,Shanghai Dragons,Sombra,1,40
+Fleta,Shanghai Dragons,Symmetra,6,40
+Fleta,Shanghai Dragons,Torbjorn,1,40
+Fleta,Shanghai Dragons,Tracer,17,40
+Flora,New York Excelsior,Ashe,3,48
+Flora,New York Excelsior,Hanzo,3,48
+Flora,New York Excelsior,Reaper,1,48
+Flora,New York Excelsior,Sojourn,12,48
+Flora,New York Excelsior,Soldier: 76,1,48
+Flora,New York Excelsior,Sombra,2,48
+Flora,New York Excelsior,Symmetra,7,48
+Flora,New York Excelsior,Tracer,15,48
+Flora,New York Excelsior,Widowmaker,4,48
+FunnyAstro,Los Angeles Gladiators,Brigitte,1,6
+FunnyAstro,Los Angeles Gladiators,Lucio,5,6
+Fury,Seoul Infernal,D.Va,1,10
+Fury,Seoul Infernal,Roadhog,1,10
+Fury,Seoul Infernal,Sigma,6,10
+Fury,Seoul Infernal,Zarya,2,10
+GA9A,Chengdu Hunters,Doomfist,1,30
+GA9A,Chengdu Hunters,Winston,13,30
+GA9A,Chengdu Hunters,Wrecking Ball,15,30
+GA9A,Chengdu Hunters,Zarya,1,30
+GangNamJin,New York Excelsior,Ana,3,45
+GangNamJin,New York Excelsior,Baptiste,9,45
+GangNamJin,New York Excelsior,Brigitte,7,45
+GangNamJin,New York Excelsior,Lucio,10,45
+GangNamJin,New York Excelsior,Mercy,1,45
+GangNamJin,New York Excelsior,Moira,1,45
+GangNamJin,New York Excelsior,Zenyatta,14,45
+Guxue,Hangzhou Spark,Winston,1,1
+HOTBA,Toronto Defiant,Doomfist,5,15
+HOTBA,Toronto Defiant,Sigma,6,15
+HOTBA,Toronto Defiant,Winston,1,15
+HOTBA,Toronto Defiant,Wrecking Ball,3,15
+Hadi,London Spitfire,Reinhardt,13,24
+Hadi,London Spitfire,Winston,5,24
+Hadi,London Spitfire,Wrecking Ball,6,24
+Hanbin,Dallas Fuel,D.Va,1,12
+Hanbin,Dallas Fuel,Doomfist,3,12
+Hanbin,Dallas Fuel,Reinhardt,2,12
+Hanbin,Dallas Fuel,Sigma,5,12
+Hanbin,Dallas Fuel,Wrecking Ball,1,12
+Happy,Washington Justice,Cassidy,2,42
+Happy,Washington Justice,Genji,1,42
+Happy,Washington Justice,Hanzo,1,42
+Happy,Washington Justice,Sojourn,21,42
+Happy,Washington Justice,Sombra,1,42
+Happy,Washington Justice,Symmetra,5,42
+Happy,Washington Justice,Tracer,2,42
+Happy,Washington Justice,Widowmaker,9,42
+Hawk,Atlanta Reign,D.Va,3,39
+Hawk,Atlanta Reign,Doomfist,22,39
+Hawk,Atlanta Reign,Reinhardt,2,39
+Hawk,Atlanta Reign,Sigma,8,39
+Hawk,Atlanta Reign,Winston,1,39
+Hawk,Atlanta Reign,Wrecking Ball,2,39
+Hawk,Atlanta Reign,Zarya,1,39
+Heesu,Toronto Defiant,Ashe,3,48
+Heesu,Toronto Defiant,Hanzo,8,48
+Heesu,Toronto Defiant,Reaper,1,48
+Heesu,Toronto Defiant,Sojourn,18,48
+Heesu,Toronto Defiant,Soldier: 76,1,48
+Heesu,Toronto Defiant,Sombra,7,48
+Heesu,Toronto Defiant,Symmetra,1,48
+Heesu,Toronto Defiant,Tracer,2,48
+Heesu,Toronto Defiant,Widowmaker,7,48
+Hydron,Florida Mayhem,Sojourn,11,14
+Hydron,Florida Mayhem,Symmetra,1,14
+Hydron,Florida Mayhem,Widowmaker,2,14
+INNOVATION,Los Angeles Valiant,Sombra,5,21
+INNOVATION,Los Angeles Valiant,Symmetra,5,21
+INNOVATION,Los Angeles Valiant,Tracer,9,21
+INNOVATION,Los Angeles Valiant,Widowmaker,2,21
+ITSAL,Boston Uprising,Reinhardt,1,6
+ITSAL,Boston Uprising,Winston,1,6
+ITSAL,Boston Uprising,Wrecking Ball,4,6
+IZaYaKI,Shanghai Dragons,Ana,6,27
+IZaYaKI,Shanghai Dragons,Baptiste,1,27
+IZaYaKI,Shanghai Dragons,Lucio,4,27
+IZaYaKI,Shanghai Dragons,Moira,1,27
+IZaYaKI,Shanghai Dragons,Zenyatta,15,27
+Jinmu,Chengdu Hunters,Echo,8,50
+Jinmu,Chengdu Hunters,Genji,12,50
+Jinmu,Chengdu Hunters,Hanzo,2,50
+Jinmu,Chengdu Hunters,Junkrat,1,50
+Jinmu,Chengdu Hunters,Pharah,2,50
+Jinmu,Chengdu Hunters,Sombra,7,50
+Jinmu,Chengdu Hunters,Symmetra,4,50
+Jinmu,Chengdu Hunters,Tracer,14,50
+Kaan,Vegas Eternal,Ana,5,31
+Kaan,Vegas Eternal,Mercy,1,31
+Kaan,Vegas Eternal,Moira,3,31
+Kaan,Vegas Eternal,Zenyatta,22,31
+Kai,Atlanta Reign,Hanzo,1,26
+Kai,Atlanta Reign,Sojourn,21,26
+Kai,Atlanta Reign,Tracer,1,26
+Kai,Atlanta Reign,Widowmaker,3,26
+Kalios,Washington Justice,D.Va,2,26
+Kalios,Washington Justice,Doomfist,9,26
+Kalios,Washington Justice,Sigma,14,26
+Kalios,Washington Justice,Wrecking Ball,1,26
+Kellan,New York Excelsior,D.Va,1,35
+Kellan,New York Excelsior,Doomfist,12,35
+Kellan,New York Excelsior,Orisa,1,35
+Kellan,New York Excelsior,Sigma,9,35
+Kellan,New York Excelsior,Winston,3,35
+Kellan,New York Excelsior,Wrecking Ball,9,35
+Kilo,San Francisco Shock,Hanzo,4,13
+Kilo,San Francisco Shock,Sojourn,3,13
+Kilo,San Francisco Shock,Symmetra,1,13
+Kilo,San Francisco Shock,Tracer,2,13
+Kilo,San Francisco Shock,Widowmaker,3,13
+Krillin,Washington Justice,Ana,5,34
+Krillin,Washington Justice,Baptiste,1,34
+Krillin,Washington Justice,Brigitte,1,34
+Krillin,Washington Justice,Lucio,6,34
+Krillin,Washington Justice,Zenyatta,21,34
+LIGE,Hangzhou Spark,Sigma,1,1
+LIP,Shanghai Dragons,Ashe,9,43
+LIP,Shanghai Dragons,Cassidy,1,43
+LIP,Shanghai Dragons,Junkrat,1,43
+LIP,Shanghai Dragons,Sojourn,13,43
+LIP,Shanghai Dragons,Sombra,3,43
+LIP,Shanghai Dragons,Symmetra,3,43
+LIP,Shanghai Dragons,Tracer,1,43
+LIP,Shanghai Dragons,Widowmaker,12,43
+Landon,London Spitfire,Ana,4,34
+Landon,London Spitfire,Baptiste,16,34
+Landon,London Spitfire,Lucio,2,34
+Landon,London Spitfire,Moira,4,34
+Landon,London Spitfire,Zenyatta,8,34
+Lastro,Houston Outlaws,Baptiste,1,41
+Lastro,Houston Outlaws,Brigitte,3,41
+Lastro,Houston Outlaws,Lucio,12,41
+Lastro,Houston Outlaws,Zenyatta,25,41
+Leave,Chengdu Hunters,Ashe,3,41
+Leave,Chengdu Hunters,Mei,1,41
+Leave,Chengdu Hunters,Reaper,1,41
+Leave,Chengdu Hunters,Sojourn,17,41
+Leave,Chengdu Hunters,Soldier: 76,2,41
+Leave,Chengdu Hunters,Symmetra,6,41
+Leave,Chengdu Hunters,Tracer,6,41
+Leave,Chengdu Hunters,Widowmaker,5,41
+LeeJaeGon,Shanghai Dragons,Baptiste,2,27
+LeeJaeGon,Shanghai Dragons,Brigitte,11,27
+LeeJaeGon,Shanghai Dragons,Lucio,9,27
+LeeJaeGon,Shanghai Dragons,Mercy,1,27
+LeeJaeGon,Shanghai Dragons,Zenyatta,4,27
+Lengsa,Los Angeles Valiant,Baptiste,4,45
+Lengsa,Los Angeles Valiant,Brigitte,14,45
+Lengsa,Los Angeles Valiant,Lucio,19,45
+Lengsa,Los Angeles Valiant,Zenyatta,8,45
+MAG,Washington Justice,Doomfist,8,16
+MAG,Washington Justice,Reinhardt,1,16
+MAG,Washington Justice,Winston,2,16
+MAG,Washington Justice,Wrecking Ball,5,16
+MCD,Boston Uprising,Ana,13,23
+MCD,Boston Uprising,Lucio,5,23
+MCD,Boston Uprising,Moira,1,23
+MCD,Boston Uprising,Zenyatta,4,23
+MER1T,Houston Outlaws,Ashe,3,30
+MER1T,Houston Outlaws,Hanzo,2,30
+MER1T,Houston Outlaws,Sojourn,23,30
+MER1T,Houston Outlaws,Widowmaker,2,30
+MN3,Seoul Infernal,Ashe,13,47
+MN3,Seoul Infernal,Cassidy,2,47
+MN3,Seoul Infernal,Genji,4,47
+MN3,Seoul Infernal,Hanzo,1,47
+MN3,Seoul Infernal,Reaper,1,47
+MN3,Seoul Infernal,Sojourn,10,47
+MN3,Seoul Infernal,Soldier: 76,1,47
+MN3,Seoul Infernal,Sombra,2,47
+MN3,Seoul Infernal,Symmetra,2,47
+MN3,Seoul Infernal,Tracer,3,47
+MN3,Seoul Infernal,Widowmaker,8,47
+Marve1,Los Angeles Valiant,D.Va,1,26
+Marve1,Los Angeles Valiant,Doomfist,14,26
+Marve1,Los Angeles Valiant,Roadhog,1,26
+Marve1,Los Angeles Valiant,Sigma,8,26
+Marve1,Los Angeles Valiant,Winston,2,26
+Masaa,Vancouver Titans,Brigitte,8,17
+Masaa,Vancouver Titans,Lucio,9,17
+MirroR,Vancouver Titans,Doomfist,12,25
+MirroR,Vancouver Titans,Echo,1,25
+MirroR,Vancouver Titans,Genji,4,25
+MirroR,Vancouver Titans,Hanzo,1,25
+MirroR,Vancouver Titans,Sombra,1,25
+MirroR,Vancouver Titans,Symmetra,1,25
+MirroR,Vancouver Titans,Tracer,4,25
+MirroR,Vancouver Titans,Zarya,1,25
+Mmonk,Chengdu Hunters,Ana,10,35
+Mmonk,Chengdu Hunters,Baptiste,1,35
+Mmonk,Chengdu Hunters,Lucio,1,35
+Mmonk,Chengdu Hunters,Moira,3,35
+Mmonk,Chengdu Hunters,Zenyatta,20,35
+Molly,Los Angeles Valiant,Ana,11,27
+Molly,Los Angeles Valiant,Baptiste,3,27
+Molly,Los Angeles Valiant,Lucio,1,27
+Molly,Los Angeles Valiant,Zenyatta,12,27
+MuZe,Toronto Defiant,Doomfist,12,26
+MuZe,Toronto Defiant,Reinhardt,2,26
+MuZe,Toronto Defiant,Winston,9,26
+MuZe,Toronto Defiant,Wrecking Ball,3,26
+Myunb0ng,New York Excelsior,Ana,15,32
+Myunb0ng,New York Excelsior,Baptiste,2,32
+Myunb0ng,New York Excelsior,Lucio,1,32
+Myunb0ng,New York Excelsior,Moira,2,32
+Myunb0ng,New York Excelsior,Zenyatta,12,32
+Nisha,Chengdu Hunters,Ana,11,39
+Nisha,Chengdu Hunters,Baptiste,2,39
+Nisha,Chengdu Hunters,Brigitte,17,39
+Nisha,Chengdu Hunters,Lucio,7,39
+Nisha,Chengdu Hunters,Mercy,1,39
+Nisha,Chengdu Hunters,Zenyatta,1,39
+OPENER,Washington Justice,Ana,2,22
+OPENER,Washington Justice,Baptiste,8,22
+OPENER,Washington Justice,Brigitte,4,22
+OPENER,Washington Justice,Lucio,8,22
+Ojee,Atlanta Reign,Ana,5,46
+Ojee,Atlanta Reign,Baptiste,11,46
+Ojee,Atlanta Reign,Brigitte,11,46
+Ojee,Atlanta Reign,Lucio,11,46
+Ojee,Atlanta Reign,Mercy,1,46
+Ojee,Atlanta Reign,Moira,2,46
+Ojee,Atlanta Reign,Zenyatta,5,46
+PELICAN,Houston Outlaws,Echo,6,46
+PELICAN,Houston Outlaws,Genji,17,46
+PELICAN,Houston Outlaws,Mei,2,46
+PELICAN,Houston Outlaws,Symmetra,7,46
+PELICAN,Houston Outlaws,Tracer,14,46
+Patiphan,Los Angeles Gladiators,Cassidy,1,26
+Patiphan,Los Angeles Gladiators,Genji,1,26
+Patiphan,Los Angeles Gladiators,Hanzo,2,26
+Patiphan,Los Angeles Gladiators,Mei,3,26
+Patiphan,Los Angeles Gladiators,Pharah,1,26
+Patiphan,Los Angeles Gladiators,Sojourn,13,26
+Patiphan,Los Angeles Gladiators,Soldier: 76,1,26
+Patiphan,Los Angeles Gladiators,Symmetra,1,26
+Patiphan,Los Angeles Gladiators,Tracer,2,26
+Patiphan,Los Angeles Gladiators,Widowmaker,1,26
+Piggy,Houston Outlaws,D.Va,2,17
+Piggy,Houston Outlaws,Doomfist,2,17
+Piggy,Houston Outlaws,Reinhardt,2,17
+Piggy,Houston Outlaws,Sigma,10,17
+Piggy,Houston Outlaws,Winston,1,17
+Pineapple,Hangzhou Spark,Hanzo,1,2
+Pineapple,Hangzhou Spark,Tracer,1,2
+Poko,London Spitfire,D.Va,5,13
+Poko,London Spitfire,Roadhog,1,13
+Poko,London Spitfire,Sigma,7,13
+Profit,Seoul Dynasty,Cassidy,1,47
+Profit,Seoul Dynasty,Echo,5,47
+Profit,Seoul Dynasty,Genji,3,47
+Profit,Seoul Dynasty,Hanzo,7,47
+Profit,Seoul Dynasty,Mei,2,47
+Profit,Seoul Dynasty,Pharah,2,47
+Profit,Seoul Dynasty,Symmetra,7,47
+Profit,Seoul Dynasty,Tracer,19,47
+Profit,Seoul Dynasty,Widowmaker,1,47
+Proper,San Francisco Shock,Genji,8,49
+Proper,San Francisco Shock,Hanzo,5,49
+Proper,San Francisco Shock,Sojourn,5,49
+Proper,San Francisco Shock,Soldier: 76,1,49
+Proper,San Francisco Shock,Symmetra,6,49
+Proper,San Francisco Shock,Tracer,18,49
+Proper,San Francisco Shock,Widowmaker,6,49
+Reiner,Los Angeles Gladiators,Doomfist,15,32
+Reiner,Los Angeles Gladiators,Orisa,2,32
+Reiner,Los Angeles Gladiators,Reinhardt,3,32
+Reiner,Los Angeles Gladiators,Roadhog,1,32
+Reiner,Los Angeles Gladiators,Sigma,2,32
+Reiner,Los Angeles Gladiators,Winston,6,32
+Reiner,Los Angeles Gladiators,Wrecking Ball,3,32
+Rio,Guangzhou Charge,Wrecking Ball,2,2
+Rupal,Florida Mayhem,Ana,3,20
+Rupal,Florida Mayhem,Baptiste,14,20
+Rupal,Florida Mayhem,Brigitte,1,20
+Rupal,Florida Mayhem,Lucio,1,20
+Rupal,Florida Mayhem,Moira,1,20
+SASIN,Los Angeles Valiant,Doomfist,1,8
+SASIN,Los Angeles Valiant,Sigma,1,8
+SASIN,Los Angeles Valiant,Zarya,6,8
+SP9RK1E,Dallas Fuel,Echo,5,38
+SP9RK1E,Dallas Fuel,Genji,9,38
+SP9RK1E,Dallas Fuel,Mei,1,38
+SP9RK1E,Dallas Fuel,Sombra,2,38
+SP9RK1E,Dallas Fuel,Symmetra,6,38
+SP9RK1E,Dallas Fuel,Tracer,15,38
+SPACE,Los Angeles Gladiators,Sigma,1,1
+Shax,London Spitfire,Symmetra,3,17
+Shax,London Spitfire,Tracer,10,17
+Shax,London Spitfire,Widowmaker,4,17
+SirMajed,Florida Mayhem,Ana,1,30
+SirMajed,Florida Mayhem,Baptiste,4,30
+SirMajed,Florida Mayhem,Brigitte,2,30
+SirMajed,Florida Mayhem,Lucio,7,30
+SirMajed,Florida Mayhem,Moira,2,30
+SirMajed,Florida Mayhem,Zenyatta,14,30
+Skairipa,Vancouver Titans,Ana,8,22
+Skairipa,Vancouver Titans,Baptiste,9,22
+Skairipa,Vancouver Titans,Lucio,3,22
+Skairipa,Vancouver Titans,Moira,2,22
+Someone,Florida Mayhem,D.Va,1,41
+Someone,Florida Mayhem,Doomfist,14,41
+Someone,Florida Mayhem,Reinhardt,8,41
+Someone,Florida Mayhem,Sigma,5,41
+Someone,Florida Mayhem,Winston,3,41
+Someone,Florida Mayhem,Wrecking Ball,6,41
+Someone,Florida Mayhem,Zarya,4,41
+SparkR,London Spitfire,Cassidy,5,44
+SparkR,London Spitfire,Sojourn,19,44
+SparkR,London Spitfire,Soldier: 76,4,44
+SparkR,London Spitfire,Sombra,3,44
+SparkR,London Spitfire,Symmetra,9,44
+SparkR,London Spitfire,Tracer,3,44
+SparkR,London Spitfire,Widowmaker,1,44
+Stalk3r,Seoul Dynasty,Ashe,3,27
+Stalk3r,Seoul Dynasty,Cassidy,1,27
+Stalk3r,Seoul Dynasty,Genji,1,27
+Stalk3r,Seoul Dynasty,Hanzo,1,27
+Stalk3r,Seoul Dynasty,Sojourn,9,27
+Stalk3r,Seoul Dynasty,Symmetra,4,27
+Stalk3r,Seoul Dynasty,Tracer,5,27
+Stalk3r,Seoul Dynasty,Widowmaker,3,27
+Superich,Hangzhou Spark,Ana,4,36
+Superich,Hangzhou Spark,Baptiste,13,36
+Superich,Hangzhou Spark,Brigitte,10,36
+Superich,Hangzhou Spark,Lucio,8,36
+Superich,Hangzhou Spark,Mercy,1,36
+Twilight,Toronto Defiant,Ana,23,41
+Twilight,Toronto Defiant,Baptiste,7,41
+Twilight,Toronto Defiant,Lucio,1,41
+Twilight,Toronto Defiant,Moira,6,41
+Twilight,Toronto Defiant,Zenyatta,4,41
+UltraViolet,Atlanta Reign,Ana,8,45
+UltraViolet,Atlanta Reign,Baptiste,13,45
+UltraViolet,Atlanta Reign,Lucio,9,45
+UltraViolet,Atlanta Reign,Moira,4,45
+UltraViolet,Atlanta Reign,Zenyatta,11,45
+Unique,Guangzhou Charge,Ana,10,37
+Unique,Guangzhou Charge,Baptiste,11,37
+Unique,Guangzhou Charge,Brigitte,7,37
+Unique,Guangzhou Charge,Lucio,9,37
+Valentine,Boston Uprising,Bastion,1,51
+Valentine,Boston Uprising,Echo,7,51
+Valentine,Boston Uprising,Genji,12,51
+Valentine,Boston Uprising,Hanzo,4,51
+Valentine,Boston Uprising,Mei,10,51
+Valentine,Boston Uprising,Sombra,3,51
+Valentine,Boston Uprising,Symmetra,2,51
+Valentine,Boston Uprising,Tracer,11,51
+Valentine,Boston Uprising,Widowmaker,1,51
+Venom,Atlanta Reign,Genji,3,37
+Venom,Atlanta Reign,Hanzo,2,37
+Venom,Atlanta Reign,Symmetra,9,37
+Venom,Atlanta Reign,Tracer,22,37
+Venom,Atlanta Reign,Widowmaker,1,37
+Vestola,Vegas Eternal,D.Va,2,13
+Vestola,Vegas Eternal,Doomfist,3,13
+Vestola,Vegas Eternal,Sigma,8,13
+Victoria,Boston Uprising,Cassidy,1,49
+Victoria,Boston Uprising,Hanzo,5,49
+Victoria,Boston Uprising,Sojourn,16,49
+Victoria,Boston Uprising,Soldier: 76,1,49
+Victoria,Boston Uprising,Symmetra,7,49
+Victoria,Boston Uprising,Tracer,10,49
+Victoria,Boston Uprising,Widowmaker,9,49
+Vindaim,Seoul Dynasty,Ana,1,47
+Vindaim,Seoul Dynasty,Baptiste,6,47
+Vindaim,Seoul Dynasty,Brigitte,15,47
+Vindaim,Seoul Dynasty,Lucio,10,47
+Vindaim,Seoul Dynasty,Mercy,2,47
+Vindaim,Seoul Dynasty,Moira,2,47
+Vindaim,Seoul Dynasty,Zenyatta,11,47
+Viol2t,San Francisco Shock,Ana,7,34
+Viol2t,San Francisco Shock,Baptiste,10,34
+Viol2t,San Francisco Shock,Brigitte,4,34
+Viol2t,San Francisco Shock,Lucio,4,34
+Viol2t,San Francisco Shock,Moira,1,34
+Viol2t,San Francisco Shock,Zenyatta,8,34
+Void,Shanghai Dragons,Doomfist,5,13
+Void,Shanghai Dragons,Sigma,5,13
+Void,Shanghai Dragons,Wrecking Ball,2,13
+Void,Shanghai Dragons,Zarya,1,13
+Xzi,Florida Mayhem,Ashe,1,25
+Xzi,Florida Mayhem,Cassidy,1,25
+Xzi,Florida Mayhem,Reaper,1,25
+Xzi,Florida Mayhem,Sojourn,11,25
+Xzi,Florida Mayhem,Soldier: 76,1,25
+Xzi,Florida Mayhem,Sombra,3,25
+Xzi,Florida Mayhem,Tracer,2,25
+Xzi,Florida Mayhem,Widowmaker,5,25
+Yaki,New York Excelsior,Echo,10,43
+Yaki,New York Excelsior,Genji,14,43
+Yaki,New York Excelsior,Hanzo,1,43
+Yaki,New York Excelsior,Reaper,1,43
+Yaki,New York Excelsior,Sombra,1,43
+Yaki,New York Excelsior,Symmetra,5,43
+Yaki,New York Excelsior,Tracer,11,43
+ZEST,Seoul Infernal,Echo,4,53
+ZEST,Seoul Infernal,Genji,7,53
+ZEST,Seoul Infernal,Hanzo,2,53
+ZEST,Seoul Infernal,Mei,7,53
+ZEST,Seoul Infernal,Sojourn,2,53
+ZEST,Seoul Infernal,Soldier: 76,1,53
+ZEST,Seoul Infernal,Symmetra,8,53
+ZEST,Seoul Infernal,Tracer,20,53
+ZEST,Seoul Infernal,Widowmaker,2,53
+carpe,Seoul Infernal,Ashe,2,15
+carpe,Seoul Infernal,Cassidy,1,15
+carpe,Seoul Infernal,Mei,1,15
+carpe,Seoul Infernal,Sojourn,7,15
+carpe,Seoul Infernal,Soldier: 76,1,15
+carpe,Seoul Infernal,Sombra,1,15
+carpe,Seoul Infernal,Symmetra,1,15
+carpe,Seoul Infernal,Tracer,1,15
+dridro,Vegas Eternal,Ana,7,46
+dridro,Vegas Eternal,Baptiste,8,46
+dridro,Vegas Eternal,Brigitte,12,46
+dridro,Vegas Eternal,Lucio,16,46
+dridro,Vegas Eternal,Mercy,3,46
+guriyo,Dallas Fuel,Cassidy,2,19
+guriyo,Dallas Fuel,Hanzo,1,19
+guriyo,Dallas Fuel,Mei,1,19
+guriyo,Dallas Fuel,Sojourn,8,19
+guriyo,Dallas Fuel,Sombra,1,19
+guriyo,Dallas Fuel,Symmetra,1,19
+guriyo,Dallas Fuel,Tracer,2,19
+guriyo,Dallas Fuel,Widowmaker,3,19
+ir1s,Houston Outlaws,Ana,21,33
+ir1s,Houston Outlaws,Baptiste,10,33
+ir1s,Houston Outlaws,Lucio,1,33
+ir1s,Houston Outlaws,Moira,1,33
+irony,Hangzhou Spark,Ana,6,27
+irony,Hangzhou Spark,Baptiste,2,27
+irony,Hangzhou Spark,Lucio,1,27
+irony,Hangzhou Spark,Zenyatta,18,27
+kevster,Los Angeles Gladiators,Echo,1,45
+kevster,Los Angeles Gladiators,Genji,9,45
+kevster,Los Angeles Gladiators,Hanzo,4,45
+kevster,Los Angeles Gladiators,Pharah,1,45
+kevster,Los Angeles Gladiators,Sojourn,3,45
+kevster,Los Angeles Gladiators,Symmetra,5,45
+kevster,Los Angeles Gladiators,Tracer,16,45
+kevster,Los Angeles Gladiators,Widowmaker,6,45
+mikeyy,San Francisco Shock,Doomfist,2,14
+mikeyy,San Francisco Shock,Winston,3,14
+mikeyy,San Francisco Shock,Wrecking Ball,9,14
+nero,Atlanta Reign,Echo,1,10
+nero,Atlanta Reign,Genji,2,10
+nero,Atlanta Reign,Hanzo,1,10
+nero,Atlanta Reign,Mei,1,10
+nero,Atlanta Reign,Sojourn,1,10
+nero,Atlanta Reign,Sombra,3,10
+nero,Atlanta Reign,Tracer,1,10
+punk,Boston Uprising,D.Va,1,30
+punk,Boston Uprising,Doomfist,14,30
+punk,Boston Uprising,Sigma,13,30
+punk,Boston Uprising,Winston,2,30
+s9mm,San Francisco Shock,Echo,6,31
+s9mm,San Francisco Shock,Genji,4,31
+s9mm,San Francisco Shock,Hanzo,10,31
+s9mm,San Francisco Shock,Mei,1,31
+s9mm,San Francisco Shock,Sojourn,5,31
+s9mm,San Francisco Shock,Sombra,4,31
+s9mm,San Francisco Shock,Tracer,1,31
+sHockWave,Vancouver Titans,Ashe,3,38
+sHockWave,Vancouver Titans,Cassidy,1,38
+sHockWave,Vancouver Titans,Echo,6,38
+sHockWave,Vancouver Titans,Genji,2,38
+sHockWave,Vancouver Titans,Hanzo,6,38
+sHockWave,Vancouver Titans,Sojourn,9,38
+sHockWave,Vancouver Titans,Sombra,4,38
+sHockWave,Vancouver Titans,Symmetra,2,38
+sHockWave,Vancouver Titans,Widowmaker,5,38
+shu,Los Angeles Gladiators,Ana,16,31
+shu,Los Angeles Gladiators,Baptiste,4,31
+shu,Los Angeles Gladiators,Lucio,4,31
+shu,Los Angeles Gladiators,Moira,2,31
+shu,Los Angeles Gladiators,Zenyatta,5,31
+shy,Hangzhou Spark,Ashe,11,31
+shy,Hangzhou Spark,Junkrat,1,31
+shy,Hangzhou Spark,Sojourn,14,31
+shy,Hangzhou Spark,Widowmaker,5,31
+skewed,Los Angeles Gladiators,Ana,1,24
+skewed,Los Angeles Gladiators,Baptiste,4,24
+skewed,Los Angeles Gladiators,Brigitte,6,24
+skewed,Los Angeles Gladiators,Mercy,1,24
+skewed,Los Angeles Gladiators,Zenyatta,12,24
+smurf,Seoul Dynasty,D.Va,1,49
+smurf,Seoul Dynasty,Doomfist,17,49
+smurf,Seoul Dynasty,Orisa,1,49
+smurf,Seoul Dynasty,Reinhardt,1,49
+smurf,Seoul Dynasty,Roadhog,2,49
+smurf,Seoul Dynasty,Sigma,13,49
+smurf,Seoul Dynasty,Winston,5,49
+smurf,Seoul Dynasty,Wrecking Ball,2,49
+smurf,Seoul Dynasty,Zarya,7,49
+vigilante,Washington Justice,Ana,13,22
+vigilante,Washington Justice,Baptiste,2,22
+vigilante,Washington Justice,Brigitte,1,22
+vigilante,Washington Justice,Lucio,2,22
+vigilante,Washington Justice,Moira,2,22
+vigilante,Washington Justice,Zenyatta,2,22
+wub,Vegas Eternal,Echo,4,45
+wub,Vegas Eternal,Genji,8,45
+wub,Vegas Eternal,Hanzo,7,45
+wub,Vegas Eternal,Sojourn,9,45
+wub,Vegas Eternal,Sombra,3,45
+wub,Vegas Eternal,Symmetra,3,45
+wub,Vegas Eternal,Tracer,9,45
+wub,Vegas Eternal,Widowmaker,2,45
